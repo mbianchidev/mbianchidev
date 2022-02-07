@@ -10,4 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbianchidev)](https://github.com/anuraghazra/github-readme-stats)
 
-P.s. obvy this readme is a total WIP.
+P.s. obvy this readme is a total WIP. I don't use javascript (actually typescript) that much, I swear
