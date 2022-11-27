@@ -19,6 +19,8 @@ Fun facts: I'm a gamer, combat sports amateur fighter, metal singer and junior p
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=mbianchidev&count_private=true&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mbianchidev&count_private=true&show_icons=true&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://github.com/mbianchidev)
+
 ### "Top" but not really I'm actually Languages : 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbianchidev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
