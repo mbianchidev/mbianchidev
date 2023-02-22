@@ -3,12 +3,12 @@
 First of all: hi / hola / hoi / ciao
 
 Is this the part where I tell you to visit my [website](https://mb-consulting.dev)? 
-No? okè :(
+Yes it is! Do it :)
 
-This is just a template but it does its job, I guess!
+This is just a template but it does its job, I guess.
 
-- 🔭 I’m currently working on my RedHat exams RHCA and RHCE to become a better coach for Ansible and RedHat-related techs
-- 🌱 I’m currently exploring new techs to become a better developer and engineer
+- 🔭 I’m currently working on my team management strategies since I'm now a CTO.
+- 🌱 I’m always exploring new techs to become a better Software Engineer and DevOps
 - 👯 I’m looking to collaborate on any kind of Open Source Project - hit me up!
 - 💬 Ask me about DevOps Engineering, Site Reliability, Software Engineering (and music too)
 - 📫 How to reach me: [click here](https://mb-consulting.dev/all-links)
@@ -20,6 +20,8 @@ Fun facts: I'm a gamer, combat sports amateur fighter, metal singer and junior p
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=mbianchidev&count_private=true&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mbianchidev&count_private=true&show_icons=true&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://github.com/mbianchidev)
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mbianchidev&" alt="codekaito" /></p>
 
 ### "Top" but not really laguages I'm using : 
 
