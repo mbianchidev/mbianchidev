@@ -17,11 +17,7 @@ Fun facts: I'm a gamer, combat sports amateur fighter, metal singer and junior p
 
 ### ⚡ Github Stats : 
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=mbianchidev&count_private=true&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mbianchidev&count_private=true&show_icons=true&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://github.com/mbianchidev)
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mbianchidev&" alt="codekaito" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mbianchidev&theme=prussian&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=EB8E23)](https://git.io/streak-stats)
 
 ### "Top" but not really laguages I'm using : 
 
