@@ -22,9 +22,9 @@ Fun facts: I'm a gamer, combat sports amateur fighter, metal singer and junior p
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mbianchidev&theme=github-compact)](https://github.com/mbianchidev/github-readme-activity-graph)
 
 <a href="https://github.com/mbianchidev">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mbianchidev&theme=github_dark" width="33.33%">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbianchidev&theme=github_dark" width="33.33%">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mbianchidev&theme=github_dark" width="33.33%">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mbianchidev&theme=github_dark" width="32.5%">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbianchidev&theme=github_dark" width="32.5%">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mbianchidev&theme=github_dark" width="32.5%">
 </a>
 
 I can explain the JS thing, I swear
