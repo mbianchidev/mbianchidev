@@ -19,7 +19,9 @@ Fun facts: I'm a gamer, combat sports amateur fighter, metal singer and junior p
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mbianchidev&theme=prussian&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=EB8E23)](https://git.io/streak-stats)
 
-### "Top" but not really laguages I'm using : 
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mbianchidev&theme=github-compact)](https://github.com/mbianchidev/github-readme-activity-graph)
+
+### "Top" but not really laguages I'm using 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbianchidev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
