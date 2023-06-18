@@ -19,8 +19,6 @@ Fun facts: I'm a gamer, combat sports amateur fighter, metal singer and junior p
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mbianchidev&theme=prussian&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=EB8E23)](https://git.io/streak-stats)
 
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mbianchidev&theme=github-compact)](https://github.com/mbianchidev/github-readme-activity-graph)
-
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbianchidev&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
 
 <a href="https://github.com/mbianchidev">
