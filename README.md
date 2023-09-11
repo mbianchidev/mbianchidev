@@ -7,9 +7,9 @@ Yes it is! Do it :)
 
 This is just a template but it kinda does its job.
 
-- 🔭 I’m currently busy working on my team management strategies as CTO, also building a Platform Engineering product but shhh, it's a secret.
+- 🔭 I’m always busy coding something new or exploring a new framework (Astro atm).
 - 🌱 I’m always exploring new techs to become a better Engineer as I do believe in hands-on Engineering Management :)
-- 💬 Ask me about DevOps/Platform/Site Reliability Engineering, Security or Software Engineering (and music too)
+- 💬 Ask me about DevOps/Platform/Site Reliability Engineering, Security or Software Engineering in the broader sense. If you don't want to talk about IT you can always ask me about: music, (personal) finance, politics or whatever! I'm always up for a convo
 - 📫 How to reach me: [click here](https://mb-consulting.dev/all-links)
 
 Fun facts: I'm a gamer, combat sports amateur fighter, metal singer and electronic music producer!
