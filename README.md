@@ -5,7 +5,7 @@ Fun facts: I'm a gamer, combat sports amateur fighter, metal singer and electron
 
 ---
 
-### Some of the stuff I know
+#### Some of the stuff I know
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
