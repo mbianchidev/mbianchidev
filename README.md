@@ -3,20 +3,9 @@
 
 Fun facts: I'm a gamer, combat sports amateur fighter, metal singer and electronic music producer!
 
-### ⚡ I like stats : 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mbianchidev&theme=prussian&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=EB8E23)](https://git.io/streak-stats)
-
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbianchidev&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
-
-<a href="https://github.com/mbianchidev">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mbianchidev&theme=github_dark" width="50%">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbianchidev&theme=github_dark" width="50%">
-</a>
-
 ---
 
-### Stuff I know
+### Some of the stuff I know
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -40,7 +29,7 @@ Fun facts: I'm a gamer, combat sports amateur fighter, metal singer and electron
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
-#### Stuff I wanna (maybe one day) know
+#### Stuff I wanna (maybe one day) know better
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -49,10 +38,7 @@ Fun facts: I'm a gamer, combat sports amateur fighter, metal singer and electron
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-And more...
----
-
-### Couldn't live a day without
+#### Couldn't live a day without
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
