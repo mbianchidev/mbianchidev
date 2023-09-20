@@ -1,4 +1,6 @@
-- 🔭 Currently exploring Astro and leetcoding
+#### Hi there!
+
+- 🔭 I'm currently exploring Astro and leetcoding for interviews
 - 📫 How to reach me: [click here](https://mb-consulting.dev/all-links)
 
 Fun facts: I'm a gamer, combat sports amateur fighter, metal singer and electronic music producer!
