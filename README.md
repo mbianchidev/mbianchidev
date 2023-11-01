@@ -20,15 +20,18 @@ Wanna book a meeting instead? Here's a secret [link](https://mb-consulting.dev/s
 - [A Kubernetes based startup](https://www.kubelab.com)
 - [KLab-CLI](https://github.com/mbianchidev/klab-cli)
 - [A community of italian freelancers](https://www.linkedin.com/groups/14023713/)
+- [A live podcast](https://www.twitch.tv/freelancezoo)
 - [My blog](https://mb-consulting.dev/blog)
 - [A 2D videogame](https://github.com/mbianchidev/blockster-2d)
 - [A metal band](https://www.youtube.com/watch?v=XBrvnVmkYJw)
+- An extreme vocal coaching course - _I teach people how to scream_
+- Electronic music - _ask me about it!_
 - [A lot of playlists](https://open.spotify.com/user/1169908688?si=f484127a02164fc7)
-- A Twitch channel (cringe, not sharing the link here)
+- A Twitch gaming channel _cringe-y, not sharing the link here_
 - A passion for combat sports (Kickboxing, K1, Muay Thai, BJJ, MMA)
-- A passion for eSports (yeah I've been into League of Legends for a while)
-- My culinary skills (people say I'm a decent cook)
-- Lots of D&D PGs (most of them passed away, sigh)
+- A passion for eSports _yeah I've been very much into League of Legends for 10 years_
+- My culinary skills - _I'm Italian I literally can't be (too) bad at it_
+- Lots of D&D PGs - most of them passed away, sigh.
 - Memes. A lot of memes.
 - Tons of relationships with people all over the world, in the tech industry but also in the music industry. I'm a people person!
 
@@ -59,6 +62,11 @@ Wanna book a meeting instead? Here's a secret [link](https://mb-consulting.dev/s
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
+#### Some of the stuff I'm learning and/or trying out
+
+- Chess ♟️
+- [Astro](https://astro.new/latest) 🌌
+
 #### Couldn't live a day without
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -78,11 +86,14 @@ The reason I decided to start my journey in 2021 as a freelance professional was
 
 As a freelancer I coached and mentored my padawans (ehm I mean, my students) about DevOps principles and practices. I also helped companies to improve their DevEx and DevOps approach.
 
-In the time I've been in the IT industry, up and down since 2015, I've learned a lot from hands on experience and had the opportunity to interact with truly amzing people.
+In the time I've been in the IT industry, up and down since 2015, I've learned a lot from hands on experience and had the opportunity to interact with truly amazing people.
 
 In 2023 I took the next step and I've been the CTO of a startup for one year, where I enjoyed the challenge of building a new company culture, a service and a product from scratch and of course taking care of my team.
 
 In the end we could not find the Product-Market Fit and had to step back, but quoting Yoda: "The greatest teacher, failure is."
+
+I advocate for Cloud Native technologies, I'm a k8s lover and part of the CNCF community.
+My hottest take of 2023: Platform Engineering is "just" DevOps on steroids.
 
 In 2024 I'll try to move, possibly away from Europe and hopefully starting a new exciting adventure in the software industry!
 
