@@ -1,8 +1,10 @@
 #### Hi there!
 
-My name is Matteo but my nicknames are many, depending on the many context you find me in (gaming? reddit?).
+My name is Matteo but my nicknames are many, depending on the many context you find me in (gaming? reddit? music?).
+
 I'm an engineer living in Europe, working as freelance Cloud Native Consultant.
-In my spare time I [mentor](https://mb-consulting.dev/mentor) people and [help startups](https://www.mb-consulting.dev/service/mentoring-services) filling their tech gaps. I organize(d) Kubernetes Community Days in the Netherlands.
+In my spare time I [mentor](https://mb-consulting.dev/mentor) people, [help startups](https://www.mb-consulting.dev/service/mentoring-services) filling their tech gaps and [blog](https://mb-consulting.dev/blog) about tech and life.
+I organize(d) Kubernetes Community Days in the Netherlands.
 
 📫 How to reach me: [click here](https://mb-consulting.dev/all-links)
 
@@ -15,7 +17,25 @@ Wanna book a meeting instead? Here's a secret [link](https://mb-consulting.dev/s
 - Reliability
 - Creativity
 
-#### Some of the stuff I've built
+#### My mission
+
+- Keeping the world a better place by building something meaningful and impactful.
+- I want to help engineers to achieve their goals, by sharing my knowledge and experience, giving back to the community that helped me to grow.
+- Advocating for Cloud Native Open-Source technologies. Open-Source has been the past, is the present and will be the future of IT.
+- Simplify the life of my fellow developers and engineers, by building tools and services that make their life easier. 
+
+#### Big Hairy Audacious Goal
+
+I want to change the life of at least 1 million developers in the next 5 years.
+
+#### Quotes
+
+- Code is a liability.
+- Data is a company's most valuable asset. Protect it.
+- The best code is unwritten code.
+- People are way more important than code or data.
+
+#### Some of the stuff I've built and/or contributed to
 
 - [A Kubernetes based startup](https://www.kubelab.com)
 - [KLab-CLI](https://github.com/mbianchidev/klab-cli)
@@ -27,6 +47,7 @@ Wanna book a meeting instead? Here's a secret [link](https://mb-consulting.dev/s
 - An extreme vocal coaching course - _I teach people how to scream_
 - Electronic music - _ask me about it!_
 - [A lot of playlists](https://open.spotify.com/user/1169908688?si=f484127a02164fc7)
+- [KCD Netherlands](https://community.cncf.io/kcd-netherlands/)
 - A Twitch gaming channel _cringe-y, not sharing the link here_
 - A passion for combat sports (Kickboxing, K1, Muay Thai, BJJ, MMA)
 - A passion for eSports _yeah I've been very much into League of Legends for 10 years_
@@ -64,7 +85,7 @@ Wanna book a meeting instead? Here's a secret [link](https://mb-consulting.dev/s
 
 #### Some of the stuff I'm learning and/or trying out
 
-- Chess ♟️
+- Chess (around 1000 elo atm) ♟️
 - [Astro](https://astro.new/latest) 🌌
 
 #### Couldn't live a day without
