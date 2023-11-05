@@ -24,78 +24,46 @@ Wanna book a meeting instead? Here's a secret [link](https://mb-consulting.dev/s
 - Advocating for Cloud Native Open-Source technologies. Open-Source has been the past, is the present and will be the future of IT.
 - Simplify the life of my fellow developers and engineers, by building tools and services that make their life easier. 
 
-#### Big Hairy Audacious Goal
+#### Big Hairy Audacious Goal (can I say the naming is terrible?)
 
 I want to change the life of at least 1 million developers in the next 5 years.
 
-#### Quotes
+#### Quotes I try to live by
 
-- Code is a liability.
-- Data is a company's most valuable asset. Protect it.
-- The best code is unwritten code.
-- People are way more important than code or data.
+- "If you torture the data long enough, it will confess to anything." - _Ronald Coase_
+- The best code is no code at all. - [_Coding Horror blog_](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
+- "Clear is kind. Unclear is unkind." - _Brene Brown_
+- "Homines dum docent discunt." / Humans learn while they teach. - _Seneca_
 
-#### Some of the stuff I've built and/or contributed to
+#### Achievements
 
-- [A Kubernetes based startup](https://www.kubelab.com)
-- [KLab-CLI](https://github.com/mbianchidev/klab-cli)
-- [A community of italian freelancers](https://www.linkedin.com/groups/14023713/)
-- [A live podcast](https://www.twitch.tv/freelancezoo)
-- [My blog](https://mb-consulting.dev/blog)
-- [A 2D videogame](https://github.com/mbianchidev/blockster-2d)
-- [A metal band](https://www.youtube.com/watch?v=XBrvnVmkYJw)
-- An extreme vocal coaching course - _I teach people how to scream_
-- Electronic music - _ask me about it!_
-- [A lot of playlists](https://open.spotify.com/user/1169908688?si=f484127a02164fc7)
-- [KCD Netherlands](https://community.cncf.io/kcd-netherlands/)
-- A Twitch gaming channel _cringe-y, not sharing the link here_
-- A passion for combat sports (Kickboxing, K1, Muay Thai, BJJ, MMA)
-- A passion for eSports _yeah I've been very much into League of Legends for 10 years_
-- My culinary skills - _I'm Italian I literally can't be (too) bad at it_
-- Lots of D&D PGs - most of them passed away, sigh.
-- Memes. A lot of memes.
-- Tons of relationships with people all over the world, in the tech industry but also in the music industry. I'm a people person!
+- [Kubernetes based startup](https://www.kubelab.com) - DevTools for Kubernetes
+- [KLab-CLI](https://github.com/mbianchidev/klab-cli) - an all-in-one CLI to manage K8s clusters on AWS, Azure and GCP
+- [Helped a cancer research center to save more lifes](https://www.linkedin.com/pulse/kubelab-netherlands-cancer-institute-partner-around-ai-peter-comstock/?utm_source=rss&utm_campaign=articles_sitemaps&utm_medium=google_news) - Machine Learning on Azure Cloud infrastructure, connected to a mobile gaming app, what a game changer!
+- [My tech blog](https://mb-consulting.dev/blog) - 50k+ views monthly, 600+ subscribers
+- [Co-organized KCD Netherlands](https://community.cncf.io/kcd-netherlands/) - KCD Utrecht 2023
+- [Built a community of italian freelancers](https://www.linkedin.com/groups/14023713/) - 600 members
+- [Hosted a live podcast about IT](https://www.twitch.tv/freelancezoo)
+- [A funny 2D game](https://github.com/mbianchidev/blockster-2d)
+- [My old metal band](https://www.youtube.com/watch?v=XBrvnVmkYJw) - 50k+ views/listen _I sing_
+- All the marvellous relationships I've built with people all over the world, in the tech industry but also in the music industry. I'm a people person!
+
+#### Extra about me
+
+Read [here](extra.md)
 
 ---
 
-#### Some of the stuff I know
+#### Tech stack
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) + ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-
-#### Some of the stuff I'm learning and/or trying out
-
-- Chess (around 1000 elo atm) ♟️
-- [Astro](https://astro.new/latest) 🌌
-
-#### Couldn't live a day without
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+See my (partial) tech stack [here](tech-stack.md)
 
 #### Important 
 
 - [public GPG key](files/gpgkey.pub)
+- [note to recruiters and companies](note-to-recruiters.md)
+- [note to current and future colleagues](note-to-colleagues.md)
+- I have an open calendar, use it!
 
 #### Long story (never) short
 
