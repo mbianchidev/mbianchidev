@@ -3,7 +3,7 @@
 My name is Matteo but my nicknames are many, depending on the many context you find me in (gaming? reddit? music?).
 
 I'm an engineer living in Europe, working as freelance Cloud Native Consultant.
-In my spare time I [mentor](https://mb-consulting.dev/mentor) people, [help startups](https://www.mb-consulting.dev/service/mentoring-services) filling their tech gaps and [blog](https://mb-consulting.dev/blog) about tech and life.
+In my spare time I [mentor](https://mb-consulting.dev/mentor) people, [help startups](https://www.mb-consulting.dev/service/mentoring-services) filling their tech gaps and [blog](blog/readme.md) about tech and life.
 I organize(d) Kubernetes Community Days in the Netherlands.
 
 📫 How to reach me: [click here](https://mb-consulting.dev/all-links)
