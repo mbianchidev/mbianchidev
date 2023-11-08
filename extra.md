@@ -28,11 +28,30 @@
 - Chess (around 1000 elo atm) ♟️
 - [Astro](https://astro.new/latest) 🌌
 
+#### My recommended books
+
+#### Books list
+
+Books I recommend about investing, personal finance and more.
+
+| Name | Url | Summary |
+| --- | --- | --- |
+| A random walk down Wall Street | [Amazon aff. link](https://amzn.to/3ZfNgJ0) | A Random Walk Down Wall Street is a book about investing by Burton Malkiel |
+| So Good They Can't Ignore You | [Amazon aff. link](https://amzn.to/3Px7d9N) | So Good They Can't Ignore You is a book about career advice by Cal Newport |
+| The Intelligent Investor | [Amazon aff. link](https://amzn.to/44IOj57) | The Intelligent Investor is a book about value investing by Benjamin Graham |
+| The Little Book of Common Sense Investing | [Amazon aff. link](https://amzn.to/467d8Zs) | The Little Book of Common Sense Investing is a book about index investing by John C. Bogle |
+| The Four Pillars of Investing | [Amazon aff. link](https://amzn.to/45L24BK) | The Four Pillars of Investing is a book about investing by William J. Bernstein |
+| The Four Hour Work Week | [Amazon aff. link](https://amzn.to/48cCmYz) | The Four Hour Work Week is a book about productivity by Tim Ferriss |
+| Deep Work | [Amazon aff. link](https://amzn.to/45KXYcS) | Deep Work is a book about productivity by Cal Newport |
+| The 80/20 Principle | [Amazon aff. link](https://amzn.to/3sSlvKs) | The 80/20 Principle is a book about productivity by Richard Koch |
+| The psychology of money | [Amazon aff. link](https://amzn.to/3ZcgacQ) | The psychology of money is a book about personal finance by Morgan Housel |
+| Zero to One: Notes on Startups, or How to Build the Future | [Amazon aff. link](https://amzn.to/3sSlBBO) | Zero One is a book about startups by Peter Thiel |
+| The Subtle Art of Not Giving a F*ck | [Amazon aff. link](https://amzn.to/3sNOWNw) | The Subtle Art of Not Giving a F*ck is a book about life by Mark Manson |
+| The Alchemist | [Amazon aff. link](https://amzn.to/485Ydk9) | The Alchemist is a book about life by Paulo Coelho |
+
 #### Past jobs unrelated to tech
 
 - Piercer
 - Bartender
 - Security - clubs, concerts, festivals
 - Pizza delivery guy
-
-
