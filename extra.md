@@ -1,6 +1,7 @@
 #### In my free (really free) time...
 
 - I read books about psychology, philosophy, history, science, technology, business, finance, etc. - _I'm a nerd 🤓_
+- I curate a list of personal finance resources [here](https://github.com/mbianchidev/financial-cool)
 - I go to concerts! - _I'm a metalhead 🤘_
 - I hike - _I'm a nature lover 🌲_
 - I try to stay fit and used to do combat sports (Kickboxing, K1, Muay Thai, BJJ, MMA), now I just go to the boring gym - _I'm a former amateur fighter 🥊_
