@@ -54,12 +54,12 @@ Books I recommend for my fellow developers and engineers.
 | Name | Url | Summary |
 | --- | --- | --- |
 | The Pragmatic Programmer | - | The Pragmatic Programmer is a book about software development by Andrew Hunt and David Thomas |
-| Clean Code | - | Clean Code is a book about software development by Robert C. Martin |
-| Accelerate | - | Accelerate is a book about software development by Nicole Forsgren, Jez Humble and Gene Kim |
-| The Phoenix Project | - | The Phoenix Project is a book about software development by Gene Kim, Kevin Behr and George Spafford |
-| The Lean Startup | - | The Lean Startup is a book about software development by Eric Ries |
-| Team Topologies | - | Team Topologies is a book about software development by Matthew Skelton and Manuel Pais |
-| DevOps Handbook | - | DevOps Handbook is a book about software development by Gene Kim, Jez Humble, Patrick Debois and John Willis |
+| Clean Code | - | Clean Code is a book about writing good readable code by Robert C. Martin |
+| Accelerate | - | Accelerate is a book about scaling DevOps by Nicole Forsgren, Jez Humble and Gene Kim |
+| The Phoenix Project | - | The Phoenix Project is a story about DevOps by Gene Kim, Kevin Behr and George Spafford |
+| The Lean Startup | - | The Lean Startup is a book about doing startup the "right" way by Eric Ries |
+| Team Topologies | - | Team Topologies is a book about team structures in IT by Matthew Skelton and Manuel Pais |
+| DevOps Handbook | - | DevOps Handbook is a book about, well, DevOps? by Gene Kim, Jez Humble, Patrick Debois and John Willis |
 
 #### Past jobs unrelated to tech (teenage years)
 
