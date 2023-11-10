@@ -28,6 +28,8 @@ I will **never** scream at you, I expect the same from you.
 
 If you're angry it's completely valid. You need to take a break, go for a walk, do something else, then come back and we will talk about it. ❤️
 
+Btw I can also scream at a higher volume than you, here's [proof](https://www.youtube.com/watch?v=mqukHybn6zg) 😂
+
 ## Touching 
 
 I really don't like to be touched, unless I explicitly gave consent for it. 
