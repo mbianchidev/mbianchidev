@@ -12,7 +12,7 @@
 - I used to stream on a Twitch gaming channel _cringe-y, not sharing the link here 😳_
 - I've been playing League of Legends for 10+ years, peak elo higher than yours! 💎 But now I mostly play single player games: Elden Ring is the last one I played as of 2023. 👾
 - I perfected my famous risotto recipe - _I'm Italian 🇮🇹 I literally can't be (too) bad at cooking_
-- I built tons of D&D PGs - most of them passed away, sigh. 🎲
+- I gave birth to tons of D&D PGs - most of them passed away, sigh. _I do love tablegames and RPGs_ 🎲
 - I brewed my own beer and worked as a bartender - _I'm an IPA lover 🍺_
 - I had a moderately-famous Facebook meme page back in the trollface days (around 2010) - _I'm somewhat proud of it, lol_
 
@@ -32,7 +32,7 @@
 
 #### Books list
 
-Books I recommend about investing, personal finance and more.
+Books I recommend about investing, personal finance and life.
 
 | Name | Url | Summary |
 | --- | --- | --- |
@@ -49,9 +49,21 @@ Books I recommend about investing, personal finance and more.
 | The Subtle Art of Not Giving a F*ck | [Amazon aff. link](https://amzn.to/3sNOWNw) | The Subtle Art of Not Giving a F*ck is a book about life by Mark Manson |
 | The Alchemist | [Amazon aff. link](https://amzn.to/485Ydk9) | The Alchemist is a book about life by Paulo Coelho |
 
-#### Past jobs unrelated to tech
+Books I recommend for my fellow developers and engineers.
+
+| Name | Url | Summary |
+| --- | --- | --- |
+| The Pragmatic Programmer | - | The Pragmatic Programmer is a book about software development by Andrew Hunt and David Thomas |
+| Clean Code | - | Clean Code is a book about software development by Robert C. Martin |
+| Accelerate | - | Accelerate is a book about software development by Nicole Forsgren, Jez Humble and Gene Kim |
+| The Phoenix Project | - | The Phoenix Project is a book about software development by Gene Kim, Kevin Behr and George Spafford |
+| The Lean Startup | - | The Lean Startup is a book about software development by Eric Ries |
+| Team Topologies | - | Team Topologies is a book about software development by Matthew Skelton and Manuel Pais |
+| DevOps Handbook | - | DevOps Handbook is a book about software development by Gene Kim, Jez Humble, Patrick Debois and John Willis |
+
+#### Past jobs unrelated to tech (teenage years)
 
 - Piercer
 - Bartender
-- Security - clubs, concerts, festivals
+- Security - clubs, concerts, music festivals
 - Pizza delivery guy
