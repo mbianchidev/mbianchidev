@@ -1,6 +1,6 @@
 # User Manual: How to work with me
 
-Hi there future (or current) colleague! 👋
+Heya there future (or current) colleague! 👋
 
 This is a manual to help you understand how to work with me.
 Please use he/him pronouns when referring to me, thanks!
@@ -26,11 +26,11 @@ I just don't want to do politics or talk about religion at work. I'm really not 
 I can't stand people (regardless of their role in the company) screaming at me. I'm a human being, not a machine. I have feelings and emotions.
 I will **never** scream at you, I expect the same from you.
 
-If you're angry it's completely valid. You need to take a break, go for a walk, do something else, then come back and talk about it.
+If you're angry it's completely valid. You need to take a break, go for a walk, do something else, then come back and we will talk about it. ❤️
 
 ## Touching 
 
-I really don't like to be touched, unless I explicitly ask for it. 
+I really don't like to be touched, unless I explicitly gave consent for it. 
 I'm not a hugger on the job. I'm a handshaker, high-fiver and a fist-bumper!
 
 I also don't like if you touch my stuff without asking or when I'm not around. I will notice.
@@ -43,12 +43,14 @@ Are you giving me specific information about something? Context first!
 
 Are you asking me to do something? Context (and your subjective urgency evaluation), please.
 
+Context is love, context is life.
+
 ## Communication
 
-- Email ✅ - I check it twice a day (morning and afternoon)
+- Email ✅ - I usually check it twice a day (morning and afternoon)
 - Slack ✅ - Love them messages and huddles, I check it every 1 hour or so unless I'm mentioned
 - Phone (work) ✅ - I reply if I am on-call or if it's an emergency, otherwise I will call you back when I'm available
-- Phone (personal) ❌ - You probably won't have my personal number (sorry, I separate 100% work and personal life)
+- Phone (personal) ❌ - You probably won't have my personal number (sorry, I separate 99.9% work and personal life)
 - Jira or similar sw ❌ - I might be involved in 50+ tickets at the same time, so please message me on Slack or send me an email if you need me to do or check something.
 - Social media 🟡 - I check them once a day and sometimes I don't reply at all, so please don't use them for work-related stuff!
 
@@ -72,7 +74,7 @@ Examples:
 - Straight to the point ✅
 - Context ✅
 
-"Hello Matteo"
+"Hello Matteo" and then disappearing until I reply
 
 - Waste of time ❌
 
@@ -115,4 +117,4 @@ I will ask for a lot of advice rather than feedback, I'm more comfortable with t
 
 I won't blame anyone for making mistakes, I make a lot of them myself. I ask you to do the same and in return I will try to learn and make the most out of them. If we are not making mistakes we are not learning.
 
-p.s. If we have a good relationship I might make fun of you for making a mistake, but I will do it in a friendly way and expect you to do the same, I promise!
+p.s. If we have a good relationship I might make fun of you for making a mistake, but I will do it in a friendly way and expect you to do the same, I promise! 🤝

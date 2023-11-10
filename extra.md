@@ -7,7 +7,7 @@
 - I try to stay fit and used to do combat sports (Kickboxing, K1, Muay Thai, BJJ, MMA), now I just go to the boring gym - _I'm a former amateur fighter 🥊_
 - I have an extreme vocal coaching course - _I teach people how to scream 🎤_
 - I compose(d) electronic music - _ask me about it! 🤖_
-- [I have a lot of cool Spotify playlists](https://open.spotify.com/user/1169908688?si=f484127a02164fc7)
+- [I curate my Spotify playlists](https://open.spotify.com/user/1169908688?si=f484127a02164fc7)
 - I get tattoos - _I'm a tattoo lover 🖤_
 - I used to stream on a Twitch gaming channel _cringe-y, not sharing the link here 😳_
 - I've been playing League of Legends for 10+ years, peak elo higher than yours! 💎 But now I mostly play single player games: Elden Ring is the last one I played as of 2023. 👾
