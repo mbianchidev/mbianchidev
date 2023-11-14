@@ -19,9 +19,9 @@ Wanna book a meeting instead? Here's a secret [link](https://mb-consulting.dev/s
 
 #### My mission
 
-- Keeping the world a better place by building something meaningful and impactful.
-- I want to help engineers to achieve their goals, by sharing my knowledge and experience, giving back to the community that helped me to grow.
-- Advocating for Cloud Native Open-Source technologies. Open-Source has been the past, is the present and will be the future of IT.
+- Do my best to make the world a better place by building something meaningful and impactful.
+- Help engineers to achieve their goals, sharing my knowledge and experience and giving back to the community that helped me to grow.
+- Advocate for Cloud Native Open-Source technologies. Open-Source has been the past, is the present and will be the future of IT and powers the world we live in today.
 - Simplify the life of my fellow developers and engineers, by building tools and services that make their life easier. 
 
 #### Big Hairy Audacious Goal (can I say the naming is terrible?)
@@ -54,20 +54,20 @@ I learn a lot by teaching, I'm a teacher at heart and I love to share my knowled
 - [My tech blog](https://mb-consulting.dev/blog) - 50k+ views monthly, 800+ subscribers
 - [Co-organized KCD Netherlands](https://community.cncf.io/kcd-netherlands/) - KCD Utrecht 2023
 - [Built a community of italian freelancers](https://www.linkedin.com/groups/14023713/) - 600 members
-- [Hosted a live podcast about IT](https://www.twitch.tv/freelancezoo)
-- [A funny 2D game](https://github.com/mbianchidev/blockster-2d) made during a hackaton
-- [My old metal band](https://www.youtube.com/watch?v=XBrvnVmkYJw) - 50k+ views/listen _I sing_
+- [Hosted a live podcast about IT and freelancing](https://www.twitch.tv/freelancezoo)
+- [An engaging 2D game](https://github.com/mbianchidev/blockster-2d) built during a hackaton
+- [My former metal band](https://www.youtube.com/watch?v=XBrvnVmkYJw) - 50k+ views/listen _I sing_
 - All the marvellous relationships I've built with people all over the world, in the tech industry but also in the music industry. I'm a people person!
 
 #### Extra about me
 
-Read [here](extra.md)
+Read [here](extra.md) if you are curious about my hobbies and interests.
 
 ---
 
 #### Tech stack
 
-See my (partial) tech stack [here](tech-stack.md)
+See my (partial) tech stack [here](tech-stack.md), I will try to keep it updated and to find a better way to display it. Suggestions are welcome!
 
 #### Important 
 
