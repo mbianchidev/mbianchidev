@@ -6,6 +6,8 @@ Submitted to:
 Accepted to: 
 - TBD
 
+**Format**: Standard (25/35 minutes)
+
 **Slides**: TBD
 
 ## Description / Abstract
