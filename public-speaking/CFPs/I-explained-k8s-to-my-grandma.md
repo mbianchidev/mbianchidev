@@ -1,7 +1,7 @@
 # I explained Kubernetes to my grandma!
 
 Submitted to:
-- KubeCon 2023 - main conference
+- KubeCon EU 2024 - main conference
 
 Accepted to: 
 - TBD
@@ -10,7 +10,7 @@ Sumbitted as: Freelance Cloud Native Consultant
 
 **Format**: Lightning (5 minutes)
 
-**Slides**:
+**Slides**: TBD
 
 ## Description / Abstract
 

@@ -1,7 +1,7 @@
 # Cloud Native Heavy Lifting
 
 Submitted to:
-- AppDeveloperCon - KubeCon 2023
+- AppDeveloperCon - KubeCon EU 2024
 
 Accepted to: 
 - TBD
