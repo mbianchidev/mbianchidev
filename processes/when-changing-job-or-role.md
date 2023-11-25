@@ -4,7 +4,7 @@ A small checklist of things to do when changing employer or role.
 
 ## When leaving a company
 
-- [] Update LinkedIn profile
+[] Update LinkedIn profile
 - [] Update Medium profile (and other blogging sites)
 - [] Create a LinkedIn/Medium post telling the story and thanking your colleagues
 - [] Advertise freelance availability via post on LinkedIn, Medium, Twitter...
