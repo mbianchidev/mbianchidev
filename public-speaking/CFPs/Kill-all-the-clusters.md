@@ -24,3 +24,5 @@ We will describe how to achieve strong isolation and multi-tenancy thru OPA poli
 ## Benefits to the Ecosystem
 
 Building an agnostic Platform Engineering tool to help drive DevEx into your team can be challenging, through this talk we want to make everyone realize the power of Namespace as a Service (NaaS) as an abstraction over the complexity of Kubernetes for developers.
+
+**OSS Project used**: Kubernetes, ArgoCD, OPA/Gateweekper
