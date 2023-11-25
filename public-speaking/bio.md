@@ -4,6 +4,6 @@
 
 See: https://sessionize.com/mbianchidev
 
-Matteo is a self-taught coder since the age of 15. Starting as a web developer he evolved through diverse roles, from Java, to Python and full stack development. He later embraced DevOps and Cloud. After venturing into freelance consultancy, coaching DevOps principles, and enhancing DevEx.
+Matteo has been a self-taught coder since the age of 15. Started with websites he became a backend and fullstack engineer. He later embraced DevOps and Cloud. After a few years as dev he ventured into freelancing as Cloud Native Consultant, while digital nomading across Europe.
 
-Builder, startup lover, advocating for Cloud Native technologies and active member of the CNCF community, Matteo is a Kubernetes enthusiast and aspires to impact the IT industry through Platform Engineering.
+Builder, startup lover, advocating for Cloud Native technologies and active member of the CNCF community (KCD and Kubetrain organizer), Matteo is a k8s enthusiast and aspires to impact IT through Platform Engineering.

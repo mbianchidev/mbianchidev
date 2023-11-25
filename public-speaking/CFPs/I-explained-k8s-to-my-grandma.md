@@ -6,7 +6,7 @@ Submitted to:
 Accepted to: 
 - TBD
 
-Sumbitted as: Freelance Cloud Native Consultant
+Submitted as: Freelance Cloud Native Consultant
 
 **Format**: Lightning (5 minutes)
 

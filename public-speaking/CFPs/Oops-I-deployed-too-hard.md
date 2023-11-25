@@ -6,7 +6,7 @@ Submitted to:
 Accepted to: 
 - TBD
 
-Sumbitted as: Cloud Native Consultant
+Submitted as: Cloud Native Consultant @ Freelance
 
 **Format**: Standard (15 minutes)
 
