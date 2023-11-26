@@ -31,6 +31,7 @@ A small checklist of things to do when changing employer or role.
 - [ ] Update email signature (-- "Freelance")
 - [ ] Update CV
 - [ ] Update website (/about, /experience, /cv, disable /services)
+- [ ] [Update CNCF profile](https://community.cncf.io/u/m9crwf/#/about)
 - [ ] Enjoy the new journey!
 
 ## When changing role within the same company
