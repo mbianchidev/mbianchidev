@@ -85,7 +85,7 @@ My professors at that time used to tell me that I would never work in IT because
 
 Most people in my life were also not happy about my choice, they wanted me to go to university and get a degree to go for a "real job" 🤨 instead of "playing with computers", but I was not interested in that, I wanted to work and learn by doing, not by studying.
 
-I started my journey in 2015 as a web developer while still in high school, I started to write production grade PHP code even before I got my driving license. 🚗
+I started my professional journey in 2015 as a web developer while still in high school, I started to write production grade PHP code even before I got my driving license 🚗 but I've been coding for a while before, since I was around 15.
 As employee I started as fullstack, in a small company building embedded software in C and some intarnal tools in C#, then I joined a promising local startup, always as fullstack but back to PHP with a Laravel flavor.
 
 Graduating from my highschool I then moved to a bigger city (Milan), switched language to specialize in Java and built my back(end) as a Software Engineer, I climbed the ladder, worked on large scale products (8+ million users) and finally became a Senior Software Engineer. 👷
