@@ -74,7 +74,7 @@ See my (partial) tech stack [here](tech-stack.md), I will try to keep it updated
 
 #### Important 
 
-- [public GPG key](files/gpgkey.pub)
+- [public GPG key](keys/gpgkey.pub)
 - [note to recruiters and companies](note-to-recruiters.md)
 - [note to current and future colleagues](note-to-colleagues.md)
 - I have an open calendar, use it!!
