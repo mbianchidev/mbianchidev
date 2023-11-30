@@ -51,9 +51,12 @@ I learn a lot by teaching, I'm a teacher at heart and I love to share my knowled
 - [Kubernetes based startup](https://www.kubelab.com) - DevTools to streamline Kubernetes management
 - [KLab-CLI](https://github.com/mbianchidev/klab-cli) - an all-in-one CLI to manage K8s clusters on AWS, Azure and GCP
 - [Helped a cancer research center to save more lifes](https://www.linkedin.com/pulse/kubelab-netherlands-cancer-institute-partner-around-ai-peter-comstock/?utm_source=rss&utm_campaign=articles_sitemaps&utm_medium=google_news) - Machine Learning on Azure Cloud infrastructure, connected to a mobile gaming app, what a game changer!
-- [My tech blog](https://mb-consulting.dev/blog) - 50k+ views monthly, 800+ subscribers
+- [My tech blog](https://mb-consulting.dev/blog) - 50k+ views monthly, 1000+ subscribers
 - [Co-organized KCD Netherlands](https://community.cncf.io/kcd-netherlands/) - KCD Utrecht 2023
-- [Built a community of italian freelancers](https://www.linkedin.com/groups/14023713/) - 600 members
+- [Organizer of Kubetrain from Amsterdam to Paris for KubeCon EU 2024](https://kubetrain.io/)
+- [Program Committee KubeCon EU 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+- Cloud pirates podcast - coming soon
+- [Built a community of italian freelancers](https://www.linkedin.com/groups/14023713/) - 600+ members
 - [Hosted a live podcast about IT and freelancing](https://www.twitch.tv/freelancezoo)
 - [An engaging 2D game](https://github.com/mbianchidev/blockster-2d) built during a hackaton
 - [My former metal band](https://www.youtube.com/watch?v=XBrvnVmkYJw) - 50k+ views/listen _I sing_
@@ -78,22 +81,23 @@ See my (partial) tech stack [here](tech-stack.md), I will try to keep it updated
 
 #### Long story (never) short
 
-I was always passionate about computers and technology, but I started to code when I was 15, after switching highschool from a scientific and mostly theoretical one to what in Italy is called "technical" highschool, where I learned the basics of programming and computer science 👨‍💻.
+I was always passionate about computers and technology, but I started to code when I was 15, after switching highschool from a scientific and mostly theoretical one to what in Italy is called "technical" high school, where I learned the basics of programming and computer science 👨‍💻.
 
-I was never a good student, I was always bored 🥱 by school and I never liked to study, but I was always curious and I loved to learn new things, especially if they were related to computers.
+I was never a good student, I was always bored by school 🥱 and I never liked to study, but I was always curious and I loved to learn new things, especially if they were related to computers.
 My professors at that time used to tell me that I would never work in IT because I was not good enough, but I never gave up and I kept learning on my own 🤓.
 
 Most people in my life were also not happy about my choice, they wanted me to go to university and get a degree to go for a "real job" 🤨 instead of "playing with computers", but I was not interested in that, I wanted to work and learn by doing, not by studying.
 
-I started my professional journey in 2015 as a web developer while still in high school, I started to write production grade PHP code even before I got my driving license 🚗 but I've been coding for a while before, since I was around 15.
+I started my professional journey in 2015 as a web developer, I started to write production grade PHP code even before I got my driving license. 🚗 
 As employee I started as fullstack, in a small company building embedded software in C and some intarnal tools in C#, then I joined a promising local startup, always as fullstack but back to PHP with a Laravel flavor.
 
-Graduating from my highschool I then moved to a bigger city (Milan), switched language to specialize in Java and built my back(end) as a Software Engineer, I climbed the ladder, worked on large scale products (8+ million users) and finally became a Senior Software Engineer. 👷
+Graduating from my high school I then moved to a bigger city (Milan), switched language to specialize in Java and built my back(end) as a Software Engineer, I climbed the ladder, worked on large scale products (8+ million users) and finally became a Senior Software Engineer. 👷
 
-I am a fundamentally lazy person so I learnt to love automation, starting with bash scripts and moving on to DevOps tools.
+Since I am a fundamentally lazy person, I learnt to love automation, starting with bash scripts and moving on to DevOps tools and practices.
 I joined the Dark Side of DevOps and Site Reliability taking the best from my SWE background (I've never stopped to use the --force). 🌌
 
-At some point, after leading DevOps initatives and bringing multiple teams from 0 to GitOps, I felt that I reached a ceiling in my career both in the company I worked at that time and in Italy. That is the reason why I decided to start my journey in 2021 as a freelance professional and digital nomad. ✈️🏝️
+At some point, after leading DevOps initatives and bringing multiple teams from 0 to GitOps, I felt that I reached a ceiling in my career both in the company I worked at that time and in the italian IT landscape (not so rich, if you ask me). 
+That is the reason why I decided to start my journey in 2021 as a freelance professional and digital nomad. ✈️🏝️
 I wanted to scale my impact on the IT industry and to help more people and companies to achieve their goals. ⛰️
 
 I coached and mentored my padawans (ehm I mean, my students) about DevOps principles and practices. I also helped companies to improve their DevEx and DevOps approach. 📚
