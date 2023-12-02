@@ -33,7 +33,7 @@ Btw I can also scream at a higher volume than you, here's [proof](https://www.yo
 ## Touching 
 
 I really don't like to be touched, unless I explicitly gave consent for it. 
-I'm not a hugger on the job. I'm a handshaker, high-fiver and a fist-bumper!
+I'm not a hugger on the job unless we know each other really well. I'm a handshaker, high-fiver and a fist-bumper!
 
 I also don't like if you touch my stuff without asking or when I'm not around. I will notice.
 
