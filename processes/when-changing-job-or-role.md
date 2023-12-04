@@ -12,6 +12,7 @@ A small checklist of things to do when changing employer or role.
 - [ ] Update Slack profiles (bio, propic)
 - [ ] Update Twitter/X profile (bio, propic)
 - [ ] Update Sessionize profile (bio, propic)
+- [ ] Update MentorCruise profile (bio, propic)
 - [ ] Update StackOverflow profile (bio, propic)
 - [ ] Update email signature (++ "Freelance")
 - [ ] Update CV
@@ -27,6 +28,7 @@ A small checklist of things to do when changing employer or role.
 - [ ] Update Slack profiles (bio, propic)
 - [ ] Update Twitter/X profile (bio, propic)
 - [ ] Update Sessionize profile (bio, propic)
+- [ ] Update MentorCruise profile (bio, propic)
 - [ ] Update StackOverflow profile (bio, propic)
 - [ ] Update email signature (-- "Freelance")
 - [ ] Update CV
