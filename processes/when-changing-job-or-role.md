@@ -24,6 +24,7 @@ A small checklist of things to do when changing employer or role.
 - [ ] Update email signature (++ "Freelance")
 - [ ] Update CV
 - [ ] Update website (/about, /experience, /cv, disable /services)
+- [ ] [Update CNCF profile](https://community.cncf.io/u/m9crwf/#/about) (bio, propic)
 - [ ] Get in touch with people for freelancing gigs
 
 ## When joining a company (maybe after probation period ends)
@@ -62,3 +63,4 @@ A small checklist of things to do when changing employer or role.
 - [ ] Update Credly profile
 - [ ] Update Mentorcruise profile
 - [ ] Update StackOverflow profile
+- [ ] Update CNCF profile
