@@ -26,7 +26,7 @@ Wanna book a meeting instead? Here's a secret [link](https://mb-consulting.dev/s
 
 #### Big Hairy Audacious Goal (can I say the naming is terrible?)
 
-I want to change the life of at least 1 million developers in the next 5 years.
+I want to change the life of at least 1 million people in the next 5 years.
 
 #### Quotes I try to live by
 
@@ -51,11 +51,11 @@ I learn a lot by teaching, I'm a teacher at heart and I love to share my knowled
 - [Kubernetes based startup](https://www.kubelab.com) - DevTools to streamline Kubernetes management
 - [KLab-CLI](https://github.com/mbianchidev/klab-cli) - an all-in-one CLI to manage K8s clusters on AWS, Azure and GCP
 - [Helped a cancer research center to save more lifes](https://www.linkedin.com/pulse/kubelab-netherlands-cancer-institute-partner-around-ai-peter-comstock/?utm_source=rss&utm_campaign=articles_sitemaps&utm_medium=google_news) - Machine Learning on Azure Cloud infrastructure, connected to a mobile gaming app, what a game changer!
-- [My tech blog](https://mb-consulting.dev/blog) - 50k+ views monthly, 1000+ subscribers
-- [Co-organized KCD Netherlands](https://community.cncf.io/kcd-netherlands/) - KCD Utrecht 2023
+- [My tech blog](https://mb-consulting.dev/blog) - 50k+ views monthly, 1200+ subscribers
+- [KCD (Kubernetes Community Days) organizer](https://community.cncf.io/kcd-netherlands/) - KCD Utrecht 2023
 - [Organizer of Kubetrain from Amsterdam to Paris for KubeCon EU 2024](https://kubetrain.io/)
 - [Program Committee KubeCon EU 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
-- Cloud pirates podcast - coming soon
+- [Cloud pirates podcast](https://www.youtube.com/@cloudpirates-yt) - A podcast about Cloud Native technologies and tech in general, co-hosting with my friend Alessandro
 - [Built a community of italian freelancers](https://www.linkedin.com/groups/14023713/) - 600+ members
 - [Hosted a live podcast about IT and freelancing](https://www.twitch.tv/freelancezoo)
 - [An engaging 2D game](https://github.com/mbianchidev/blockster-2d) built during a hackaton

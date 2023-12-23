@@ -61,9 +61,13 @@ Books I recommend for my fellow developers and engineers.
 | Team Topologies | - | Team Topologies is a book about team structures in IT by Matthew Skelton and Manuel Pais |
 | DevOps Handbook | - | DevOps Handbook is a book about, well, DevOps? by Gene Kim, Jez Humble, Patrick Debois and John Willis |
 
-#### Past jobs unrelated to tech (teenage years)
+#### Jobs unrelated to tech (teenage years)
 
 - Piercer
 - Bartender
-- Security - clubs, concerts, music festivals
+- Beach lifeguard
+- Fast food worker
+- Security/Bouncer - clubs, concerts, music festivals
 - Pizza delivery guy
+- Music events PR and organizer (wish I was still doing this)
+- Vocal coach (I'm still doing this)
