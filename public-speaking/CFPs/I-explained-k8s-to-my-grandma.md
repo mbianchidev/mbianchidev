@@ -2,6 +2,7 @@
 
 Submitted to:
 - KubeCon EU 2024 - main conference
+- Cloud Native Rejetks 2024
 
 Accepted to: 
 - TBD
@@ -14,11 +15,10 @@ Submitted as: Freelance Cloud Native Consultant
 
 ## Description / Abstract
 
-In this lighthearted and engaging lightning talk, I share my unconventional approach to demystifying Kubernetes by explaining it to my Italian grandma, using food analogies. 
-Picture a scene where I'm enjoying a big plate of spaghetti, and my dear grandma, totally unaware of the deep tech world I work in, curiously asks about my job (like she does every xmas).
-Seizing the opportunity, I went deep into the rabbit hole of container orchestration, trying to make it relatable through her favorite topic—food!
+Picture a scene where I'm enjoying a big plate of spaghetti, and my dear grandma, totally unaware of the deep tech world I work in, curiously asks about my job, like she does every xmas.
+Seizing this wonderful opportunity, I dove deep into the rabbit hole of container orchestration, trying to make it relatable through her favorite topic—food!
 
-Join me as I walk you through the entertaining narrative of equating Kubernetes to the art of serving homemade biscuits as they were apps.
+I ended up explaining Kubernetes to her and she started serving homemade biscuits as they were apps.
 
 ## Benefits to the Ecosystem
 
