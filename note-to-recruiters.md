@@ -80,10 +80,11 @@ That's why I created [this repo](https://github.com/mbianchidev/coding-challenge
 - Glovo (I wouldn't apply there again, now that I'm aware of their riders' working conditions)
 - Docebo
 
-My acceptance rate at the tech interview stage has been around 80% out of ~100 in the past 5 years, so I'm not afraid of interviews. I just don't like to waste my valuable time with self-contained coding riddles that a new grad could solve by just memorizing algorithms and data structures.
+My acceptance rate at the tech interview stage has been around 80% out of ~100 in the past 8 years, so I'm not afraid of interviews. I just don't like to waste my valuable time with self-contained coding riddles that a new grad could solve by just memorizing algorithms and data structures.
 
 You know what also bogs me? That more often than not these coding interviews have nothing to do with the job I'm applying for!
 
 I also have open-source code on my GitHub profile, so you can check that out if you want to see how I code, right? 😉
 
+About the numbers of interviews: yes, I do sparring interviews once in a while, just to keep up with the market and understand if I can get a better job than my current one.
 Cookie for reading this far 🍪
