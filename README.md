@@ -2,9 +2,9 @@
 
 My name is Matteo but my nicknames are many, depending on the many context you find me in (gaming? reddit? music?).
 
-I'm a DevRel, living in Europe, sometimes I have fun as Cloud Native Consultant and Trainer.
+I'm an Engineer, living in Europe, and currently working as DevRel. Sometimes I have fun as Cloud Native Consultant and Trainer.
 In my spare time I [mentor](https://mb-consulting.dev/mentor) people, [help startups](https://www.mb-consulting.dev/service/mentoring-services) filling their tech gaps and [blog](content-creation/blog/blog.md) about tech and life.
-I organize(d) Kubernetes Community Days in the Netherlands.
+I organize(d) Kubernetes Community Days in the Netherlands, KubeTrain and contribute to Cloud Native in any way I can.
 
 📫 How to reach me: [click here](https://mb-consulting.dev/all-links)
 
@@ -51,11 +51,10 @@ I learn a lot by teaching, I'm a teacher at heart and I love to share my knowled
 - [Kubernetes based startup](https://www.kubelab.com) - DevTools to streamline Kubernetes management
 - [KLab-CLI](https://github.com/mbianchidev/klab-cli) - an all-in-one CLI to manage K8s clusters on AWS, Azure and GCP
 - [Helped a cancer research center to save more lifes](https://www.linkedin.com/pulse/kubelab-netherlands-cancer-institute-partner-around-ai-peter-comstock/?utm_source=rss&utm_campaign=articles_sitemaps&utm_medium=google_news) - Machine Learning on Azure Cloud infrastructure, connected to a mobile gaming app, what a game changer!
-- [My tech blog](https://mb-consulting.dev/blog) - 50k+ views monthly, 1200+ subscribers
+- [My tech blog](https://mb-consulting.dev/blog) - 50k+ views monthly, 1300+ subscribers
 - [KCD (Kubernetes Community Days) organizer](https://community.cncf.io/kcd-netherlands/) - KCD Utrecht 2023
 - [Organizer of Kubetrain from Amsterdam to Paris for KubeCon EU 2024](https://kubetrain.io/)
 - [Program Committee KubeCon EU 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
-- [Cloud pirates podcast](https://www.youtube.com/@cloudpirates-yt) - A podcast about Cloud Native technologies and tech in general, co-hosting with my friend Alessandro
 - [Built a community of italian freelancers](https://www.linkedin.com/groups/14023713/) - 600+ members
 - [Hosted a live podcast about IT and freelancing](https://www.twitch.tv/freelancezoo)
 - [An engaging 2D game](https://github.com/mbianchidev/blockster-2d) built during a hackaton
