@@ -10,7 +10,7 @@ Submitted as: Cloud Native Consultant @ Freelance
 
 **Format**: Standard (25 minutes + Q&A 5 minutes)
 
-**Slides**: [Google Slides Deck](https://docs.google.com/presentation/d/15OkDT31ll8dBakYg15Sj_1HNR7qI57tNSdb_IbTak40)
+**Slides**: [Google Slides Deck](https://docs.google.com/presentation/d/15OkDT31ll8dBakYg15Sj_1HNR7qI57tNSdb_IbTak40/edit?usp=sharing)
 
 ## Description / Abstract
 

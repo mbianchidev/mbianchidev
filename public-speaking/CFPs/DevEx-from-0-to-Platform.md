@@ -2,6 +2,7 @@
 
 Submitted to:
 - Platform Engineering Day - KubeCon EU 2024 
+- KCD Zurich 2024
 
 Accepted to: 
 - TBD
@@ -21,9 +22,9 @@ Lifting a monolith, re-architecting apps to microservices, deploying to K8s, imp
 
 ## Benefits to the Ecosystem
 
-I invite the audience to extract valuable lessons that can be applied to their own endeavors to build a Platform tailored to their needs.
+I invite the audience to extract valuable lessons that can be applied to their own challenges to build a Platform tailored to their needs.
 
-Not focusing on merely tools but processes.
+Not focusing on just tools but processes above all.
 
 How DevOps transformation can bring value even to the most resistant enterprise, the impact of changing team topology, understanding the trade-off between tools, migrating from on-premise to the cloud and winning the resistance to change by questioning the status quo.
 
