@@ -68,8 +68,8 @@ I usually prefer to work per-objectives but I'm also open to full-time with some
 I am currently **not** actively looking for a job, but I'm always open to new opportunities.
 
 To have an idea of my salary expectations for a full-time position, as of 2023, is:
-- min. 130k base €/year (non-US company) + bonus + equity + perks
-- min. 180k base $/year (US company) + bonus + equity + perks
+- minimum 150k base €/year (EU remote) + bonus + equity + perks
+- minimum 200k base $/year (US remote) + bonus + equity + perks
 
 Just know that I will check levels.fyi and Glassdoor to make sure you're not lowballing me.
 
