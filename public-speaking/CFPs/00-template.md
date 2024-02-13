@@ -10,7 +10,7 @@ Submitted as: Role?
 
 **Format**: ?
 
-**Slides**: https://www.slidescarnival.com/
+**Slides**: https://www.slidescarnival.com
 
 ## Description / Abstract
 
