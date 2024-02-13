@@ -1,5 +1,6 @@
 # DevOops Amsterdam #5 
 
+- Where: Fiberplane Offices, Amsterdam (NL)
 - Event link: [Meetup.com](https://www.meetup.com/amsterdam-devooops-meetup-group/events/298416527/)
 - Photos: 
 - Video: 
