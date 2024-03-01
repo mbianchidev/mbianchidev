@@ -4,7 +4,7 @@ Submitted to:
 - [DevOps Days Amsterdam 2024](https://talks.devopsdays.org/devopsdays-amsterdam-2024/talk/review/BYQ7KL9DVFKFG79KQ3NANZ3CPJXZMQPE)
 
 Accepted to: 
-- TBD
+- DevOops Days Amsterdam 2024
 
 Submitted as: DevRel @ Omnistrate
 
