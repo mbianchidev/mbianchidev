@@ -6,6 +6,8 @@ I'm an Engineer, living in Europe, and currently working as DevRel. Sometimes I 
 In my spare time I [mentor](https://mb-consulting.dev/mentor) people, [help startups](https://www.mb-consulting.dev/service/mentoring-services) filling their tech gaps and [blog](content-creation/blog/blog.md) about tech and life.
 I organize(d) Kubernetes Community Days in the Netherlands, KubeTrain and contribute to Cloud Native in any way I can.
 
+I like to define myself as a jack of most trades, master of some.
+
 📫 How to reach me: [click here](https://mb-consulting.dev/all-links)
 
 Wanna book a meeting instead? Here's a secret [link](https://mb-consulting.dev/secret)! 🤫
@@ -26,7 +28,7 @@ Wanna book a meeting instead? Here's a secret [link](https://mb-consulting.dev/s
 
 #### Big Hairy Audacious Goal (can I say the naming is terrible?)
 
-I want to change the life of at least 1 million people in the next 5 years.
+I want to change the life of 1 million people in the next 5 years.
 
 #### Quotes I try to live by
 
