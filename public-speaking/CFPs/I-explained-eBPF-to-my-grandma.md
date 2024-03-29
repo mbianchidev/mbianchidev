@@ -1,7 +1,8 @@
 # I explained eBPF to my grandma!
 
 Submitted to:
-- KubeCon NA 2024 - main conference
+- w/ Jason Dellaluce (Sysdig) KubeCon NA 2024 - main conference
+- w/ Jason Dellaluce (Sysdig) KubeCon NA 2024 - CiliumCon
 
 Accepted to: 
 - 

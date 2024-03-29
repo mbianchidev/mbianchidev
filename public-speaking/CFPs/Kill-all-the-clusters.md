@@ -1,7 +1,7 @@
 # Kill all the clusters!
 
 Submitted to:
-- KubeCon EU 2024 - main conference
+- w/ Alessandro Vozza KubeCon EU 2024 - main conference
 
 Accepted to: 
 - TBD

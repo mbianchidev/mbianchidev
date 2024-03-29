@@ -2,15 +2,15 @@
 
 Submitted to:
 - KubeCon EU 2024 - main conference
+- Cloud Native Rejetks EU 2024
 
 Accepted to: 
-- Cloud Native Rejetks 2024
+- Cloud Native Rejetks EU 2024
 
-Submitted as: Developer Relations Engineer @ Omnistrate
+Submitted as: 
+- Developer Relations Engineer @ Omnistrate (Cloud Native Rejetks EU 2024)
 
 **Format**: Lightning (5 minutes)
-
-**Slides**: [TBD](https://www.slidescarnival.com/)
 
 ## Description / Abstract
 
