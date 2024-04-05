@@ -8,7 +8,7 @@ I don't really like resumes but I have a public one, ask me for it if you really
 
 Regardless of freelancing or employment, from companies I work with I expect the following...
 
-##### Requirements 
+##### Must 
 
 - Not operating in the following fields:
   - Military / Weaponry
@@ -17,11 +17,11 @@ Regardless of freelancing or employment, from companies I work with I expect the
   - Oil & Gas
   - Governments that are not on my allowlist (or ties with them) 
   - Body Rental consultancy is a **big NO NO** for me, I'm not a commodity and you're not going to make money over my head.
-- A good remote policy with a minium of 2 days/week of remote work
+- A good remote policy with a minium of 3 days/week of remote work, although I prefer full remote
 - A moonlight policy that allows me to
   - Coach/mentor people 1:1 (off hours)
   - Organize (off hours) - and go (mostly during work hours) - to tech events 
-  - Contribute to OSS without needing to ask permission and stuff - basically being able to sign CLA
+  - Contribute to OSS without needing to ask permission and stuff - basically being able to sign any CLA
 - On-call could be fine, but I will be (well) paid for it. I'm not going to be kept awake at night (going to work the day after) for free, sorry!
 
 ##### Nice to have
@@ -32,16 +32,16 @@ Regardless of freelancing or employment, from companies I work with I expect the
   - ML/AI
   - Cloud Native tech (Monitoring, Observablity, Security, CI/CD, etc.)
 - Being a startup, therefore having low bureaucracy and being able to move fast!
-- A full remote policy, remote-first (async) and work from anywhere is so cool 🤩
+- A full remote policy, remote-first (async tools ftw) and work from anywhere is so cool 🤩
 -  A moonlight policy that allows me to also:
    - Advise startups (non-competing)
-   - Have my own side software projects generating revenues (non-competing)
+   - Have my own side projects generating revenues (non-competing) - e.g. writing a book, publishing a fitness app on the app store
 - Overall flexibility, here's some examples of what I mean:
   - I don't necessarily like to wake up at 9 AM every day for a standup meeting (that could be done async anyway)
   - I don't really like to be forced to work 9-5, I prefer to work when I'm productive. Never had issues with delivering in all of my previous jobs, I'm a responsible and reliable person.
 - A good work and traveling policy
   - I don't want to be forced to take PTOs to travel. 
-  - My family and friends live scattered across these countries (and more): Italy, Spain, Germany Netherlands, United States. I will still visit them.
+  - My family and friends live scattered across these countries (and more): Italy, Spain, Germany Netherlands, United States. I will still visit them from time to time.
   - I like going to and organizing conferences, meetups and events. I want to be able to do that without having to take PTOs.
 
 **TLDR; just be a nice company and I will be a nice employee/freelancer for you.**
@@ -65,24 +65,25 @@ I usually prefer to work per-objectives but I'm also open to full-time with some
 
 #### Specific to recruiters or companies in search of an employee
 
-I am currently **not** actively looking for a job, but I'm always open to new opportunities.
+I am actively looking for a job, open to new opportunities.
 
-To have an idea of my salary expectations for a full-time position, as of 2023, is:
-- minimum 150k base €/year (EU remote) + bonus + equity + perks
-- minimum 200k base $/year (US remote) + bonus + equity + perks
+To have an idea of my salary expectations for a full-time position, as of 2024, is:
+- minimum 100k base €/year (EU remote) + bonus + equity + perks
+- minimum 150k base $/year (US remote) + bonus + equity + perks (sponsorship needed)
 
-Just know that I will check levels.fyi and Glassdoor to make sure you're not lowballing me.
+Just know that I will check my network, levels.fyi and Glassdoor to make sure you're not lowballing me, whoops.
 
-Addressing the elephant in the room: coding riddles, leetcoding, whiteboard interviews, etc. are a red flag for me. 🚩
+Addressing the elephant in the room: coding riddles, leetcoding, whiteboard interviews, etc. are big red flags for me. 🚩🚩🚩
 
 That's why I created [this repo](https://github.com/mbianchidev/coding-challenges) to collect all the coding riddles I will be asked from now on. I'm also trying to collect the ones that I have been asked in the past by some of the companies I interviewed with, such as:
 - AWS
 - Glovo (I wouldn't apply there again, now that I'm aware of their riders' working conditions)
+- Sysdig (they never got back with anything, the hiring manager resigned or something lol)
 - Docebo
 
-My acceptance rate at the tech interview stage has been around 80% out of ~100 in the past 8 years, so I'm not afraid of interviews. I just don't like to waste my valuable time with self-contained coding riddles that a new grad could solve by just memorizing algorithms and data structures.
+My acceptance rate at the tech interview stage has been around 80% out of ~120 in the past 8 years, so I'm not afraid of interviews. I just don't like to waste my valuable time with self-contained coding riddles that a new grad could solve by just memorizing algorithms and data structures. Been there, done that, be smarter.
 
-You know what also bogs me? That more often than not these coding interviews have nothing to do with the job I'm applying for!
+You know what also bogs me? That more often than not these coding interviews have nothing to do with the job I'm applying for... like wtf?
 
 I also have open-source code on my GitHub profile, so you can check that out if you want to see how I code, right? 😉
 
