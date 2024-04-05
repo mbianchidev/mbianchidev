@@ -50,6 +50,8 @@ I learn a lot by teaching, I'm a teacher at heart and I love to share my knowled
 
 #### Achievements
 
+- Guest Lecturer at University of Turin, speaking about Cloud Native Tech
+- Spoke at international conferences and meetups such as: DevOops meetup, Cloud Native Rejekts EU 2024, DevOpsDays Amsterdam 2024... and more!
 - [My first co-founded startup](https://www.linkedin.com/company/kubelab/) - DevTools to streamline Kubernetes management
 - [KLab-CLI](https://github.com/mbianchidev/klab-cli) - an all-in-one CLI to manage EKS, AKS and GKE clusters, powered by Terraform (will migrate to OpenTofu eventually)
 - [Helped a cancer research center to save more lifes](https://www.linkedin.com/pulse/kubelab-netherlands-cancer-institute-partner-around-ai-peter-comstock/?utm_source=rss&utm_campaign=articles_sitemaps&utm_medium=google_news) - Machine Learning on Azure Cloud infrastructure, connected to a mobile gaming app, what a game changer!
@@ -57,7 +59,7 @@ I learn a lot by teaching, I'm a teacher at heart and I love to share my knowled
 - [KCD (Kubernetes Community Days) organizer](https://community.cncf.io/kcd-netherlands/) - KCD Utrecht 2023 ([program committee](https://www.credly.com/badges/c9bc9d4e-02bb-4bcd-85a3-00f63981688a))
 - [Organizer of Kubetrain from Amsterdam to Paris for KubeCon EU 2024](https://kubetrain.io/)
 - [Program Committee KubeCon EU 2024](https://www.credly.com/badges/0ab0b4ed-7ca1-4bab-8643-8ad4d06efe70)
-- [Built a community of italian freelancers](https://www.linkedin.com/groups/14023713/) - 600+ members
+- [Built a community of italian freelancers](https://www.linkedin.com/groups/14023713/) - 1000+ members
 - [Hosted a live podcast about IT and freelancing](https://www.twitch.tv/freelancezoo)
 - [An engaging 2D game](https://github.com/mbianchidev/blockster-2d) built during a 48-hours hackaton at Polimi (IT)
 - [My former metal band](https://www.youtube.com/watch?v=XBrvnVmkYJw) - 50k+ views/listen _I sing_
