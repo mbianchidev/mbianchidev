@@ -111,9 +111,10 @@ Avoid letting me do it if you can, I will be forever grateful and I will stay in
 
 I struggle with positive feedback. I'm not used to it and I don't know how to react to it. I'm working on it.
 
-I love constructive (negative) feedback, I'm always trying to improve myself and I'm happy to receive feedback on how to do it.
+I love constructive (negative) feedback, I'm always trying to improve myself and I'm happy to receive actionable feedback on how to do it. - 
+e.g. "You should improve your content delivery" - not actionable; "You should improve your content delivery, by adding examples when you explain something technical, plus some sort of scheme and image" - perfect.
 
-I will ask for a lot of advice rather than feedback, I'm more comfortable with that and I find it more actionable.
+I will ask for a lot of advice rather than feedback, I'm more comfortable with that and I find that people naturally come up with something actionable when asked for advice.
 
 ## Mistakes
 
