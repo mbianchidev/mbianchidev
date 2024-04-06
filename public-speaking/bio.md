@@ -18,7 +18,7 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 | 2 | 18th Mar 2024 | [I explained Kubernetes to my grandma](https://youtu.be/8c6xYXY12ro?si=ceNgAo5OAWiOWqff&t=545) ([slides](https://github.com/mbianchidev/mbianchidev/blob/master/public-speaking/Talks/TBD)) | [Cloud Native Rejekts EU](https://cloud-native.rejekts.io/) | Paris | France | 200 people, 500 views during the live stream |
 | 1 | 7th Feb 2024 | Oops I deployed Too Hard ([slides](https://docs.google.com/presentation/d/15OkDT31ll8dBakYg15Sj_1HNR7qI57tNSdb_IbTak40/edit?usp=sharing)) | [DevOops Meetup](https://www.meetup.com/amsterdam-devooops-meetup-group/events/298416527/) | Amsterdam | Netherlands | 100 people |
 
-# Organized / Program committee
+# Organizer / Program committee
 
 | # | Date | Event | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
