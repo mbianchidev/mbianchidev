@@ -8,7 +8,7 @@ Builder, startup lover, advocating for Cloud Native technologies and active memb
 
 For a complete list of my avaiilable talks please visit [my sessionize profile](https://sessionize.com/mbianchidev)
 
-# Talks & Conerences
+# Speaker
 
 | # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
