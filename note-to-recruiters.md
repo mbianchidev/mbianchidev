@@ -1,7 +1,7 @@
 #### Note to recruiters and companies
 
 I consider myself a **Cloud Native Engineer** because I'm not "just" a Software Engineer or DevOps Engineer with extensive Site Reliability experience.
-I'm a cloud expert, a DevOps coach, an experienced coder in multiple programming languages (Java, Python, Golang, TypeScript...), a mentor, a speaker (coming soon), a tech writer, a community builder and a lot more.
+I'm a cloud expert, a DevOps coach, an experienced coder in multiple programming languages (Java, Python, Golang, TypeScript...), a mentor, an international speaker, a tech writer, a community builder and a lot more.
 I think differently, I operate differently and I'm certainly not afraid to challenge the status quo.
 
 I don't really like resumes but I have a public one, ask me for it if you really need it.
