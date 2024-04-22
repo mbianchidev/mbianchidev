@@ -2,6 +2,8 @@
 
 Submitted to:
 - DevOops Amsterdam 2023/2024 (Fiberplane)
+- SREDay London 2024
+- SREDay Amsterdam 2024
 
 Accepted to: 
 - DevOops Amsterdam Feb. 2024 (Fiberplane)
