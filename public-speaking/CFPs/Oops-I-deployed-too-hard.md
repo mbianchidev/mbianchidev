@@ -16,9 +16,10 @@ Submitted as: Cloud Native Consultant @ Freelance
 
 ## Description / Abstract
 
-Sometimes you delete production, you drop tables, you change a conf and everything breaks but what if you upgraded the wrong environment, to the next newer and fancier software version, in one of the biggest customers of your employer server?
+Sometimes you delete production, you drop tables, you change a conf and everything breaks but what if you upgraded the wrong environment, to the wrong version, of the wrong customer (that also happens to be the bigger your company has)?
+
 And what if you did it right before going to a long lunch?
 
-A tale of compliance, regulations, unauthorized deploys and ethical questions!
+This is a tale of compliance, regulations, unauthorized deployments and ethical questions!
 Solved more through diplomacy than with coding.
 Memes included*
