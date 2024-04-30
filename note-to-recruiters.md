@@ -21,7 +21,7 @@ Regardless of freelancing or employment, from companies I work with I expect the
 - A moonlight policy that allows me to
   - Coach/mentor people 1:1 (off hours)
   - Organize (off hours) - and go (mostly during work hours) - to tech events 
-  - Contribute to OSS without needing to ask permission and stuff - basically being able to sign any CLA
+  - Contribute to OSS without needing to ask permission and stuff
 - On-call could be fine, but I will be (well) paid for it. I'm not going to be kept awake at night (going to work the day after) for free, sorry!
 
 ##### Nice to have
