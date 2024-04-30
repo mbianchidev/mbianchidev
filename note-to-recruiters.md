@@ -81,7 +81,7 @@ That's why I created [this repo](https://github.com/mbianchidev/coding-challenge
 - Sysdig (they never got back with anything, the hiring manager resigned or something lol)
 - Docebo
 
-My success rate at the technical interview stage has been around 80% out of ~120 in the past 8 years, so I'm not afraid of coding interviews. I just don't like to waste my valuable time with self-contained riddles that a new grad could solve by just memorizing algorithms and data structures 101. Reversing a binary tree? Been there, done that, please be smarter and ask something meaningful.
+My success rate at the technical interview stage has been around 80% out of 100+ in the past 9 years, so I'm not afraid of coding interviews. I just don't like to waste my valuable time with self-contained riddles that a new grad could solve by just memorizing algorithms and data structures 101. Reversing a binary tree? Been there, done that, please be smarter and ask something meaningful.
 
 You know what also bogs me? That more often than not these coding interviews have nothing to do with the job I'm applying for... lol.
 
