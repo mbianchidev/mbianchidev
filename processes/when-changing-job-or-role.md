@@ -2,7 +2,7 @@
 
 A small checklist of things to do when changing employer or role.
 
-## Todo When leaving a company
+## Todo when leaving a company
 
 - [ ] Update [LinkedIn](https://www.linkedin.com/in/mbianchidev/) profile (headline, role, propic and banner)
 - [ ] Update [Medium](https://medium.com/@mbianchidev) profile (and other blogging sites - bio, propic)
@@ -27,7 +27,7 @@ A small checklist of things to do when changing employer or role.
 - [ ] [Update CNCF profile](https://community.cncf.io/u/m9crwf/#/about) (bio, propic)
 - [ ] Get in touch with people for freelancing gigs
 
-## Todo When joining a company (maybe after probation period ends)
+## Todo when joining a company (maybe after probation period ends)
 
 - [ ] Update [LinkedIn](https://www.linkedin.com/in/mbianchidev/) profile (headline, role, propic and banner)
 - [ ] Update [Medium](https://medium.com/@mbianchidev) profile (and other blogging sites - bio, propic)
@@ -52,7 +52,7 @@ A small checklist of things to do when changing employer or role.
 - [ ] Update job on Interactive Brokers
 - [ ] Enjoy the new journey!
 
-## When changing role within the same company
+## Todo when changing role within the same company
 
 - [ ] Update LinkedIn profile
 - [ ] Update Medium profile
