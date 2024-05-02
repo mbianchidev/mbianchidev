@@ -91,9 +91,11 @@ Examples:
 
 ### All-hands / City Hall or whatever they call them these days
 
-First of all: 🚩🚩🚩🚩🚩🚩🚩🚩
-If it's a 1-way broadcast it can be a video, right? 
-I'll be eternally grateful if you let me consume it whenever I have time that day or the day after.
+First of all, unless you are announcing IPO: 🚩🚩🚩🚩🚩🚩🚩🚩
+
+If it's a 1-way broadcast it might as well be a video, right?
+
+I'll be eternally grateful if you let me consume your message whenever I have time that day or the day after.
 
 ### 1:1
 
