@@ -4,7 +4,7 @@ I consider myself a mix between a **Software Engineer**, **Platform Engineer** (
 
 I'm a cloud expert, a DevOps coach, an experienced coder in multiple programming languages (Java, Python, Golang, TypeScript...), a mentor, an international speaker, a tech writer, a community leader... ADHD anyone?
 
-As neuro-divergent I think and operate differently from the majority but I think it is my strenght and I'm not afraid to challenge the status quo.
+As neuro-divergent individual I think and operate differently from the majority but I think it is my strenght and I'm not afraid to challenge the status quo.
 
 I don't like resumes but I have a public one, ask me for it if you need it.
 
