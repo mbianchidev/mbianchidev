@@ -1,4 +1,4 @@
-#### Note to recruiters and companies
+# Note to recruiters and companies
 
 I consider myself a mix between a **Software Engineer**, **Platform Engineer** (with DevOps and SRE background), a **Developer Relations Engineer** with a pinch of leadership in me - for sure more than management - 
 
@@ -10,7 +10,7 @@ I don't like resumes but I have a public one, ask me for it if you need it.
 
 Regardless of freelancing or employment, from companies I work with I expect the following...
 
-##### Must 
+## Must 
 
 - Not operating in the following fields:
   - Military / Weaponry
@@ -26,7 +26,7 @@ Regardless of freelancing or employment, from companies I work with I expect the
   - Contribute to OSS without needing to ask anyone's permission
 - Fully cover my travel, accomodation and food expenses if I'm ever required to travel as part of the job - seems obvious but in my experience it is not.
 
-##### Nice to have
+## Nice to have
 
 - Operating in the following fields in order of preference:
   - DevTools
@@ -51,7 +51,7 @@ My physical and mental health has 100% priority over everything else, my family 
 
 I'm not going to compromise and neither should anyone else!
 
-#### Specific to companies in search of a freelancer
+## Specific to companies in search of a freelancer
 
 I'm always looking for new challenges, so if you're looking for a Cloud Native Consultant, feel free to reach out to me.
 My starting hourly rate as a freelancer is 125€/hour.
@@ -65,7 +65,7 @@ Discounts to my freelancer rate are limited to:
 
 I usually prefer to work per-objectives but I'm also open to full-time with some flexibility and limitations to be discussed on a case-by-case basis. 
 
-#### Specific to recruiters or companies in search of an employee
+## Specific to recruiters or companies in search of an employee
 
 I am actively looking for a job, open to new opportunities.
 
@@ -77,6 +77,8 @@ I'm open for relocation but not in every area.
 
 Just know that for salary offers I will check my wide network, levels.fyi and Glassdoor to make sure you're not lowballing me.
 I typically know my market worth and how much your company pays.
+
+## My view on interviews
 
 Addressing the elephant in the room: coding riddles, leetcoding, whiteboard interviews, etc. 
 
