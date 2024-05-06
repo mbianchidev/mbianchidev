@@ -1,13 +1,13 @@
 # Kill all the clusters!
 
 Submitted to:
-- w/ Alessandro Vozza KubeCon EU 2024 - main conference
+- KubeCon EU 2024 - main conference w/ Alessandro Vozza
+- Civo Navigate Europe 2024
 
 Accepted to: 
 - TBD
 
 Submitted as: Cloud Native Consultant @ Freelance
-Submitted with: Alessandro Vozza, DevRel @ Solo.io
 
 **Format**: Standard (35 minutes)
 

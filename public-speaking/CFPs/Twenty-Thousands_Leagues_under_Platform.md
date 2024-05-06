@@ -4,6 +4,7 @@ Submitted to:
 - Platform Engineering Day - KubeCon EU 2024 
 - KCD Zurich 2024
 - Cloud Native Day CH 2024
+- KCD Austria 2024
 
 Accepted to: 
 - TBD

@@ -2,6 +2,7 @@
 
 Submitted to:
 - AppDeveloperCon - KubeCon EU 2024
+- Open Source Summit Europe 2024
 
 Accepted to: 
 - TBD
