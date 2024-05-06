@@ -12,7 +12,7 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 
 ## Speaker
 
-| # | Date | Title | Event | City | Country | Notes |
+| # | Date | Title / video (slides) | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | My talk | Your event | Your City or remote | Your country or timezone | Invite me as a speaker at matteo@mb-consulting.dev |
 | 5 | 19-20th Sep 2024 | Oops I deployed too hard ([slides](https://github.com/mbianchidev)) | [SREday London](https://sreday.com/2024-london/) | London | United Kingdom | TBD |
