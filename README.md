@@ -51,7 +51,7 @@ I learn a lot by teaching, I'm a teacher at heart and I love to share my knowled
 #### Achievements
 
 - Guest Lecturer at University of Turin, speaking about Cloud Native Tech
-- Spoke at international conferences and meetups such as: DevOops meetup, Cloud Native Rejekts EU 2024, DevOpsDays Amsterdam 2024... and more!
+- Spoke at international conferences and meetups such as: DevOops meetup, Cloud Native Rejekts EU 2024, DevOpsDays Amsterdam 2024... and [more](https://github.com/mbianchidev/mbianchidev/blob/master/public-speaking/home.md)!
 - [My first co-founded startup](https://www.linkedin.com/company/kubelab/) - DevTools to streamline Kubernetes management
 - [KLab-CLI](https://github.com/mbianchidev/klab-cli) - an all-in-one CLI to manage EKS, AKS and GKE clusters, powered by Terraform (will migrate to OpenTofu eventually)
 - [Helped a cancer research center to save more lifes](https://www.linkedin.com/pulse/kubelab-netherlands-cancer-institute-partner-around-ai-peter-comstock/?utm_source=rss&utm_campaign=articles_sitemaps&utm_medium=google_news) - Machine Learning on Azure Cloud infrastructure, connected to a mobile gaming app, what a game changer!
