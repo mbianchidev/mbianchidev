@@ -90,9 +90,9 @@ My success rate at the technical interview stages has been around 79.8% out of 1
 
 You know what also bogs me? That more often than not these coding interviews have nothing to do with the job I'm applying for... lol.
 
-Me: "So, this is a coding interview for a Staff SRE role, right? Will I ever write any code even remotely looking like the one I'm asked to solve right now?"
-Interviewer: "No, you are right but this is the process, we just have to execute..."
-Me: "Okay, thanks a lot for your time, bye!"
+- Me: "So, this is a coding interview for a Staff SRE role, right? Will I ever write any code even remotely looking like the one I'm asked to solve right now?"
+- Interviewer: "No, you are right but this is the process, we just have to execute..."
+- Me: "Okay, thanks a lot for your time, bye!"
 
 Btw I also have some open-source code on my GitHub profile, so you can check that out if you really want to see how I code, right? 😉
 
