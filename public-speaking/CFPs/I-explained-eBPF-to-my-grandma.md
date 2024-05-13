@@ -15,12 +15,11 @@ Submitted as: Indipendent w/ Jason Dellaluce (Sysdig)
 
 ## Description / Abstract
 
-Imagine a cozy evening after work, spent with a Kubernetes-aware grandma where she asks you about your day, a day you've spent working with eBPF.
+Picture yourself in a cozy after-work evening spent with your Kubernetes-aware grandma. She asks you about your day, which you mostly spent working with eBPF. Can you describe it in gradma-friendly words?
 
-Would you reveal the mysteries of eBPF to her or would you keep it a secret?
-We have choosen to reveal the secrets of eBPF to our grandmas, comparing it to the secret ingredient that can transform the ordinary kitchen of a tiny restaurant into a Michelin-star kitchen brigade.
+Having done it well for Kubernetes already, Matteo and Jason know that their sweet spot is the kitchen lingo. They'll uncover the secrets of eBPF to their grandmas, presenting it as the secret ingredient for transforming tiny family-owned restaurants into Michelin-star kitchen brigades.
 
-We explored how eBPF enables real-time analysis and manipulation of network packets at the kernel level, we drew parallels to how a chef orchestrates its kitchen to prepare perfect dishes and ensure all food is served to the highest standards and no one gets food poisoning (or hacked).
+Leveraging their trademarked grandma benchmark, they'll employ simple food analogies to explain eBPF for those that never head of it. The session will cover the basics of the technology and the current state of the art, how it enables real-time analysis of network packets, and how it's employed in large-scale cloud native projects. Parallels will be provided on how chefs orchestrate their kitchens to ensure all food is served with top-notch quality, with no client getting food poisoned (or hacked).
 
 ## Benefits to the Ecosystem
 
