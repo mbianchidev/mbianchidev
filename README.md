@@ -12,7 +12,7 @@ I like to define myself as a jack of most trades, master of some.
 
 <details>
   <summary><b>Wanna book a meeting instead?</b></summary>
-  Here's a secret [link](https://mb-consulting.dev/secret)! 🤫
+  Here's a secret <a href="https://mb-consulting.dev/secret">link</a>! 🤫
 </details>
 
 #### My core values
