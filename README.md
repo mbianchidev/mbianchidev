@@ -10,7 +10,10 @@ I like to define myself as a jack of most trades, master of some.
 
 📫 How to reach me: [click here](https://mb-consulting.dev/all-links)
 
-Wanna book a meeting instead? Here's a secret [link](https://mb-consulting.dev/secret)! 🤫
+<details>
+  <summary><b>MWanna book a meeting instead?</b></summary>
+  Here's a secret [link](https://mb-consulting.dev/secret)! 🤫
+</details>
 
 #### My core values
 
