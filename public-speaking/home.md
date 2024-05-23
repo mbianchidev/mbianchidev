@@ -37,6 +37,7 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 | # | Date | Video | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | Your podcast | Your community | Your City or remote | Your country or timezone | Inivte me to your podcast at matteo@mb-consulting.dev |
+| 3 | 18th March 2024 | [BGE 59 - Cervelli Italiani all'estero](https://www.youtube.com/watch?v=XTZ6RLqccNg) | BGE | Paris | France | An episode of the BGE podcast I participated in |
 | 2 | 18th March 2024 | [BGE On the road Ep 4: Kubecon Paris 2024](https://www.youtube.com/live/RHLFucqA1tA?si=lCFvcDHmqvUUzYBa&t=1344) | BGE | Paris | France | An interview I gave to an Italian tech Youtuber |
 | 1 | 15th Feb 2024 | [KubeSights - An Insider's Look at KubeCon + CloudNativeCon (Kubetrain)](https://www.youtube.com/watch?v=degsTTYPNuU) | CNCF | Remote | US | An interview I gave for KubeSights, a podcast by Katie Greenley Sr. Manager, Community Engagement + Outreach @ CNCF |
 
