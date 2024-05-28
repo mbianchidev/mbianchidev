@@ -27,7 +27,7 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 | # | Date | Event | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | Your event | Your group/meetup | Your City or remote | Your country | Invite me to organize at matteo@mb-consulting.dev |
-| 5 | 7th Nov 2024 | KCD Netherlands 2024 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | Organizer, Program Committee, TBD |
+| 5 | TBD? | KCD Netherlands 2024 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | Organizer, Program Committee, TBD |
 | 3 | 20th Jun 2024 | KCD Italy 2024 | Kubernetes Community Days (CNCF) | Bologna | Italy | Program Committee |
 | 3 | 19th Mar 2024 | KubeCon EU 2024, OpenTofu Day co-located event | CNCF | Paris | France | Program Committee |
 | 2 | 18th Mar 2024 | KubeTrain Amsterdam + KubeTrain party | KubeTrain (CNCF) | Amsterdam-Paris | Netherlands, Belgium, France | Founding Organizer |
@@ -38,6 +38,8 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 | # | Date | Video | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | Your podcast | Your community | Your City or remote | Your country or timezone | Inivte me to your podcast at matteo@mb-consulting.dev |
+| 5 | TDB | [KubeFM]() | KubeFM | Remote | Spain | An episode of the KubeFM podcast by Bart Farrell in which I have been interviewed as SME on Kubernetes |
+| 4 | TDB | [CloudCraft]() | CloudCraft | Remote | US | An episode of the CloudCraft podcast by Annie Talvasto in which I have been interviewed as SME on Kubernetes |
 | 3 | 18th March 2024 | [BGE 59 - Cervelli Italiani all'estero](https://www.youtube.com/watch?v=XTZ6RLqccNg) | BGE | Paris | France | An episode of the BGE podcast I participated in |
 | 2 | 18th March 2024 | [BGE On the road Ep 4: Kubecon Paris 2024](https://www.youtube.com/live/RHLFucqA1tA?si=lCFvcDHmqvUUzYBa&t=1344) | BGE | Paris | France | An interview I gave to an Italian tech Youtuber |
 | 1 | 15th Feb 2024 | [KubeSights - An Insider's Look at KubeCon + CloudNativeCon (Kubetrain)](https://www.youtube.com/watch?v=degsTTYPNuU) | CNCF | Remote | US | An interview I gave for KubeSights, a podcast by Katie Greenley Sr. Manager, Community Engagement + Outreach @ CNCF |
