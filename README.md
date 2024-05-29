@@ -109,7 +109,7 @@ See my (partial) tech stack [here](tech-stack.md), I will try to keep it updated
 #### Long story (never) short
 
 <details>
-  <summary>Are you sure? It's really long. TLDR; I like to build stuff</summary>
+  <summary><i>Are you sure? It's really long. TLDR; I like to build stuff</i></summary>
 
   I have always been passionate about computers and technology, but I started to code when I was 15, after switching highschool from a scientific and mostly theoretical one to what in Italy is called "technical" high school, where I learned the basics of programming and computer science 👨‍💻.
   
