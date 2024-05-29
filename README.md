@@ -4,7 +4,7 @@ My name is Matteo but my nicknames are many, depending on the many context you f
 
 I'm an Engineer, living in Europe, currently working as DevRel. I speak at conferences (not necessarily being a speaker, I like to host as well) and sometimes I have fun as Cloud Native Consultant and Trainer.
 I [blog](content-creation/blog/blog.md) about tech and life.
-I organize Kubernetes Community Days in the Netherlands, KubeTrain and contribute to Cloud Native in any way I can.
+I organize tech events and meetups in the Netherlands, KubeTrain and contribute to Cloud Native in any way I can, currently shadowing comms for Kubernetes v.1.31
 
 I like to define myself as a jack of most trades, master of some.
 
@@ -15,12 +15,16 @@ I like to define myself as a jack of most trades, master of some.
   Here's a secret <a href="https://mb-consulting.dev/secret">link</a>! 🤫
 </details>
 
+---
+
 #### My core values
 
 - Transparency
 - Integrity
 - Reliability
 - Creativity
+
+---
 
 #### My mission
 
@@ -29,11 +33,13 @@ I like to define myself as a jack of most trades, master of some.
 - Advocate for Cloud Native Open-Source technologies. Open-Source has been the past, is the present and will be the future of IT and powers the world we live in today.
 - Simplify the life of my fellow developers and engineers, by building tools and services that make their life easier. 
 
+---
 
 #### Big Hairy Audacious Goal (can I say the naming is terrible?)
 
 I want to change the life of 1 million people in the next 5 years.
 
+---
 
 #### Quotes I try to live by
 
@@ -53,6 +59,7 @@ I try to be as clear as possible when communicating with people, with little or 
 
 I learn a lot by teaching, I'm a teacher at heart and I love to share my knowledge and experience with others.
 
+---
 
 #### Achievements
 
@@ -74,6 +81,7 @@ I learn a lot by teaching, I'm a teacher at heart and I love to share my knowled
 - [My former metal band](https://www.youtube.com/watch?v=XBrvnVmkYJw) - 50k+ views/listen _I sing_
 - All the marvellous relationships I've built with people all over the world, in the tech industry but also in the music industry. I'm a people person!
 
+---
 
 #### Extra about me
 
@@ -85,6 +93,8 @@ Read [here](extra.md) if you are curious about my hobbies and interests.
 
 See my (partial) tech stack [here](tech-stack.md), I will try to keep it updated and to find a better way to display it. Suggestions are welcome!
 
+---
+
 #### Important 
 
 - [public GPG key](keys/gpgkey.pub)
@@ -92,10 +102,13 @@ See my (partial) tech stack [here](tech-stack.md), I will try to keep it updated
 - [note to current and future colleagues](note-to-colleagues.md)
 - I have an open calendar, use it!!
 
+---
+
 #### Long story (never) short
 
 <details>
   <summary>Are you sure? It's really long. TLDR; I like to build stuff</summary>
+
   I have always been passionate about computers and technology, but I started to code when I was 15, after switching highschool from a scientific and mostly theoretical one to what in Italy is called "technical" high school, where I learned the basics of programming and computer science 👨‍💻.
   
   I was never a good student, I was always bored by school 🥱 and I never liked to study, but I was always curious and I loved to learn new things, especially if they were related to computers.
