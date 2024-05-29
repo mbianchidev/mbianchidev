@@ -3,7 +3,9 @@
 My name is Matteo but my nicknames are many, depending on the many context you find me in (gaming? reddit? music?).
 
 I'm an Engineer, living in Europe, currently working as DevRel. I speak at conferences (not necessarily being a speaker, I like to host as well) and sometimes I have fun as Cloud Native Consultant and Trainer.
+
 I [blog](content-creation/blog/blog.md) about tech and life.
+
 I organize tech events and meetups in the Netherlands, KubeTrain and contribute to Cloud Native in any way I can, currently shadowing comms for Kubernetes v.1.31
 
 I like to define myself as a jack of most trades, master of some.
