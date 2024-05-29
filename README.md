@@ -53,10 +53,10 @@ I learn a lot by teaching, I'm a teacher at heart and I love to share my knowled
 
 #### Achievements
 
-- [Kubernetes Comms Shadow for release v1.31](https://github.com/kubernetes/org/issues/4975)
+- [Kubernetes v1.31 Comms Shadow](https://github.com/kubernetes/org/issues/4975)
 - Nominated [CIVO Ambassador](https://www.civo.com/ambassadors)
 - Guest Lecturer at the University of Turin, teaching about Cloud Native Tech to the students of the Computer Science course
-- Spoke at local meetups and international conferences such as: Cloud Native Rejekts EU 2024, DevOpsDays Amsterdam 2024... and [more](https://github.com/mbianchidev/mbianchidev/blob/master/public-speaking/home.md)!
+- Spoke at several local meetups, podcasts and international conferences such as: Cloud Native Rejekts EU 2024, DevOpsDays Amsterdam 2024... and [more](https://github.com/mbianchidev/mbianchidev/blob/master/public-speaking/home.md)!
 - [My first co-founded startup](https://www.linkedin.com/company/kubelab/) - DevTools to streamline Kubernetes management
 - [KLab-CLI](https://github.com/mbianchidev/klab-cli) - an all-in-one CLI to manage EKS, AKS and GKE clusters, powered by Terraform (will migrate to OpenTofu eventually)
 - [Helped a cancer research center to save more lifes](https://www.linkedin.com/pulse/kubelab-netherlands-cancer-institute-partner-around-ai-peter-comstock/?utm_source=rss&utm_campaign=articles_sitemaps&utm_medium=google_news) - Machine Learning on Azure Cloud infrastructure, connected to a mobile gaming app, what a game changer!
