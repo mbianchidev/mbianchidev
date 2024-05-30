@@ -67,7 +67,7 @@ I learn a lot by teaching, I'm a teacher at heart and I love to share my knowled
 
 - [Kubernetes v1.31 Comms Shadow](https://github.com/kubernetes/org/issues/4975)
 - Nominated [CIVO Ambassador](https://www.civo.com/ambassadors)
-- KCD 2024 program committee
+- KCD Italy 2024 program committee
 - Guest Lecturer at the University of Turin, teaching about Cloud Native Tech to the students of the Computer Science course
 - Spoke at several local meetups, podcasts and international conferences such as: Cloud Native Rejekts EU 2024, DevOpsDays Amsterdam 2024... and [more](https://github.com/mbianchidev/mbianchidev/blob/master/public-speaking/home.md)!
 - [My first co-founded startup](https://www.linkedin.com/company/kubelab/) - Building a Platform Engineering tool to streamline multi-cloud Kubernetes management (200k pre-seed raised)
