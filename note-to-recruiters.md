@@ -12,15 +12,15 @@ Regardless of freelancing or employment, from companies I work with I expect the
 
 ## Must 
 
-- Not operating in the following fields:
+- Not be operating in the following fields:
   - Military / Weaponry
   - Gambling / Online-Casino
   - Shitcoin (crypto scams) / NFTs (unless smart contracts)
   - Oil & Gas
   - Governments that are not on my allowlist (or have ties with them) 
-- Body Rental consultancy is a **big NO NO** for me, I'm not a commodity and you're not going to make money over my head.
-- Allowing full-remote, even better being remote-first or mostly async - if you have an office I will happily come by for social events if I feel like it.
-- A moonlight policy that allows me to
+- Be a body shop consultancy firm, for me this is a **big NO NO** for me, I'm not a commodity and you're not going to make any margin over my hard work - I can support customers by myself via freelancing.
+- Allow to operate full-remote, even better being remote-first or mostly async but if you have an office I will happily come by for social events if I feel like it - Company offsites are ok (full expenses covered and possibly not in the weekend, I typically have other plans) 
+- Have a moonlight policy that allows me to:
   - Coach/mentor people 1:1 (off hours)
   - Organize (off hours) - and go (mostly during work hours) - to tech events 
   - Contribute to OSS without needing to ask anyone's permission
@@ -39,7 +39,7 @@ Regardless of freelancing or employment, from companies I work with I expect the
    - Advise startups (non-competing)
    - Have my own side projects generating revenues (non-competing) - e.g. writing a book, publishing a fitness app on the app store
 - Overall flexibility, here's some examples of what I mean:
-  - I don't necessarily dig waking up at 9 AM every day for a standup meeting - that could be done async or not at all.
+  - I don't necessarily dig waking up at 9 AM every day for a standup meeting - that could be done async or even avoided.
   - I don't like to be forced to a boring 9-5, I prefer to work per objectives/goals when I'm in my best shape and I cannot do it if my laundry is not done! On a serious note, I never had issues with delivering results in my career, they say I'm a responsible and reliable person.
   - I like going to and organizing conferences, meetups and events. I want to be able to do that without having to take PTOs, I'm ok with booth duties ofc.
 
