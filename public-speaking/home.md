@@ -27,7 +27,8 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 | # | Date | Event | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | Your event | Your group/meetup | Your City or remote | Your country | Invite me to organize at matteo@mb-consulting.dev |
-| 6 | TBD? | KCD Netherlands 2024 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | Organizer, Program Committee, TBD |
+| - | TBD? | KCD Netherlands 2024 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | Organizer, Program Committee, TBD |
+| 6 | October 2024 | Cloud Native Sustainability Week 2024 | Cloud Native Community Groups (CNCF) | Amsterdam | Netherlands | Organizer, Program Committee |
 | 5 | 20th Jun 2024 | KCD Italy 2024 | Kubernetes Community Days (CNCF) | Bologna | Italy | Program Committee |
 | 4 | 13th Jun 2024 | KuberTENes | Cloud Native Community Groups (CNCF) | Amsterdam | Netherlands | Organizer |
 | 3 | 19th Mar 2024 | KubeCon EU 2024, OpenTofu Day co-located event | CNCF | Paris | France | Program Committee |
