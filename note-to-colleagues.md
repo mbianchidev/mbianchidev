@@ -31,7 +31,7 @@ If you're angry it's completely valid. You need to take a break, go for a walk, 
 
 Btw I can scream at a higher volume than you, here's [proof](https://www.youtube.com/watch?v=mqukHybn6zg) 😂
 
-## Touching 
+## Touching
 
 I really don't like to be touched, unless I explicitly gave consent for it. 
 I'm not a hugger on the job unless we know each other really well. I'm a handshaker, high-fiver and a fist-bumper!
@@ -50,7 +50,7 @@ Context is love, context is life.
 
 ## Communication
 
-- Email ✅ - I usually check it twice a day (morning and afternoon)
+- Email ✅ - I usually check it twice a day (morning and afternoon) - note: I'm a zero inbox person, I will read or forward or automatically discard all of my emails.
 - Slack ✅ - Love them messages and huddles, I check it after every meeting and if I have none - every 2 hours, unless I'm in a deep work status.
 - Phone (work) ✅ - I reply if I am on-call or if it's an emergency, otherwise I will call you back when I'm available
 - Phone (personal) ❌ - Quite difficult that I give away my personal number - sorry, I separate 99.999% (yes, those are three nines) work and personal life - In case you have my personal it means I'm fond of you so please don't call me for work-related stuff.
