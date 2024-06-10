@@ -18,7 +18,7 @@ Regardless of freelancing or employment, from companies I work with I expect the
   - Shitcoin (crypto scams) / NFTs (unless smart contracts)
   - Oil & Gas
   - Governments that are not on my allowlist (or have ties with them) 
-- Be a body shop consultancy firm, for me this is a **big NO NO** for me, I'm not a commodity and you're not going to make any margin over my hard work - I can support customers by myself via freelancing.
+- Be a body shop consultancy firm, for me this is a **big NO NO**, I'm not a commodity and you're not going to make any margin over my hard work - I can support customers by myself via freelancing.
 - Allow to operate full-remote, even better being remote-first or mostly async but if you have an office I will happily come by for social events if I feel like it - Company offsites are ok (full expenses covered and possibly not in the weekend, I typically have other plans) 
 - Have a moonlight policy that allows me to:
   - Coach/mentor people 1:1 (off hours)
