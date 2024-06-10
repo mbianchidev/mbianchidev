@@ -1,6 +1,6 @@
 # Note to recruiters and companies
 
-I consider myself a mix between a **Software Engineer**, **Platform Engineer** (with DevOps and SRE background), a **Developer Relations Engineer** with a pinch of leadership in me - for sure more than management - 
+I consider myself a mix between a **Software Engineer**, **Platform Engineer** (with DevOps and SRE background), a **Developer Relations Engineer** with a pinch of leadership in me - for sure more than management - and a love for both Product and Customer-related roles.
 
 I'm a cloud expert, a DevOps coach, an experienced coder in multiple programming languages (Java, Python, Golang, TypeScript...), a mentor, an international speaker, a tech writer, a community leader... ADHD anyone?
 
