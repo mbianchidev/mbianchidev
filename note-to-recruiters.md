@@ -34,7 +34,7 @@ Regardless of freelancing or employment, from companies I work with I expect the
   - ML/AI
   - Cloud Native tech (Monitoring, Observablity, Security, CI/CD, etc.)
 - Being a startup/scaleup, therefore having low bureaucracy and being able to move fast!
-- Work from anywhere so I can work for 1 month from Bali, Indonesia 🤩
+- Work from anywhere so I can work for 3 month from Bali, Indonesia or wherever I want
 -  A moonlight policy that allows me to also:
    - Advise startups (non-competing)
    - Have my own side projects generating revenues (non-competing) - e.g. writing a book, publishing a fitness app on the app store
