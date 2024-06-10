@@ -22,8 +22,10 @@ Regardless of freelancing or employment, from companies I work with I expect the
 - Allow to operate full-remote, even better being remote-first or mostly async but if you have an office I will happily come by for social events if I feel like it - Company offsites are ok (full expenses covered and possibly not in the weekend, I typically have other plans) 
 - Have a moonlight policy that allows me to:
   - Coach/mentor people 1:1 (off hours)
-  - Organize (off hours) - and go (mostly during work hours) - to tech events 
-  - Contribute to OSS without needing to ask anyone's permission
+  - Contribute to OSS without needing to ask for permission
+  - Consultancy work in respect of a non-compete agreement (off hours)
+- Allow me to organize (off hours) - and go (mostly during work hours) - to tech events
+- Allow me to speak at tech events (during work hours), without making me take PTO
 - Fully cover my travel, accomodation and food expenses if I'm ever required to travel as part of the job - seems obvious but in my experience it is not.
 
 ## Nice to have
@@ -41,10 +43,10 @@ Regardless of freelancing or employment, from companies I work with I expect the
 - Overall flexibility, here's some examples of what I mean:
   - I don't necessarily dig waking up at 9 AM every day for a standup meeting - that could be done async or even avoided.
   - I don't like to be forced to a boring 9-5, I prefer to work per objectives/goals when I'm in my best shape and I cannot do it if my laundry is not done! On a serious note, I never had issues with delivering results in my career, they say I'm a responsible and reliable person.
-  - I like going to and organizing conferences, meetups and events. I want to be able to do that without having to take PTOs, I'm ok with booth duties ofc.
+- Sponsor events that I organize, which is also the only way for me to have booth duties, lead quotas or any objective when I go to a conference on your company's behalf.
+- Sponsor my presence at tech events, which is also the only way for me to put the company name on my badge and a mention during my talk
 
-
-**TLDR; just be a nice company and I will be a nice employee/freelancer for you.**
+**TLDR; just be a nice company to me and I will be a very nice employee/freelancer to you.**
 
 
 My physical and mental health has 100% priority over everything else, my family is a priority. 
@@ -58,7 +60,7 @@ My starting hourly rate as a freelancer is 125€/hour.
 My daily rate as a freelancer is 1000€/day - 8 hours/day.
 
 Discounts to my freelancer rate are limited to: 
-  - education - I really enjoy teaching;
+  - education - I really enjoy teaching tech and I have been a guest lecturer in university before;
   - non-for profit orgs;
   - meaningful work - e.g. sustainability, security...
   - pre-seed/seed startups - only when initial funding is low or none and I really dig the idea, plus the founder(s). Series A+ get the full price, sorry.
@@ -67,7 +69,7 @@ I usually prefer to work per-objectives but I'm also open to full-time with some
 
 ## Specific to recruiters or companies in search of an employee
 
-I am actively looking for a job, open to new opportunities.
+While I could not be actively looking for a job, I'm always open to new opportunities.
 
 To have an idea of my salary expectations for a full-time position, as of 2024, is:
 - minimum 120k base €/year (EU) + bonus + equity + perks
@@ -76,7 +78,7 @@ To have an idea of my salary expectations for a full-time position, as of 2024, 
 I'm open for relocation but not in every area.
 
 Just know that for salary offers I will check my wide network, levels.fyi and Glassdoor to make sure you're not lowballing me.
-I typically know my market worth and how much your company pays.
+Just keep in mind that I know my market worth and how much your company typically pays for the role I'm applying for.
 
 ## My view on interviews
 
@@ -98,6 +100,6 @@ Btw I also have some open-source code on my GitHub profile, so you can check tha
 
 One last thing, about the concerning numbers of interviews: yes, I do sparring interviews once every some-months, just to keep up with the market and understand if I can get a better job than my current one.
 
-If you have a fair development plan in place (salary evaluation included) you have nothing to worry about. Literally.
+If you have a fair development plan in place (with salary evaluation included) you have nothing to worry about. Literally.
 
 Cookies and a big high five for reading this far 🍪🍪🍪
