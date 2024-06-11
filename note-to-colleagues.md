@@ -87,7 +87,22 @@ Examples:
 
 - Non-work related 🟡 - I'll take my time to reply, thanks for messaging!
 
+
 ## Meetings
+
+If you feel the need to involve me in a meeting be sure to send me an agenda and set a clear expectation for my contribution.
+
+Most of the times meetings can be async or a shared doc where we brainstorm, hence I try to avoid meetings unless it's necessary. 
+I highly prefer async communication, it's more efficient and it allows us to focus on getting the actual work done.
+
+I will really be fond of you in case you will choose to schedule any kind of meeting at least 24 hours in advance and according to my time zone.
+If you need to reschedule, no big deal, just let me know with a quick message but it doesn't have to become the norm or I won't accept any further meeting invite.
+
+### Recurring
+
+I find them useful, to catch up, to have a quick overview, to update any kind of status and to finalize some items, again: they need an agenda.
+
+In case you need to loosen the schedule of recurring meetings I'm 100% with you, just ask / tell instead of pushing them of 1 hour multiple times.
 
 ### All-hands / City Hall or whatever they call them these days
 
@@ -104,13 +119,12 @@ Once a month works.
 
 ### Big Group Meetings
 
-Unless necessary, I try to avoid group meetings. I prefer async communication, it's more efficient and it allows us to focus on getting the actual work done.
+I will join in time and I'll be super happy to say hi to the team but...
 
-If you feel the need to involve me in a group meeting be sure to send me an agenda and set a clear expectation for my contribution.
-I will join in time and I'll be super happy to help you!
+Don't take it personal if I decline. 
 
-Don't take it personal if I decline. Typical reasons are:
-- Missing agenda, update it and send me a message about it.
+Typical reasons are:
+- Missing agenda, should be in the meeting description.
 - Conflicting meeting and yours was deemed to have a lesser priority/urgency, reschedule if you can.
 - I don't know who you are / we don't work together so I assume you added me by mistake, shit happens!
 - There are already people smarter than me that can serve my same purpose/role, sorry but I would be redundant and not helpful.
