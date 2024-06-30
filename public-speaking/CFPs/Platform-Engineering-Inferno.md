@@ -12,7 +12,6 @@ Submitted as: DevRel @ Omnistrate
 **Format**: Standard (25 minutes)
 
 **Slides**: [here](https://docs.google.com/presentation/d/1z0HffGYTlR2V6JmJ3ThLprIRV2F6_i0VYq7cYqVBKoI/edit#slide=id.p1)
-**Video**: [here](https://www.youtube.com/live/ccAcCnLKO9s?si=v9Vmep_ExkOlOtL_&t=22687)
 
 ## Description / Abstract
 
