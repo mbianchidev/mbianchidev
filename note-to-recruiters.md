@@ -49,9 +49,9 @@ Regardless of freelancing or employment, from companies I work with I expect the
 **TLDR; just be a nice company to me and I will be a very nice employee/freelancer to you.**
 
 
-My physical and mental health has 100% priority over everything else, my family is a priority. 
+My physical and mental health has 100% priority over everything else, my family has a higher priority than **any** job. 
 
-I'm not going to compromise and neither should anyone else!
+I'm not going to compromise on these and neither should anyone else!
 
 ## Specific to companies in search of a freelancer
 
