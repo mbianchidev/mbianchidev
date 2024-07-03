@@ -2,7 +2,7 @@
 
 I consider myself a mix between a **Software Engineer**, **Platform Engineer** (with DevOps and SRE background), a **Developer Relations Engineer** with a pinch of leadership in me - for sure more than management - and a love for both Product and Customer-related roles.
 
-I'm a cloud expert, a DevOps coach, an experienced coder in multiple programming languages (Java, Python, Golang, TypeScript...), a mentor, an international speaker, a tech writer, a community leader... ADHD anyone?
+I'm a Kubernetes & cloud expert, a DevOps coach, an experienced coder in multiple programming languages (Java, Python, Golang, TypeScript...), a mentor, an international speaker, a tech writer, a community leader... ADHD anyone?
 
 As neuro-divergent individual I think and operate differently from the majority but I think it is my strenght and I'm not afraid to challenge the status quo.
 
@@ -19,7 +19,7 @@ Regardless of freelancing or employment, from companies I work with I expect the
   - Oil & Gas
   - Governments that are not on my allowlist (or have ties with them) 
 - Be a body shop consultancy firm, for me this is a **big NO NO**, I'm not a commodity and you're not going to make any margin over my hard work - I can support customers myself via freelancing.
-- Allow to operate full-remote, even better being remote-first or mostly async but if you have an office I will happily come by for social events if I feel like it - Company offsites are ok (full expenses covered and possibly not in the weekend, I typically have other plans) 
+- Allow to operate full-remote, even better being remote-first or mostly async but if you have an office I will happily come by for social events if I feel like it - Company offsites are ok (full expenses covered and possibly not in the weekend as I typically have other plans) 
 - Have a moonlight policy that allows me to:
   - Coach/mentor people 1:1 (off hours)
   - Contribute to OSS without needing to ask for permission
