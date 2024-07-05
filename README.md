@@ -2,7 +2,7 @@
 
 My name is Matteo but my nicknames are many, depending on the many context you find me in (gaming? reddit? music?).
 
-I'm an Engineer, living in Europe, currently working as DevRel. I speak at conferences (not necessarily being a speaker, I like to host as well) and sometimes I have fun as Cloud Native Consultant and Trainer.
+I'm an Engineer, living in Europe. I go to conferences  but not necessarily being a speaker, I like to host as well.
 
 I [blog](content-creation/blog/blog.md) about tech and life.
 
