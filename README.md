@@ -2,9 +2,7 @@
 
 My name is Matteo, I'm a multi-faceted Engineer, living in Europe. 
 
-I go to conferences  but not necessarily being a speaker, I like to host and organize as well.
-
-I organize tech events and meetups in the Netherlands, KubeTrain and contribute to Cloud Native in any way I can, currently shadowing comms for Kubernetes v.1.31
+I go to conferences  but not necessarily being a speaker, I also organize tech events and meetups in the Netherlands, KubeTrain and contribute to Cloud Native in any way I can, currently shadowing comms for Kubernetes v.1.31
 
 I [create content](content-creation/home.md) about tech and life.
 
@@ -36,13 +34,11 @@ See my (partial) tech stack [here](tech-stack.md), I will try to keep it updated
 
 ---
 
-#### Important 
-
-- [public GPG key](keys/gpgkey.pub) to message me about secret stuff, fun fact: I've had a state-mandated security clearance in the past.
-- [note to recruiters and companies](note-to-recruiters.md)
-- [note to current and future colleagues](note-to-colleagues.md)
-
 #### Contact me
+
+- [public GPG key](keys/gpgkey.pub) to message me about privacy-sensitive stuff.
+- recruiters and companies, please read [this](note-to-recruiters.md)
+- colleagues, please read [this](note-to-colleagues.md)
 
 📫 How to reach me: [click here](https://mb-consulting.dev/all-links)
 
