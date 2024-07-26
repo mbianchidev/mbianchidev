@@ -6,7 +6,7 @@ I go to conferences  but not necessarily being a speaker, I like to host and org
 
 I organize tech events and meetups in the Netherlands, KubeTrain and contribute to Cloud Native in any way I can, currently shadowing comms for Kubernetes v.1.31
 
-I [blog](content-creation/home.md) about tech and life.
+I [create content](content-creation/home.md) about tech and life.
 
 I like to define myself as a _jack of most trades, master of some_.
 
