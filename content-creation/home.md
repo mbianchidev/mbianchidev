@@ -12,3 +12,7 @@
 ## Most viewed blogs
 - [2023 DevOps is Terrible.](https://blog.mb-consulting.dev/2023-devops-is-terrible-ec88162c86d7) - also reshared by people on [hacker news](https://news.ycombinator.com/item?id=37728915) and other platforms. (75k views)
 - [Scrum sucks.](https://medium.com/@mbianchidev/scrum-sucks-9960011fc5cf) - also republished, translated in German
+
+## Videos, podcasts and public speaking
+
+Please see [here](https://github.com/mbianchidev/mbianchidev/blob/master/public-speaking/home.md)
