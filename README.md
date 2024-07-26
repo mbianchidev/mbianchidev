@@ -1,87 +1,26 @@
 #### Hi there!
 
-My name is Matteo but my nicknames are many, depending on the many context you find me in (gaming? reddit? music?).
+My name is Matteo, I'm a multi-faceted Engineer, living in Europe. 
 
-I'm an Engineer, living in Europe. I go to conferences  but not necessarily being a speaker, I like to host as well.
-
-I [blog](content-creation/blog/blog.md) about tech and life.
+I go to conferences  but not necessarily being a speaker, I like to host and organize as well.
 
 I organize tech events and meetups in the Netherlands, KubeTrain and contribute to Cloud Native in any way I can, currently shadowing comms for Kubernetes v.1.31
 
-I like to define myself as a jack of most trades, master of some.
+I [blog](content-creation/blog/blog.md) about tech and life.
 
-📫 How to reach me: [click here](https://mb-consulting.dev/all-links)
-
-<details>
-  <summary><b>Wanna book a meeting instead?</b></summary>
-  Here's a secret <a href="https://mb-consulting.dev/secret">link</a>! 🤫
-</details>
-
----
-
-#### My core values
-
-- Transparency
-- Integrity
-- Reliability
-- Creativity
-
----
-
-#### My mission
-
-- Do my best to make the world a better place by building something meaningful and impactful.
-- Help engineers to achieve their goals, sharing my knowledge and experience and giving back to the community that helped me to grow.
-- Advocate for Cloud Native Open-Source technologies. Open-Source has been the past, is the present and will be the future of IT and powers the world we live in today.
-- Simplify the life of my fellow developers and engineers, by building tools and services that make their life easier. 
-
----
-
-#### Big Hairy Audacious Goal (can I say the naming is terrible?)
-
-I want to change the life of 1 million people in the next 5 years.
-
----
-
-#### Quotes I try to live by
-
-- "If you torture the data long enough, it will confess to anything." - _Ronald Coase_ 
-
-This basically thought me to not fully believe data unless I know context and how it has been collected.
-
-- The best code is no code at all. - [_Coding Horror blog_](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
-
-I think this is self-explanatory but I'll add that before writing new code I always ask myself: "Is there a way to do this without writing (a lot of) code?". Answer is usually open-source, SaaS or adapt pre-existing code. Still, I try to keep my code as simple as possible following KISS, DRY and YAGNI principles.
-
-- "Clear is kind. Unclear is unkind." - _Brene Brown_
-
-I try to be as clear as possible when communicating with people, with little or no space for ambiguity. I also try to be kind, but I'm not always perceived as such, truth hurts sometimes.
-
-- "Homines dum docent discunt." / Humans learn while they teach. - _Seneca_
-
-I learn a lot by teaching, I'm a teacher at heart and I love to share my knowledge and experience with others.
+I like to define myself as a _jack of most trades, master of some_.
 
 ---
 
 #### Achievements
 
-- [Kubernetes v1.31 Comms Shadow](https://github.com/kubernetes/org/issues/4975)
-- Nominated [CIVO Ambassador](https://www.civo.com/ambassadors)
-- KCD Italy 2024 program committee
-- Guest Lecturer at the University of Turin, teaching about Cloud Native Tech to the students of the Computer Science course
-- Spoke at several local meetups, podcasts and international conferences such as: Cloud Native Rejekts EU 2024, DevOpsDays Amsterdam 2024... and [more](https://github.com/mbianchidev/mbianchidev/blob/master/public-speaking/home.md)!
-- [My first co-founded startup](https://www.linkedin.com/company/kubelab/) - Building a Platform Engineering tool to streamline multi-cloud Kubernetes management (200k pre-seed raised)
-- [KLab-CLI](https://github.com/mbianchidev/klab-cli) - an all-in-one CLI to manage EKS, AKS and GKE clusters, powered by Terraform (will migrate to OpenTofu eventually)
-- [Helped a cancer research center to save more lifes](https://www.linkedin.com/pulse/kubelab-netherlands-cancer-institute-partner-around-ai-peter-comstock/?utm_source=rss&utm_campaign=articles_sitemaps&utm_medium=google_news) - Machine Learning on Azure Cloud infrastructure, connected to a mobile gaming app, what a game changer!
-- [My tech blog](https://mb-consulting.dev/blog) - 50k+ views monthly, 1400+ subscribers
-- [KCD (Kubernetes Community Days) organizer](https://community.cncf.io/kcd-netherlands/) - KCD Utrecht 2023 ([program committee](https://www.credly.com/badges/c9bc9d4e-02bb-4bcd-85a3-00f63981688a))
-- [Organizer of Kubetrain from Amsterdam to Paris for KubeCon EU 2024](https://kubetrain.io/)
-- [Program Committee KubeCon EU 2024](https://www.credly.com/badges/0ab0b4ed-7ca1-4bab-8643-8ad4d06efe70)
-- [Built a community of italian freelancers](https://www.linkedin.com/groups/14023713/) - 1000+ members
-- [Hosted a live podcast about IT and freelancing](https://www.twitch.tv/freelancezoo)
-- [An engaging 2D game](https://github.com/mbianchidev/blockster-2d) built during a 48-hours hackaton at Polimi (IT)
-- [My former metal band](https://www.youtube.com/watch?v=XBrvnVmkYJw) - 50k+ views/listen _I sing_
-- All the marvellous relationships I've built with people all over the world, in the tech industry but also in the music industry. I'm a people person!
+Take a look at my [achievements](achievements.md) if you are curious about what I've accomplished so far.
+
+---
+
+#### Values and mission
+
+Read [here](values-and-mission.md) if you are curious about my core values, mission and BHAG.
 
 ---
 
@@ -99,10 +38,20 @@ See my (partial) tech stack [here](tech-stack.md), I will try to keep it updated
 
 #### Important 
 
-- [public GPG key](keys/gpgkey.pub)
+- [public GPG key](keys/gpgkey.pub) to message me about secret stuff, fun fact: I've had a state-mandated security clearance in the past.
 - [note to recruiters and companies](note-to-recruiters.md)
 - [note to current and future colleagues](note-to-colleagues.md)
-- I have an open calendar, use it!!
+
+#### Contact me
+
+📫 How to reach me: [click here](https://mb-consulting.dev/all-links)
+
+Or just look for @mbianchidev on your favorite social media platform.
+
+<details>
+  <summary><b>Wanna book a meeting instead?</b></summary>
+  Here's a secret <a href="https://mb-consulting.dev/secret">link</a>! 🤫
+</details>
 
 ---
 
