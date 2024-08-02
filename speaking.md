@@ -11,6 +11,12 @@ I truly love open source, technology and communities and I'm always excited to h
 
 I have some requirements and standards for accepting a speaking slot, submitting to a CFP, or engaging in any promotion of your event (yes, including reshares on X or LinkedIn).
 
+### Bio and Headshot
+
+You can find my bio [here](/public-speaking/home.md).
+
+You can find pictures of me to use for your event, [here](/images/).
+
 ### Code of Conduct
 
 Your event must have an explicitly-defined, enforced Code of Conduct linked publicly on your event's website, preferably as a top-level menu item. It should include a clear, readable description of what behavior is and is not acceptable, as well as at least one way for someone to report a violation, preferably not only to the organizers (external committee ftw). 
