@@ -41,6 +41,7 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 | # | Date | Video | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | Your podcast | Your community | Your City or remote | Your country or timezone | Inivte me to your podcast at matteo@mb-consulting.dev |
+| 7 | 13th Aug 2024 | [De Nederlandse Kubernetes Podcast](https://www.k8spodcast.nl/) | Dutch Kubernetes Community | Amsterdam | Netherlands | An episode of the De Nederlandse Kubernetes Podcast by Ronald Kers and Jan Stomphorst, in which I have been interviewed as part of the release team for v1.31, the episode focuses on release team stories and features going out on Kubernetes for the 1.31 release |
 | 6 | TDB | [KubeFM]() | KubeFM | Remote | Spain | An episode of the KubeFM podcast by Bart Farrell in which I have been interviewed as SME on Kubernetes |
 | 5 | TDB | [CloudCraft]() | CloudCraft | Remote | US | An episode of the CloudCraft podcast by Annie Talvasto in which I have been interviewed as SME on Kubernetes |
 | 4 | 5th Jun 2024 | [KuberTENes 10 anni di Kubernetes](https://www.youtube.com/watch?v=kqRp7HZ-FJg) | Cloud Native Community Groups (CNCF) | Remote | Italy | Panelist, future of Kubernetes |
