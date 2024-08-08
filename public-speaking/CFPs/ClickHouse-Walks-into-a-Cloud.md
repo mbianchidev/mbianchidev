@@ -1,10 +1,10 @@
 # ClickHouse walks into a Cloud...
 
 Submitted to:
-- N.A.
+- KCD Lahore 2024
 
 Accepted to: 
-- N.A.
+- KCD Lahore 2024
 
 Submitted as: Cloud Native Consultant
 

@@ -24,7 +24,7 @@ A paragraph of legalese buried in the Terms of Use is not sufficient to meet thi
 
 ### Speaker Diversity
 
-Across your entire event, there must be adequate representation of expressions. The exact requirements is not written in stone, especially for smaller events, but generally, at least 20% of your total speaker lineup should be people who are diverse. By diverse I don't mean as most people do "not cisgender white males", but rather a mix of people from different backgrounds, experiences, and perspectives. This should include queer people, neuro-diverse people, people with disabilities, people from different countries than the hosting one and people from different industries or from academia.
+Across your entire event, there must be adequate representation of expressions. The exact requirements is not written in stone, especially for smaller events, but generally, at least 20% of your total speaker lineup should be people who are diverse. By diverse I don't mean as most people do "not cisgender white males", but rather a mix of people from different backgrounds, experiences, and perspectives. This should definitely include queer people, neuro-diverse people, people with disabilities, people from different countries than the hosting one and people from different industries or from academia as well as not cisgender white males (I'm not one btw).
 
 I believe underrepresented groups should be given some form of priority in the selection process but without lowering the bar for quality. 
 I'm an organizer myself and I know how hard it is to find diverse speakers, on the other hand I don't believe in tokenism, so you shouldn't be forced to accept a bad talk just because it's from an underrepresented group.
@@ -42,11 +42,13 @@ If your event is a significant time zone change from me (Central European Time, 
 
 In any case you will need to cover only conference-related expenses, I will cover all other costs for my extra stay.
 
-### Speaking Fees and Honorariums
+### Fees
 
-Since speaking at events is typically part of my job or I very much enjoy it, I do not generally require a speaking fee or an honorarium.
+Since speaking at events is typically part of my job or I very much enjoy it, I do not generally require a speaking fee.
 
 Unless it's a large-scale, corporate event where the organizing company stands to make a profit (AWS Re:Invent anyone?), or private internal corporate events: in both of these cases, my fee is negotiable based on the size of the event and whether or not I am a keynote speaker.
+
+If you reimburse me for whatever, I will be happy and most likely donate it to a charity, so please let me know if you want me to donate it to a specific one.
 
 ### Intellectual Property
 
