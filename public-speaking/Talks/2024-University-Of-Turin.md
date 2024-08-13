@@ -1,4 +1,4 @@
-# Conference/Meetup name
+# UniversiTalks 2024 - University of Turin
 
 - Where: University of Turin - Computer Science Campus, Turin (IT)
 - Event link: [website](https://example.com)
