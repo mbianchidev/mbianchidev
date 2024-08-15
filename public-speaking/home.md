@@ -42,8 +42,8 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | Your podcast | Your community | Your City or remote | Your country or timezone | Inivte me to your podcast at matteo@mb-consulting.dev |
 | 7 | 13th Aug 2024 | [De Nederlandse Kubernetes Podcast](https://open.spotify.com/episode/7bUbEvnwg4iZAFi99KwtgD?si=9542753cfe144154&nd=1&dlsi=2f17bd34171941f0) | Dutch Kubernetes Community | Amsterdam | Netherlands | An episode of the De Nederlandse Kubernetes Podcast by Ronald Kers and Jan Stomphorst, in which I have been interviewed as part of the release team for v1.31, the episode focuses on release team stories and features going out on Kubernetes for the 1.31 release |
-| 6 | TDB | [KubeFM]() | KubeFM | Remote | Spain | An episode of the KubeFM podcast by Bart Farrell in which I have been interviewed as SME on Kubernetes |
-| 5 | TDB | [CloudCraft]() | CloudCraft | Remote | US | An episode of the CloudCraft podcast by Annie Talvasto in which I have been interviewed as SME on Kubernetes |
+| 6 | Recorded but not published | [KubeFM]() | KubeFM | Remote | Spain | An episode of the KubeFM podcast by Bart Farrell in which I have been interviewed as SME on Kubernetes |
+| 5 | Recorded but not published | [CloudCraft]() | CloudCraft | Remote | US | An episode of the CloudCraft podcast by Annie Talvasto in which I have been interviewed as SME on Kubernetes |
 | 4 | 5th Jun 2024 | [KuberTENes 10 anni di Kubernetes](https://www.youtube.com/watch?v=kqRp7HZ-FJg) | Cloud Native Community Groups (CNCF) | Remote | Italy | Panelist, future of Kubernetes |
 | 3 | 18th March 2024 | [BGE 59 - Cervelli Italiani all'estero](https://www.youtube.com/watch?v=XTZ6RLqccNg) | BGE | Remote | Italy | An episode of the BGE podcast I participated in |
 | 2 | 18th March 2024 | [BGE On the road Ep 4: Kubecon Paris 2024](https://www.youtube.com/live/RHLFucqA1tA?si=lCFvcDHmqvUUzYBa&t=1344) | BGE | Paris | France | An interview I gave to an Italian tech Youtuber |
