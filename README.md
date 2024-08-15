@@ -2,7 +2,7 @@
 
 My name is Matteo, I'm a multi-faceted Engineer, living in Europe. 
 
-I go to conferences  but not necessarily being a speaker, I also organize tech events and meetups in the Netherlands, KubeTrain and contribute to Cloud Native in any way I can, currently shadowing comms for Kubernetes v.1.31
+I go to conferences  but not necessarily being a speaker, I also organize tech events and meetups in the Netherlands, KubeTrain and contribute to Cloud Native in any way I can, currently leading comms for Kubernetes v.1.32
 
 I [create content](content-creation/home.md) about tech and life.
 
