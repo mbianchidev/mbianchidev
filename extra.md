@@ -1,38 +1,37 @@
 #### In my free (really free) time...
 
-- I read books about psychology, philosophy, history, science, technology, business, finance, etc. - _I'm a nerd 🤓_
+- I read books about psychology, philosophy, history, science, technology, business, finance, etc. - _I'm a book nerd 🤓_
 - I curate a list of personal finance resources [here](https://github.com/mbianchidev/financial-cool)
 - I go to concerts! - _I'm a metalhead 🤘_
-- I hike - _I'm a nature lover 🌲_
+- I hike but nothing too challenging - _I'm just a nature lover 🌲_
 - I try to stay fit and used to do combat sports (Kickboxing, K1, Muay Thai, BJJ, MMA), now I just go to the boring gym - _I'm a former amateur fighter 🥊_
-- I have an extreme vocal coaching course - _I teach people how to scream 🎤_
-- I compose(d) electronic music - _ask me about it! 🤖_
+- I am an extreme vocal coach - _I teach people how to scream 🎤_
+- I compose(d) some aggressive electronic music - _ask me about it! 🤖_
 - [I curate my Spotify playlists](https://open.spotify.com/user/1169908688?si=f484127a02164fc7)
-- I get tattoos - _I'm a tattoo lover 🖤_
+- I have 5 tattoos and counting - _I love being able to tell a story without even speaking 🖤_
 - I used to stream on a Twitch gaming channel _cringe-y, not sharing the link here 😳_
 - I've been playing League of Legends for 10+ years, peak elo higher than yours! 💎 But now I mostly play single player games: Elden Ring is the last one I played as of 2023. 👾
+- I play Magic The Gathering, mainly MTGA due to my wallet not being very happy with the real deal.
 - I perfected my famous risotto recipe - _I'm Italian 🇮🇹 I literally can't be (too) bad at cooking_
-- I gave birth to tons of D&D PGs - most of them passed away, sigh. _I do love tablegames and RPGs_ 🎲
-- I brewed my own beer and worked as a bartender - _I'm an IPA lover 🍺_
+- I gave birth to tons of D&D PGs - most of them passed away, sigh. _I love tabletop games and RPGs_ 🎲
+- I brewed my own beer a couple of times and also served beer & cocktails as a bartender - _I'm an IPA lover 🍺_
 - I had a moderately-famous Facebook meme page back in the trollface days (around 2010) - _I'm somewhat proud of it, lol_
 
 #### My quotes
 
 - Code is a (terrible) liability. 💸
-- Data is a company's most valuable asset. Protect it. 🛡️
+- Data is your most valuable asset. Protect it. 🛡️
 - Always assume good intentions, especially when interacting with a non-native English speaker. 🌍
 - People are way more important than code or data. 🧑‍🤝‍🧑
 
 #### Some of the stuff I'm learning and/or trying out
 
-- Chess (around 1000 elo atm) ♟️
-- [Astro](https://astro.new/latest) 🌌
+- Chess (around 1000 elo as of 2024) ♟️-> Stopped playing in favor of Magic The Gathering Arena
+- [Astro](https://astro.new/latest) 🌌 -> currently building [SyncTune's website](https://github.com/mbianchidev/synctune-website) with it
 
-#### My recommended books
+#### Some books I recommended
 
-#### Books list
-
-Books I recommend about investing, personal finance and life.
+#### Investing, personal finance and life
 
 | Name | Url | Summary |
 | --- | --- | --- |
@@ -49,7 +48,7 @@ Books I recommend about investing, personal finance and life.
 | The Subtle Art of Not Giving a F*ck | [Amazon aff. link](https://amzn.to/3sNOWNw) | The Subtle Art of Not Giving a F*ck is a book about life by Mark Manson |
 | The Alchemist | [Amazon aff. link](https://amzn.to/485Ydk9) | The Alchemist is a book about life by Paulo Coelho |
 
-Books I recommend for my fellow developers and engineers.
+#### Engineering
 
 | Name | Url | Summary |
 | --- | --- | --- |
@@ -61,7 +60,9 @@ Books I recommend for my fellow developers and engineers.
 | Team Topologies | - | Team Topologies is a book about team structures in IT by Matthew Skelton and Manuel Pais |
 | DevOps Handbook | - | DevOps Handbook is a book about, well, DevOps? by Gene Kim, Jez Humble, Patrick Debois and John Willis |
 
-#### Jobs unrelated to tech (teenage years)
+#### Fun facts unrelated to tech
+
+In my teenage years I had the opportunity to try out different jobs:
 
 - Piercer
 - Bartender
@@ -71,3 +72,5 @@ Books I recommend for my fellow developers and engineers.
 - Pizza delivery guy
 - Music events PR and organizer (wish I was still doing this)
 - Vocal coach (I'm still doing this)
+
+Some of these I didn't like that much, but each of them taught me something and played a role in shaping who I am today.
