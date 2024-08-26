@@ -1,4 +1,3 @@
-# Cloud Pirates Podcast
+# Refactoring Friday podcast
 
-See: https://github.com/cloudpirates/podcast
-And: https://www.youtube.com/@cloudpirates-yt
+Coming soon...
