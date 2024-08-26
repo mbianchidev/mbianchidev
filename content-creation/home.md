@@ -4,7 +4,8 @@
 - 26th Jun 2024 - [Techspire LinkedIn post after my Platform Engineering talk @ DevOpsDays Amsterdam](https://www.linkedin.com/feed/update/urn:li:activity:7211742999884480513/)
 - 21st Jun 2024 - [Komodor's LinkedIn post after my Platform Engineering talk @ DevOpsDays Amsterdam](https://www.linkedin.com/posts/komodor-k8s_and-its-a-wrap-on-day-1-of-devopsdays-amsterdam-activity-7209587160822251520-l6gx?utm_source=share&utm_medium=member_desktop)
 
-## Blogs (external)
+## Blogs (external, excluding company blogs)
+- 29th August 2024 - [Kubernetes v1.31, Elli: An insider view! - CNCF blog](TBD)
 - 13th August 2024 - [Kubernetes v1.31 release blog](https://kubernetes.io/blog/2024/08/13/kubernetes-v1-31-release/)
 - 19th July 2024 - [Kubernetes Removals and Major Changes In v1.31](https://kubernetes.io/blog/2024/07/19/kubernetes-1-31-upcoming-changes/)
 - 1st Feb 2024 - [From attendees to organizers, a community story - CNCF blog](https://www.cncf.io/blog/2024/02/01/from-attendees-to-organizers-a-community-story/)
