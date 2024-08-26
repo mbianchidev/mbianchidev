@@ -10,7 +10,7 @@ I don't really like resumes but I have a public one, ask me for it if you need i
 
 ## Companies I work with MUST... 
 
-- Not be operating in the following fields:
+- Not be operating, collaborating closely with companies in the following domains:
   - Military / Weaponry
   - Gambling / Online-Casino
   - Shitcoin (crypto scams) / NFTs (unless smart contracts)
