@@ -1,6 +1,6 @@
 
 ## Press
-- 2nd Sep 2024 - [Observability digest n°24}(https://www.masteringobservability.com/p/observability-digest-2024-no-24)
+- 2nd Sep 2024 - [Observability digest 24}(https://www.masteringobservability.com/p/observability-digest-2024-no-24/)
 - 27th Jun 2024 - [Devopsdays Amsterdam 2024: Our Takeaways - Devoteam blog](https://nl.devoteam.com/people/devopsdays-amsterdam-2024-our-takeaways/)
 - 26th Jun 2024 - [Techspire LinkedIn post after my Platform Engineering talk @ DevOpsDays Amsterdam](https://www.linkedin.com/feed/update/urn:li:activity:7211742999884480513/)
 - 21st Jun 2024 - [Komodor's LinkedIn post after my Platform Engineering talk @ DevOpsDays Amsterdam](https://www.linkedin.com/posts/komodor-k8s_and-its-a-wrap-on-day-1-of-devopsdays-amsterdam-activity-7209587160822251520-l6gx?utm_source=share&utm_medium=member_desktop)
