@@ -16,7 +16,8 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 | # | Date | Title / video (slides) | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | My talk | Your event | Your City or remote | Your country or timezone | Invite me as a speaker at matteo@mb-consulting.dev |
-| 6 | 19-20th Sep 2024 | Oops I deployed too hard - [[video]()] ([slides](https://docs.google.com/presentation/d/1RNypSZmISgFx9qTiKYIYOF_qkSKOKdtptiVZ1lXa9IQ/edit#slide=id.p1)) | [SREday London 2024](https://sreday.com/2024-london/) | London | United Kingdom | TBD |
+| 7 | 10th-11th Nov 2024 | I explained eBPF to my grandma! - [[video]()] ([slides]()) | [Cloud Native Rejekts NA 2024](https://cloud-native.rejekts.io/) | Salt Lake City, Utah | United States | TBD |
+| 6 | 19th-20th Sep 2024 | Oops I deployed too hard - [[video]()] ([slides](https://docs.google.com/presentation/d/1RNypSZmISgFx9qTiKYIYOF_qkSKOKdtptiVZ1lXa9IQ/edit#slide=id.p1)) | [SREday London 2024](https://sreday.com/2024-london/) | London | United Kingdom | TBD |
 | 5 | 1st Sep 2024 | ClickHouse walks into a Cloud - [[video](https://youtu.be/hPKkCNMJsvU)] ([slides](https://docs.google.com/presentation/d/1kLC60nBMNH2SHYAo09MtEHgNK779K7vk_QXMW3zecOE/edit#slide=id.p1)) | [KCD Lahore 2024](https://community.cncf.io/events/details/cncf-kcd-lahore-presents-kcd-lahore-pakistan-2024/) | Lahore (remote) | Pakistan | TBD |
 | 4 | 20th Jun 2024 | Platform Engineering's Inferno - [[video](https://www.youtube.com/watch?v=dWn48x4v34Q)] ([slides](https://docs.google.com/presentation/d/1z0HffGYTlR2V6JmJ3ThLprIRV2F6_i0VYq7cYqVBKoI)) | [DevOpsDays Amsterdam 2024](https://devopsdays.org/events/2024-amsterdam/program/matteo-bianchi) | Amsterdam | Netherlands | 400+ people |
 | 3 | 11th April 2024 | Intro to Cloud Native - University of Turin, Computer Science Course ([slides](https://docs.google.com/presentation/d/1IQj4YmdhlvUhDScZ52hUyPfPM2xWm32w53mYwM_j6yI/edit?usp=sharing)) | Universi-talks | Turin | Italy | 180+ students |
@@ -28,7 +29,8 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 | # | Date | Event | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | Your event | Your group/meetup | Your City or remote | Your country | Invite me to organize at matteo@mb-consulting.dev |
-| 7 | 10th Dec 2024 | Cloud Native Day Netherlands 2024 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | Founder, Organizer, Program Committee |
+| x | top secret | Cloud Native Days Netherlands | Cloud Native Days Global | Amsterdam | Netherlands | Founder, Organizer, Program Committee |
+| 7 | 10th Dec 2024 | Dutch Cloud Native Day meetup 2024 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | Organizer, Program Committee |
 | 6 | 10th Oct 2024 | Cloud Native Sustainability Week 2024 | Cloud Native Community Groups (CNCF) | Amsterdam | Netherlands | Organizer, Program Committee |
 | 6 | 27th Jun 2024 | Dutch Kubernetes Meetup at SUSE | Cloud Native Community Groups (CNCF) | Hoofdorp | Netherlands | Organizer |
 | 5 | 20th Jun 2024 | KCD Italy 2024 | Kubernetes Community Days (CNCF) | Bologna | Italy | Program Committee |
