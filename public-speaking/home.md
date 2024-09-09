@@ -13,7 +13,7 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 
 ## Speaker
 
-| # | Date | Title / video (slides) | Event | City | Country | Notes |
+| # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | My talk | Your event | Your City or remote | Your country or timezone | Invite me as a speaker at matteo@mb-consulting.dev |
 | 7 | 10th-11th Nov 2024 | I explained eBPF to my grandma! - [[video]()] ([slides]()) | [Cloud Native Rejekts NA 2024](https://cloud-native.rejekts.io/) | Salt Lake City, Utah | United States | TBD |
