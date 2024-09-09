@@ -1,6 +1,6 @@
 # Speaker Rider
 
-Last Updated: 02 August 2024
+Last Updated: 09 September 2024
 
 ## Intro
 
@@ -24,23 +24,23 @@ A paragraph of legalese buried in the Terms of Use is not sufficient to meet thi
 
 ### Speaker Diversity
 
-Across your entire event, there must be adequate representation of expressions. The exact requirements is not written in stone, especially for smaller events, but generally, at least 20% of your total speaker lineup should be people who are diverse. By diverse I don't mean as most people do "not cisgender white males", but rather a mix of people from different backgrounds, experiences, and perspectives. This should definitely include queer people, neuro-diverse people, people with disabilities, people from different countries than the hosting one and people from different industries or from academia as well as not cisgender white males (I'm not one btw).
+Across your entire event, there must be adequate representation of expressions. The exact requirements is not written in stone, especially for smaller events, but generally, at least 50% of your total speaker lineup should be people who are diverse. By diverse I don't mean as most people do just "not cisgender white males", but rather a mix of people from different backgrounds, experiences, and perspectives. This should definitely include non-males, non-white, queer people, neuro-diverse people, people with disabilities, people from different countries than the hosting one and people from different industries or from academia.
 
 I believe underrepresented groups should be given some form of priority in the selection process but without lowering the bar for quality. 
-I'm an organizer myself and I know how hard it is to find diverse speakers, on the other hand I don't believe in tokenism, so you shouldn't be forced to accept a bad talk just because it's from an underrepresented group.
+I'm an organizer myself and I know how hard it can be to find diverse speakers, on the other hand I don't believe in tokenism, so you shouldn't be forced to accept a bad talk just because it's from an underrepresented group.
 
-p.s. Accepting a bad talk only because "duh, diversity" is equally bad, there are PLENTY of skilled and diverse speakers out there, I can help you find them!
+p.s. There are PLENTY of skilled and diverse speakers out there, I can help you find and connect with them!
 
 ### Costs for Speakers
 
-No part of the cost of speaking at your event should lie with the speaker. 
+No part of the cost of speaking at your event should lie with speakers. 
 My employer will typically cover airfare and accomodation for an event.
 In the rare case the conference theme or attendee demographic does not aligns with my company goals, so they wouldn't sponsor my participation, I will ask you to do so. 
 Regardless of whether or not my employer covers the cost of my appearance at your event, you must provide me with a full pass for the event.
 
-If your event is a significant time zone change from me (Central European Time, UTC+2), I do ask that my arrival flight be booked to arrive a day or two before my speaking slot and maybe even after speaking, I like to explore!
+If your event is a significant time zone change from me (Central European Time, UTC+2), I do ask that my arrival flight be booked to arrive a day or two before my speaking slot and maybe leave 1 day after speaking, I like to explore!
 
-In any case you will need to cover only conference-related expenses, I will cover all other costs for my extra stay.
+In any case you will need to cover only conference-related direct expenses, I will cover all other costs for my extra stay.
 
 ### Fees
 
@@ -62,6 +62,6 @@ Cancelling a speaking engagement is something I try very, very hard to avoid. It
 
 ### Contacting Me
 
-Reach out to me via [email](mailto:matteo@mb-consulting.ev) with the name, dates, and website for your event, as well as any confirmed speakers and an idea of what you want me to talk about. If your event fits into the corporate events category, please also include your speaker budget.
+Reach out to me via [email](mailto:matteo@mb-consulting.dev) with the name, dates, and website for your event, as well as any confirmed speakers and an idea of what you want me to talk about. If your event fits into the corporate events category, please also include your speaker budget.
 
 Thanks for reading!
