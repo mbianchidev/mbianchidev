@@ -5,11 +5,11 @@ Submitted to:
 - w/ Jason Dellaluce (Sysdig) KubeCon NA 2024 - CiliumCon
 
 Accepted to: 
-- 
+- Cloud Native Rejekts NA 2024
 
 Submitted as: Indipendent w/ Jason Dellaluce (Sysdig)
 
-**Format**: Dual Presentation (25 minutes)
+**Format**: Dual Presentation (25 minutes + 5 QA)
 
 **Slides**: [TBD](https://www.slidescarnival.com/)
 
