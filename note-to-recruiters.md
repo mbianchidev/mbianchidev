@@ -62,7 +62,7 @@ I discounts my freelancer rate if:
   - I'm doing meaningful work - e.g. sustainability, children education...
   - you are a pre-seed/seed startup, I really dig the idea, plus your founder(s) and if you offer me some equities. _Series A+ gets the full price, sorry._
 
-I'm oepn to full-time with some flexibility and limitations to be discussed on a case-by-case basis.
+I'm open to full-time with some flexibility and limitations to be discussed on a case-by-case basis.
 
 ## Specific to recruiters or companies in search of an employee
 
