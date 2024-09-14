@@ -1,10 +1,10 @@
 #### Hi there!
 
-My name is Matteo, I'm a multi-faceted Engineer, living in Europe. 
+My name is Matteo, I'm a multi-faceted Engineer, with 8+ years of experience, living in Europe. 
 
-I go to conferences  but not necessarily being a speaker, I also organize tech events and meetups in the Netherlands, KubeTrain and contribute to Cloud Native in any way I can, currently leading comms for Kubernetes v.1.32
+I go to conferences but not necessarily as a speaker, I also organize tech events and meetups in the Netherlands and contribute to Cloud Native in any way I can, currently leading comms for Kubernetes v.1.32
 
-I [create content](content-creation/home.md) about tech and life.
+I sometime [create content](content-creation/home.md) about tech and life.
 
 I like to define myself as a _jack of most trades, master of some_.
 
