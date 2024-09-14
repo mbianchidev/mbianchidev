@@ -19,4 +19,5 @@
 ## Videos featuring me, podcasts and public speaking
 
 Please see [here](https://github.com/mbianchidev/mbianchidev/blob/master/public-speaking/home.md) for content created about me or videos of my talks.
+
 For everything feel free to visit [my YouTube channel](https://www.youtube.com/@mbianchidev)
