@@ -1,8 +1,8 @@
 # Bio
 
-Matteo is a navigated engineer. Starting as a web developer covered diverse roles, from Java dev to full stack dev. He later embraced DevOps and Cloud and a few years later, ventured into freelancing as Cloud Native Consultant, while digital nomading across Europe.
+Matteo is a seasoned engineer. He covered diverse roles, from backend to fullstack to then transition into DevOps and Cloud, eventually becoming a freelance Cloud Native Consultant while digital nomading across Europe. His journey led him to co-found his own startup while continuing to support open-source tech.
 
-Builder, startup lover, advocate for Cloud Native technologies and active member of the CNCF community, Matteo is a k8s enthusiast and aspires to impact IT through Platform Engineering.
+Hacker, builder, advocate for Cloud Native technologies and active member of the Cloud Native community, Matteo is a k8s contributor and loves Platform Engineering.
 @mbianchidev on (almost) every social media.
 
 ## Sessionize
