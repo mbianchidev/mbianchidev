@@ -16,7 +16,7 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 | # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | My talk | Your event | Your City or remote | Your country or timezone | Invite me as a speaker at matteo@mb-consulting.dev |
-| 9 | 19th-20th November | Platform Engineering's inferno - [[video]()] ([slides]()) | KCD Denmark | Copenhagen | Denmark | TBD |
+| 9 | 19th-20th November 2024 | Platform Engineering's inferno - [[video]()] ([slides]()) | KCD Denmark | Copenhagen | Denmark | TBD |
 | 8 | 10th-11th Nov 2024 | I explained eBPF to my grandma! - [[video]()] ([slides]()) | [Cloud Native Rejekts NA 2024](https://cloud-native.rejekts.io/) | Salt Lake City, Utah | United States | TBD |
 | 7 | 8th-10th Oct 2024 | Twenty thousand leagues under the Platform Engineering - [[video]()] ([slides]()) | [KCD Austria](https://kcdaustria.at/) | Vienna | Austria | TBD |
 | 6 | 19th-20th Sep 2024 | Oops I deployed too hard - [[video]()] ([slides](https://docs.google.com/presentation/d/1RNypSZmISgFx9qTiKYIYOF_qkSKOKdtptiVZ1lXa9IQ/edit#slide=id.p1)) | [SREday London 2024](https://sreday.com/2024-london/) | London | United Kingdom | 220+ people |
