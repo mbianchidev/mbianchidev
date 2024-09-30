@@ -13,7 +13,7 @@ Submitted as: Cloud Native Consultant @ Freelance
 
 **Format**: Standard (25/35 minutes)
 
-**Slides**: TBD
+**Slides**: [here](https://docs.google.com/presentation/d/1bQNtGt2-ducS3NzeBBKw1-r_E6QPCdbmAZvS4as2FaU/edit#slide=id.p1)
 
 ## Description / Abstract
 
