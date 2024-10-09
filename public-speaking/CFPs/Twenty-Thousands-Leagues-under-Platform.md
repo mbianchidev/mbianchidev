@@ -33,6 +33,4 @@ How Platform transformation can bring value even to the most resistant enterpris
 
 All of this to build a Platform, not because it is cool, but because of the real need of streamlining operations and avoiding tool sprawling when dealing with complex services/products and multiple teams.
 
-OSS Projects: Puppet, Foreman, Kubernetes, Helm, ArgoCD, Flux, FluentD, Jaeger, Kong (Gateway + DevPortal)
-
 **OSS Project used**: Puppet, Foreman, Kubernetes, Helm, ArgoCD, Flux, FluentD, Jaeger, Kong (Gateway + DevPortal)
