@@ -15,5 +15,5 @@
 - [Built a community of italian freelancers](https://www.linkedin.com/groups/14023713/) - 1000+ members
 - [Hosted a live podcast about IT and freelancing](https://www.twitch.tv/freelancezoo)
 - [An engaging 2D game](https://github.com/mbianchidev/blockster-2d) built during a 48-hours hackaton at Polimi (IT)
-- [My former metal band](https://www.youtube.com/watch?v=XBrvnVmkYJw) - 50k+ views/listen _I sing_
+- [One of my former metal bands](https://www.youtube.com/watch?v=XBrvnVmkYJw) - 50k+ views/listen _I sing_
 - All the marvellous relationships I've built with people all over the world, in the tech industry but also in the music industry. I'm a people person!
