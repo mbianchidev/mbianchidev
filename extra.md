@@ -1,6 +1,6 @@
 #### In my free (really free) time...
 
-- I read books about psychology, philosophy, history, science, technology, business, finance, etc. - _I'm a book nerd 🤓_
+- I read books about psychology, philosophy, history, science, technology, business, finance, etc. - _I'm a book worm 🤓_
 - I curate a list of personal finance resources [here](https://github.com/mbianchidev/financial-cool)
 - I go to concerts! - _I'm a metalhead 🤘_
 - I hike but nothing too challenging - _I'm just a nature lover 🌲_
