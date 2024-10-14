@@ -1,5 +1,5 @@
 - [Kubernetes v1.32 Comms Lead](https://github.com/kubernetes/sig-release/issues/2586#issuecomment-2290160721)
-- Writing a book about Helm, published by Packt
+- Attempted to write a book about Helm, published by Packt (overwhelmed by deadlines, resigned)
 - [Kubernetes v1.31 Comms Shadow](https://github.com/kubernetes/org/issues/4975)
 - Nominated [CIVO Ambassador](https://www.civo.com/ambassadors)
 - KCD Italy 2024 program committee
