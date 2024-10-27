@@ -121,13 +121,13 @@ Once a month works.
 
 I will join in time and I'll be super happy to say hi to the team but...
 
-Don't take it personal if I decline. 
+Nothing personal if I decline. 
 
 Typical reasons are:
-- Missing agenda, should be in the meeting description.
-- Conflicting meeting and yours was deemed to have a lesser priority/urgency, reschedule if you can.
+- Missing agenda (there should always be one, possibly tagging people where they are needed)
+- Conflicting meeting and yours was deemed to have a lesser priority/urgency by me (or most probably my direct manager), reschedule if you can.
 - I don't know who you are / we don't work together so I assume you added me by mistake, shit happens!
-- There are already people smarter than me that can serve my same purpose/role, sorry but I would be redundant and not helpful.
+- There are already people smarter than me that can serve my same purpose/role, sorry but I would be redundant or not necessary at all.
 - It's out of my working hours, I usually start around 10 AM until 5:30 PM (time zone based)
 - I'm off that day, 99% of the time I have set an Out of Office event but you probably didn't notice it.
 
