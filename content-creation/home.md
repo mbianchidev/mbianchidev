@@ -6,6 +6,7 @@
 - 21st Jun 2024 - [Komodor's LinkedIn post after my Platform Engineering talk @ DevOpsDays Amsterdam](https://www.linkedin.com/posts/komodor-k8s_and-its-a-wrap-on-day-1-of-devopsdays-amsterdam-activity-7209587160822251520-l6gx?utm_source=share&utm_medium=member_desktop)
 
 ## Blogs (external, excluding company blogs)
+- 8th November 2024 [Kubernetes v1.32, sneak peek](https://kubernetes.io/blog/2024/11/08/kubernetes-1-32-upcoming-changes/)
 - 29th August 2024 - [Kubernetes v1.31, Elli: An insider view! - CNCF blog](https://www.cncf.io/blog/2024/08/29/kubernetes-v1-31-elli-an-insider-view/)
 - 13th August 2024 - [Kubernetes v1.31 release blog](https://kubernetes.io/blog/2024/08/13/kubernetes-v1-31-release/)
 - 19th July 2024 - [Kubernetes Removals and Major Changes In v1.31](https://kubernetes.io/blog/2024/07/19/kubernetes-1-31-upcoming-changes/)
