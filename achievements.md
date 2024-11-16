@@ -1,3 +1,4 @@
+- [Nominated 2024-H2 CNCF Ambassador](https://www.credly.com/badges/bc458baf-3bd8-4c38-a73e-21c68b259798/public_url)
 - [Kubernetes v1.32 Comms Lead](https://github.com/kubernetes/sig-release/issues/2586#issuecomment-2290160721)
 - Attempted to write a book about Helm, published by Packt (overwhelmed by deadlines, resigned)
 - [Kubernetes v1.31 Comms Shadow](https://github.com/kubernetes/org/issues/4975)
