@@ -1,4 +1,4 @@
-# Conference/Meetup name
+# KCD Lahore
 
 - Where: Lahore (Pakistan) - remote
 - Event link: [website](https://community.cncf.io/kcd-lahore/)
