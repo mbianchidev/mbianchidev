@@ -1,4 +1,4 @@
-# Cloud Native Rejekts EU 2024
+# Cloud Native Rejekts NA 2024
 
 - Where: Kiln - Salt Lake City, UT, United States
 - Event link: [Rejetks.io](https://cloud-native.rejekts.io/)
