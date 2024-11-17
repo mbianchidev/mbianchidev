@@ -1,4 +1,4 @@
-# Cloud Native Rejekts EU 2024
+# KCD Austria 2024
 
 - Where:  Cineplexx Wienerberg, Vienna, Austria
 - Event link: [KCD Austria](https://kcdaustria.at/)
