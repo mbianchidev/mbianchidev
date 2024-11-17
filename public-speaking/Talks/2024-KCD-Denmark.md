@@ -1,4 +1,4 @@
-# Conference/Meetup name
+# KCD Denmark 2024
 
 - Where: Bella Center, Copenhagen (Denmark)
 - Event link: [website](https://kcddenmark.dk/)
