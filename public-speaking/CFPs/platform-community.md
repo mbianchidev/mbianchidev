@@ -2,6 +2,7 @@
 
 Submitted to:
 - KubeCon London 2025
+- Platform Engineering Day London 2025 
 
 Accepted to: 
 - TBD
@@ -14,16 +15,14 @@ Submitted as: Cloud Native Consultant @ SyncTune
 
 ## Description / Abstract
 
-As platform engineering continues to shape software development and the cloud native space, the importance of creating and fostering a vibrant community around platforms is becoming more and more important. 
-Beyond technical excellence, successful platforms thrive through user engagement, collaboration, and community-driven innovation. 
-This panel brings together community leaders and platform experts to discuss the vital role of community-building in platform success, focusing on real world examples of Platform built by and around communities. We'll focus on actionable steps to cultivate meaningful community involvement and explore key considerations for those aiming to build a platform with developers at its core.
+Platform engineering goes beyond building internal tools—it’s about creating a culture that inspires collaboration, excitement, and a sense of ownership. This panel will explore how fostering these elements across teams accelerates platform adoption and drives impactful outcomes like innovation, stability, and long-term growth.
+Panelists will share real-world strategies for engaging engineers, gathering actionable feedback, and building alignment between platform teams and users. Whether you are starting fresh or scaling an established platform, join us to discover how community-driven enthusiasm can break down silos, spark advocacy, and create platforms that truly deliver value.
 
-Key discussion points include:
-
-- Defining the roles and responsibilities in community-led platform development
-- Navigating the balance between top-down platform governance and organic community contributions
-- Long-term strategies for scaling community involvement and maintaining engagement, or the Platform Market Fit
-- The impact of community feedback on shaping platform features and best practices
+Key discussion points, useful for the ecosystem, include:
+- Create environments where engineers feel empowered to contribute without fear of failure.
+- Showcase quick wins and impact stories to build excitement and encourage more participation.
+- Ensure platforms naturally integrate into engineers’ routines to reduce friction and boost adoption.
+- Encourage experimentation by giving teams the freedom to extend and enhance the platform’s capabilities.
 
 **OSS Project used**: ?
 
