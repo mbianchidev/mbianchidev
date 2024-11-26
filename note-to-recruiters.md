@@ -2,9 +2,9 @@
 
 I consider myself a mix between a **Software Engineer**, **Platform Engineer** (with DevOps and SRE background), a **Developer Relations Engineer** with a pinch of leadership in me - for sure more than management - and a love for both Product and Customer-related roles.
 
-I'm a Kubernetes & cloud expert, a DevOps coach, an experienced coder in multiple programming languages (Java, Python, Golang, TypeScript...), a mentor, an international speaker, a tech writer, a community leader... ADHD anyone?
+I'm a Kubernetes & cloud expert, a DevOps coach, an experienced coder in multiple programming languages (Java, Python, Golang, TypeScript...), a mentor, an international keynote speaker, a tech writer, a community leader... ADHD anyone?
 
-As neuro-divergent individual I think and operate differently from the majority but I think it is my strenght and I'm not afraid to challenge the status quo.
+As neuro-spicy individual I think and operate differently from the majority but I think it is my strenght and I'm not afraid to challenge the status quo.
 
 I don't really like resumes but I have a public one, ask me for it if you need it.
 
