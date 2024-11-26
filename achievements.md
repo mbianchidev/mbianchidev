@@ -1,3 +1,4 @@
+- Delivered my first Keynote at KCD Denmark
 - Nominated [CNCF Ambassador](https://www.credly.com/badges/bc458baf-3bd8-4c38-a73e-21c68b259798/public_url)
 - [Kubernetes v1.32 Comms Lead](https://github.com/kubernetes/sig-release/issues/2586#issuecomment-2290160721)
 - Attempted to write a book about Helm, published by Packt (overwhelmed by deadlines, resigned)
