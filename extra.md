@@ -1,21 +1,21 @@
 #### In my free (really free) time...
 
-- I read books about psychology, philosophy, history, science, technology, business, finance, etc. - _I'm a book worm 🤓_
+- I (used to) read tons of books about psychology, philosophy, history, science, technology, business, finance, etc. - _I was book worm for a long time 🤓_
 - I curate a list of personal finance resources [here](https://github.com/mbianchidev/financial-cool)
-- I go to concerts! - _I'm a metalhead 🤘_
+- I go to all the metal(core) concerts! - _I'm a metalhead 🤘_
 - I hike but nothing too challenging - _I'm just a nature lover 🌲_
 - I try to stay fit and used to do combat sports (Kickboxing, K1, Muay Thai, BJJ, MMA), now I just go to the boring gym - _I'm a former amateur fighter 🥊_
 - I am an extreme vocal coach - _I teach people how to scream 🎤_
 - I compose(d) some aggressive electronic music - _ask me about it! 🤖_
 - [I curate my Spotify playlists](https://open.spotify.com/user/1169908688?si=f484127a02164fc7)
-- I have 5 tattoos and counting - _I love being able to tell a story without even speaking 🖤_
+- I have 8 tattoos and counting - _I love being able to tell a story without even speaking 🖤_
 - I used to stream on a Twitch gaming channel _cringe-y, not sharing the link here 😳_
 - I've been playing League of Legends for 10+ years, peak elo higher than yours! 💎 But now I mostly play single player games: Elden Ring is the last one I played as of 2023. 👾
 - I play Magic The Gathering, mainly MTGA due to my wallet not being very happy with the real deal.
-- I perfected my famous risotto recipe - _I'm Italian 🇮🇹 I literally can't be (too) bad at cooking_
+- I am a risotto master - _I'm Italian 🇮🇹 I literally can't be (too) bad at cooking_
 - I gave birth to tons of D&D PGs - most of them passed away, sigh. _I love tabletop games and RPGs_ 🎲
 - I brewed my own beer a couple of times and also served beer & cocktails as a bartender - _I'm an IPA lover 🍺_
-- I had a moderately-famous Facebook meme page back in the trollface days (around 2010) - _I'm somewhat proud of it, lol_
+- I created a moderately-famous Facebook meme page back in the trollface days (around 2010) - _I'm somewhat proud of it, lol_
 
 #### My quotes
 
