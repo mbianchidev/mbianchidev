@@ -98,8 +98,8 @@ Here's an example of why I don't like these kind of interviews:
 - Interviewer: "No, you are right but this is the process, we just have to execute..."
 - Me: "Okay, thanks a lot for your time, bye!"
 
-About the numbers of interviews: I do sparring interviews once every _some_-months, just to keep up with the market and understand if I can get a better job than my current one.
+About the numbers of interviews: I do sparring interviews once every _some_-months, just to keep up with the market and understand if my market value has increased or not.
 
-But if you have a fair career development plan in place (with salary evaluation included) and a good internal mobility in your company, you have nothing to worry about. Literally.
+That said, if you have a fair career development plan in place (with salary evaluation included) and a good internal mobility in your company, you have nothing to worry about. Literally.
 
 Cookies and a big high five for reading this far 🍪🍪🍪
