@@ -3,9 +3,10 @@
 Submitted to:
 - w/ Jason Dellaluce (Sysdig) KubeCon NA 2024 - main conference
 - w/ Jason Dellaluce (Sysdig) KubeCon NA 2024 - CiliumCon
+- w/ Jason Dellaluce (Sysdig) KubeCon EU 2025 - CiliumCon
 
 Accepted to: 
-- Cloud Native Rejekts NA 2024 [[video](https://www.youtube.com/live/M1R05c1pWmc?si=PDHwQ8n3uGaQFT_f&t=10658)]
+- Cloud Native Rejekts NA 2024 [[video](https://youtu.be/lrBP4vv7u_I?si=olANwOmpObx6PFsG)]
 
 Submitted as: Indipendent w/ Jason Dellaluce (Sysdig)
 
@@ -27,4 +28,4 @@ Did you ever wondered how to make eBPF accessible to someone with no to little t
 
 Whether the audience will be full of seasoned (pun intended) eBPF experts or engineers just getting started, they can come and taste the unique perspective of understanding eBPf through the eyes of an Italian grandma.
 
-**OSS Project used**: eBPF, Falco
+**OSS Project used**: eBPF, Cilium, Falco
