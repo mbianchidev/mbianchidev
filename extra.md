@@ -1,11 +1,11 @@
 #### In my free (really free) time...
 
-- I (used to) read tons of books about psychology, philosophy, history, science, technology, business, finance, etc. - _I was book worm for a long time 🤓_
+- I sing in a metal band! - _Yes, I make ungodly sounds 🎤_
+- I am an extreme vocal coach - _I teach people how to scream 😱_
+- I go to all the metal(core) concerts and festivals I can! - _I'm a metalhead 🤘_
 - I curate a list of personal finance resources [here](https://github.com/mbianchidev/financial-cool)
-- I go to all the metal(core) concerts! - _I'm a metalhead 🤘_
 - I hike but nothing too challenging - _I'm just a nature lover 🌲_
 - I try to stay fit and used to do combat sports (Kickboxing, K1, Muay Thai, BJJ, MMA), now I just go to the boring gym - _I'm a former amateur fighter 🥊_
-- I am an extreme vocal coach - _I teach people how to scream 🎤_
 - I compose(d) some aggressive electronic music - _ask me about it! 🤖_
 - [I curate my Spotify playlists](https://open.spotify.com/user/1169908688?si=f484127a02164fc7)
 - I have 8 tattoos and counting - _I love being able to tell a story without even speaking 🖤_
@@ -17,7 +17,7 @@
 - I brewed my own beer a couple of times and also served beer & cocktails as a bartender - _I'm an IPA lover 🍺_
 - I created a moderately-famous Facebook meme page back in the trollface days (around 2010) - _I'm somewhat proud of it, lol_
 
-#### My quotes
+#### My personal quotes
 
 - Code is a (terrible) liability. 💸
 - Data is your most valuable asset. Protect it. 🛡️
@@ -71,6 +71,5 @@ In my teenage years I had the opportunity to try out different jobs:
 - Security/Bouncer - clubs, concerts, music festivals
 - Pizza delivery guy
 - Music events PR and organizer (wish I was still doing this)
-- Vocal coach (I'm still doing this)
 
 Some of these I didn't like that much, but each of them taught me something and played a role in shaping who I am today.
