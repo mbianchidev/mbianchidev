@@ -1,48 +1,18 @@
 #### Hi there!
 
-My name is Matteo, I'm a multi-faceted Engineer, with 8+ years of experience, living in Europe. 
-
-I go to conferences but not necessarily as a speaker, I also organize tech events and meetups in the Netherlands and contribute to Cloud Native in any way I can, currently leading comms for Kubernetes v.1.32
-
-I sometime [create content](content-creation/home.md) about tech and life.
+My name is Matteo, I'm a metal singer with 9+ years of software/cloud engineering experience, currently living in Northern Europe. 
 
 I like to define myself as a _jack of most trades, master of some_.
 
----
-
-#### Achievements
-
-Take a look at my [achievements](achievements.md) if you are curious about what I've accomplished so far.
-
----
-
-#### Values and mission
-
-Read [here](values-and-mission.md) if you are curious about my core values, mission and BHAG.
-
----
-
-#### Extra about me
-
-Read [here](extra.md) if you are curious about my hobbies and interests.
-
----
-
-#### Tech stack
-
-See my (partial) tech stack [here](tech-stack.md), I will try to keep it updated and to find a better way to display it. Suggestions are welcome!
+[values](values-and-mission.md) - [content creation](content-creation/home.md) - [achievements](achievements.md) - [fun facts](extra.md) - [WIP tech stack](tech-stack.md) -  [everything else](https://mb-consulting.dev/all-links)
 
 ---
 
 #### Contact me
 
-- [public GPG key](keys/gpgkey.pub) to message me about privacy-sensitive stuff.
-- recruiters and companies, please read [this](note-to-recruiters.md)
-- colleagues, please read [this](note-to-colleagues.md)
-
-📫 How to reach me: [click here](https://mb-consulting.dev/all-links)
-
-Or just look for @mbianchidev on your favorite social media platform.
+- [public GPG key](keys/gpgkey.pub) to message me about sensitive matters.
+- [A message for recruiters and companies](note-to-recruiters.md)
+- [A message for my colleagues](note-to-colleagues.md)
 
 <details>
   <summary><b>Wanna book a meeting instead?</b></summary>
@@ -51,7 +21,7 @@ Or just look for @mbianchidev on your favorite social media platform.
 
 ---
 
-#### Long story (never) short
+#### About me
 
 <details>
   <summary><i>Are you sure? It's really long. TLDR; I like to build stuff</i></summary>
@@ -85,7 +55,7 @@ Or just look for @mbianchidev on your favorite social media platform.
   
   In the end we could not find the Product-Market Fit, even after raising a pre-seed amount and had to step back, but quoting Yoda: "The greatest teacher, failure is."
   
-  In the end I kept advocating for Cloud Native technologies, I am a Kubernetes lover and part of the CNCF community. ☸️💙
+  In the end I kept advocating for Cloud Native technologies, I am a Kubernetes lover and a CNCF Ambassador. ☸️💙
   I strongly believe in the power of Platform Engineering and I look forward to impact the IT industry with my work. 🏋️
   
   What will I do in 2024 and beyond? Who knows! 🤩
