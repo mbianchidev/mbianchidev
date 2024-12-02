@@ -6,6 +6,7 @@ Submitted to:
 
 Accepted to: 
 - [DevOps Days Amsterdam 2024](https://talks.devopsdays.org/devopsdays-amsterdam-2024/talk/review/BYQ7KL9DVFKFG79KQ3NANZ3CPJXZMQPE)
+- KCD Denmark Keynote [video]
 
 Submitted as: DevRel @ Omnistrate
 
