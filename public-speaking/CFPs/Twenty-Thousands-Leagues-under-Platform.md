@@ -7,7 +7,7 @@ Submitted to:
 - KCD Austria 2024
 
 Accepted to: 
-- KCD Austria 2024
+- KCD Austria 2024 [[video](https://www.youtube.com/watch?v=_TTGPEOsq-Y)]
 
 Submitted as: Cloud Native Consultant @ Freelance
 
