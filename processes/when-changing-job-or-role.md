@@ -6,7 +6,7 @@ A small checklist of things to do when changing employer or role.
 
 - [ ] Update [LinkedIn](https://www.linkedin.com/in/mbianchidev/) profile (headline, role, propic and banner)
 - [ ] Update [Medium](https://medium.com/@mbianchidev) profile (and other blogging sites - bio, propic)
-- [ ] Create a LinkedIn/Medium post telling the story OR a YouTube video
+- [ ] Create a farewell LinkedIn/Medium post telling the story OR a YouTube video
 - [ ] Advertise freelance availability via post on LinkedIn, Medium, Twitter...
 - [ ] Update [GitHub](https://github.com/mbianchidev) profile (bio, propic)
 - [ ] Update Slack profiles (bio, propic) in all Slacks
@@ -16,7 +16,6 @@ A small checklist of things to do when changing employer or role.
   - [ ] MentorCruise
   - [ ] Platform Engineering
   - [ ] Various communities 
-- [ ] Update [Twitter/X](https://x.com/mbianchidev) profile (bio, propic)
 - [ ] Update [Sessionize](https://sessionize.com/mbianchidev/) profile (bio, propic)
 - [ ] Update [Credly](https://www.credly.com/users/matteo-bianchi.17f3ab2b/badges) profile (bio, propic)
 - [ ] Update [MentorCruise](https://mentorcruise.com/mentor/matteobianchi/) profile (bio, propic)
@@ -32,6 +31,7 @@ A small checklist of things to do when changing employer or role.
 - [ ] Update [LinkedIn](https://www.linkedin.com/in/mbianchidev/) profile (headline, role, propic and banner)
 - [ ] Update [Medium](https://medium.com/@mbianchidev) profile (and other blogging sites - bio, propic)
 - [ ] Create a LinkedIn/Medium post telling the story of your hiring and about your new role (thank people that helped you)
+- [ ] [Optional] YouTube video with a storytelling on the experience
 - [ ] Update [GitHub](https://github.com/mbianchidev) profile (bio, propic)
 - [ ] Update Slack profiles (bio, propic) in all Slacks
   - [ ] CNCF
@@ -40,7 +40,6 @@ A small checklist of things to do when changing employer or role.
   - [ ] MentorCruise
   - [ ] Platform Engineering
   - [ ] Various communities 
-- [ ] Update [Twitter/X](https://x.com/mbianchidev) profile (bio, propic)
 - [ ] Update [Bluesky](https://mbianchidev.bsky.social) profile (bio, propic)
 - [ ] Update [Sessionize](https://sessionize.com/mbianchidev/) profile (bio, propic)
 - [ ] Update [Credly](https://www.credly.com/users/matteo-bianchi.17f3ab2b/badges) profile (bio, propic)
@@ -61,7 +60,6 @@ A small checklist of things to do when changing employer or role.
 - [ ] Create a LinkedIn/Medium post telling the story of your new role (thank people that helped you)
 - [ ] Update GitHub profile
 - [ ] Update Slack profiles
-- [ ] Update Twitter/X profile
 - [ ] Update Bluesky profile
 - [ ] Update Sessionize profile
 - [ ] Update Credly profile
