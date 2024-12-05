@@ -6,7 +6,7 @@ A small checklist of things to do when changing employer or role.
 
 - [ ] Update [LinkedIn](https://www.linkedin.com/in/mbianchidev/) profile (headline, role, propic and banner)
 - [ ] Update [Medium](https://medium.com/@mbianchidev) profile (and other blogging sites - bio, propic)
-- [ ] Create a LinkedIn/Medium post telling the story and thanking your colleagues
+- [ ] Create a LinkedIn/Medium post telling the story OR a YouTube video
 - [ ] Advertise freelance availability via post on LinkedIn, Medium, Twitter...
 - [ ] Update [GitHub](https://github.com/mbianchidev) profile (bio, propic)
 - [ ] Update Slack profiles (bio, propic) in all Slacks
