@@ -1,6 +1,7 @@
 # Speaker Rider
 
-Last Updated: 09 September 2024
+Last Updated: 07 December 2024
+Inspired by: [Kat Cosgrove's speaker rider](https://github.com/katcosgrove/katcosgrove/blob/main/speaking.md)
 
 ## Intro
 
@@ -24,10 +25,11 @@ A paragraph of legalese buried in the Terms of Use is not sufficient to meet thi
 
 ### Speaker Diversity
 
-Across your entire event, there must be adequate representation of expressions. The exact requirements is not written in stone, especially for smaller events, but generally, at least 50% of your total speaker lineup should be people who are diverse. By diverse I don't mean as most people do just "not cisgender white males", but rather a mix of people from different backgrounds, experiences, and perspectives. This should definitely include non-males, non-white, queer people, neuro-diverse people, people with disabilities, people from different countries than the hosting one and people from different industries or from academia.
+Across your entire event, there must be adequate representation of expressions. The exact requirements is not written in stone, especially for smaller events, but generally, at least 50% of your total speaker lineup should be people who are diverse. By diverse I don't mean as most people do just "not cisgender white males", but rather a mix of people from different backgrounds, experiences, and perspectives. This should definitely include non-males, non-white, queer people, neuro-diverse people, people with disabilities, people from different countries than the hosting one and people from different industries or from academia and a mix of vendors, service providers and end-users.
 
 I believe underrepresented groups should be given some form of priority in the selection process but without lowering the bar for quality. 
-I'm an organizer myself and I know how hard it can be to find diverse speakers, on the other hand I don't believe in tokenism, so you shouldn't be forced to accept a bad talk just because it's from an underrepresented group.
+I'm an organizer myself and I know how hard it can be to find diverse speakers if you don't know where to look.
+On the other hand I don't believe in tokenism, so you shouldn't be forced to accept a bad talk just because it's from a speaker belonging to an underrepresented group.
 
 p.s. There are PLENTY of skilled and diverse speakers out there, I can help you find and connect with them!
 
@@ -58,7 +60,7 @@ I reserve the right to ask that any recording, audio or video, as well as my lik
 
 ### Cancellations
 
-Cancelling a speaking engagement is something I try very, very hard to avoid. It never happened to me before. In case it happens, I will make my best effort to offer a remote or pre-recorded presentation. 
+Cancelling a speaking engagement is something I try very, very hard to avoid. It never happened to me before. In case it happens, I will do my best to offer a remote or pre-recorded presentation. 
 
 ### Contacting Me
 
