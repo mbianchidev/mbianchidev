@@ -1,8 +1,8 @@
 # Bio
 
-Matteo is a seasoned engineer. He covered diverse roles, from backend to fullstack to then transition into DevOps and Cloud, eventually becoming a freelance Cloud Native Consultant while digital nomading across Europe. His journey led him to co-found his own startup while continuing to support open-source tech.
+Matteo is a CNCF Ambassador and Cloud Native aficionado, a former startup CTO, DevRel and Solution Architect. Kubernetes open source contributor, part of the release team for v.1.31 and Comms Release Lead for v.1.32.
 
-Hacker, builder, advocate for Cloud Native technologies and active member of the Cloud Native community, Matteo is a k8s contributor and loves Platform Engineering.
+Hacker, builder and problem solver by nature. Singing in a metal band whenever there's nothing to fix in the cloud.
 @mbianchidev on (almost) every social media.
 
 ## Sessionize
