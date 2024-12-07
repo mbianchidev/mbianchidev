@@ -31,13 +31,15 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 | # | Date | Event | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | Your event | Your group/meetup | Your City or remote | Your country | Invite me to organize at matteo@mb-consulting.dev |
-| x | top secret | Cloud Native Days Netherlands 202x | Cloud Native Days Global | Amsterdam | Netherlands | Founder, Organizer, Program Committee |
+| x | July 2025 | KCD Netherlands 2025 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | Organizer, Program Committee |
+| 10 | 2-4 Apr 2025 | KubeCon EU 2025 | KubeCon (CNCF) | London | United Kingdom | Program Committee |
+| 9 | 1 Apr 2025 | KubeCon EU 2025, Platform Engineering Day co-located event | KubeCon (CNCF) | London | United Kingdom | Program Committee |
 | 7 | 10th Dec 2024 | Dutch Cloud Native Day meetup 2024 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | Organizer, Program Committee |
 | 6 | 10th Oct 2024 | Cloud Native Sustainability Week 2024 | Cloud Native Community Groups (CNCF) | Amsterdam | Netherlands | Organizer, Program Committee |
 | 6 | 27th Jun 2024 | Dutch Kubernetes Meetup at SUSE | Cloud Native Community Groups (CNCF) | Hoofdorp | Netherlands | Organizer |
 | 5 | 20th Jun 2024 | KCD Italy 2024 | Kubernetes Community Days (CNCF) | Bologna | Italy | Program Committee |
 | 4 | 13th Jun 2024 | KuberTENes | Cloud Native Community Groups (CNCF) | Amsterdam | Netherlands | Organizer |
-| 3 | 19th Mar 2024 | KubeCon EU 2024, OpenTofu Day co-located event | CNCF | Paris | France | Program Committee |
+| 3 | 19th Mar 2024 | KubeCon EU 2024, OpenTofu Day co-located event | KubeCon (CNCF) | Paris | France | Program Committee |
 | 2 | 18th Mar 2024 | KubeTrain Amsterdam + KubeTrain party | KubeTrain (CNCF) | Amsterdam-Paris | Netherlands, Belgium, France | Founding Organizer |
 | 1 | 1st Dec 2023 | KCD Utrecht 2023 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | Organizer, Program Committee, Host and MC for the 2nd room track |
 
@@ -47,6 +49,7 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | Your podcast | Your community | Your City or remote | Your country or timezone | Inivte me to your podcast at matteo@mb-consulting.dev |
 | x | TBD | Why Platform Engineering is the future? | [DevOps For Everyone](https://www.youtube.com/@joebignell5707) | Remote | United Kingdom | An episode of the DevOps for Everyone podcast about "Why Platform Engineering is the Future" |
+| 14 | Dec 2024 | De Nederlandse Kubernetes Podcast | Dutch Kubernetes Community | Amsterdam | Netherlands | An episode of the De Nederlandse Kubernetes Podcast by Ronald Kers and Jan Stomphorst, in which I have been interviewed as part of the release team for v1.32 as Comms Lead, the episode focuses on release team stories and features going out on Kubernetes for the 1.32 release |
 | 13 | 19th Dec 2024 | Platformers | [Platformers community](https://www.youtube.com/@PlatformersCommunity) | Remote | - | An episode of the Platformers podcast right after the release of Kubernetes v1.32 |
 | 12 | 25th Nov 2024 | My Cloud Native Journey | [The Cloud Native Club](https://www.youtube.com/@thecloudnativeclub) | Remote | United Kingdom | An episode of the Cloud Native Club Podcast, My journey series. I got interviewed about my life and my contributions to cloud native technology. |
 | 11 | 15th Nov 2024 | KubeCon NA 2024 recap | [CNCF](https://www.youtube.com/watch?v=PHsNO6A2EaU) | Remote | United States | A recap of KubeCon NA 2024 |
