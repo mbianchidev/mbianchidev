@@ -49,7 +49,6 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | Your podcast | Your community | Your City or remote | Your country or timezone | Inivte me to your podcast at matteo@mb-consulting.dev |
 | x | TBD | Why Platform Engineering is the future? | [DevOps For Everyone](https://www.youtube.com/@joebignell5707) | Remote | United Kingdom | An episode of the DevOps for Everyone podcast about "Why Platform Engineering is the Future" |
-https://www.youtube.com/watch?v=3HF92tiXcm4
 | 16 | 21th Dec 2024 | Il DevRel è morto, lunga vita al DevRel - con Matteo Bianchi [[video](https://www.youtube.com/watch?v=3HF92tiXcm4)] | Edo's backlog community | Remote | - | A 50-minutes long video extracted by a Twitch.tv live, held in Italian, in which me and Edo discuss DevRel commenting my medium blog on the topic. |
 | 15 | 19th Dec 2024 | Platformers podcast [[video](https://www.youtube.com/watch?v=EsIPu2R3nGY)] | [Platformers community](https://www.youtube.com/@PlatformersCommunity) | Remote | - | An episode of the Platformers podcast right after the release of Kubernetes v1.32 |
 | 14 | 18th Dec 2024 | De Nederlandse Kubernetes Podcast | Dutch Kubernetes Community | Amsterdam | Netherlands | An episode of the De Nederlandse Kubernetes Podcast by Ronald Kers and Jan Stomphorst, in which I have been interviewed as part of the release team for v1.32 as Comms Lead, the episode focuses on release team stories and features going out on Kubernetes for the 1.32 release |
