@@ -1,16 +1,16 @@
 # Speaker Rider
 
-Last Updated: 07 December 2024
+Last Updated: 24 January 2025
 Inspired by: [Kat Cosgrove's speaker rider](https://github.com/katcosgrove/katcosgrove/blob/main/speaking.md)
 
 ## Intro
 
 Hi there!
 
-I'm happy that you're interested in having me speak at your event. 
-I truly love open source, technology and communities and I'm always excited to have another opportunity to share a time and space to exchange ideas with others.
+I'm happy that you're interested in having me speak at your tech event. 
+I truly love open source, technology and the related communities so I'm always excited to have another opportunity to share a time and space to exchange ideas with others.
 
-I have some requirements and standards for accepting a speaking slot, submitting to a CFP, or engaging in any promotion of your event (yes, including reshares on X or LinkedIn).
+I have some requirements and standards for accepting a speaking slot, submitting to a CFP, or engaging in any promotion of your event (yes, including reshares on BlueSky or LinkedIn).
 
 ### Bio and Headshot
 
@@ -37,7 +37,7 @@ p.s. There are PLENTY of skilled and diverse speakers out there, I can help you 
 
 No part of the cost of speaking at your event should lie with speakers. 
 My employer will typically cover airfare and accomodation for an event.
-In the rare case the conference theme or attendee demographic does not aligns with my company goals, so they wouldn't sponsor my participation, I will ask you to do so. 
+In case the conference theme or attendee demographic does not aligns with my company goals and therefore they wouldn't sponsor my participation, I will ask you to do so. 
 Regardless of whether or not my employer covers the cost of my appearance at your event, you must provide me with a full pass for the event.
 
 If your event is a significant time zone change from me (Central European Time, UTC+2), I do ask that my arrival flight be booked to arrive a day or two before my speaking slot and maybe leave 1 day after speaking, I like to explore!
@@ -50,7 +50,7 @@ Since speaking at events is typically part of my job or I very much enjoy it, I 
 
 Unless it's a large-scale, corporate event where the organizing company stands to make a profit (AWS Re:Invent anyone?), or private internal corporate events: in both of these cases, my fee is negotiable based on the size of the event and whether or not I am a keynote speaker.
 
-If you reimburse me for whatever, I will be happy and most likely donate it to a charity, so please let me know if you want me to donate it to a specific one.
+If you reimburse me for whatever, I will be happy and if my finances allow it I will donate it to a charity, so please let me know if you want me to donate to a specific cause.
 
 ### Intellectual Property
 
