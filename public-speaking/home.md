@@ -16,6 +16,9 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 | # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | My talk | Your event | Your City or remote | Your country or timezone | Invite me as a speaker at matteo@mb-consulting.dev |
+| 12 | 4th Apr 2025 | Cloud Native Wheel of Fortune: 5 Spins for 5 Topics! | Your event | Your City or remote | Your country or timezone | upcoming |
+| 11 | 1st Apr 2025 | Panel: Building Thriving Communities in Platform Engineering | Your event | Your City or remote | Your country or timezone | upcoming |
+| 10 | 14th March 2025 | Platform Engineering's Inferno | Incontro DevOps Italia | Bologna | Italy | upcoming |
 | 9 | 19th-20th November 2024 | Platform Engineering's Inferno - [[video](https://www.youtube.com/watch?v=y0VLubJKT5U&ab_channel=CloudNativeNordics)] ([slides](https://docs.google.com/presentation/d/1FPWyW8-Ucr9k4EzJLfgtOqdDpwTPTMZxzQ_5S03eHuA/edit#slide=id.p1)) | [KCD Denmark 2024](https://kcddenmark.dk/) | Copenhagen | Denmark | Keynote, 500+ people. Scored 4.78 out of 5 on [77 votes](https://docs.google.com/spreadsheets/d/1qGWNaqHgDN3icwesGQJs2gOSsrq7npJYPo7ijoWi96s/edit?gid=811644689#gid=811644689) |
 | 8 | 10th-11th Nov 2024 | I explained eBPF to my grandma! - [[video](https://youtu.be/lrBP4vv7u_I?si=olANwOmpObx6PFsG)] ([slides](https://docs.google.com/presentation/d/1XV0G42qlkaKag9JRtvFm1G5jBI_1h9sTx1kOLlaJd0Y/edit#slide=id.g35f391192_00)) | [Cloud Native Rejekts NA 2024](https://cloud-native.rejekts.io/) | Salt Lake City, Utah | United States | 50+ people |
 | 7 | 8th-10th Oct 2024 | Twenty thousand leagues under the Platform Engineering - [[video](https://www.youtube.com/watch?v=_TTGPEOsq-Y)] ([slides](https://docs.google.com/presentation/d/1bQNtGt2-ducS3NzeBBKw1-r_E6QPCdbmAZvS4as2FaU/edit#slide=id.p1)) | [KCD Austria 2024](https://kcdaustria.at/) | Vienna | Austria | 400+ people |
