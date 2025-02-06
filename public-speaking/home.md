@@ -1,13 +1,6 @@
-# Bio
+# Bio & talks
 
-Matteo is a CNCF Ambassador and Cloud Native aficionado, a former startup CTO, DevRel and Solution Architect. Kubernetes open source contributor, part of the release team for v.1.31 and Comms Release Lead for v.1.32.
-
-Hacker, builder and problem solver by nature. Singing in a metal band whenever there's nothing to fix in the cloud.
-@mbianchidev on (almost) every social media.
-
-## Sessionize
-
-For a complete list of my avaiilable talks please visit [my sessionize profile](https://sessionize.com/mbianchidev)
+For a complete list of my avaiilable talks and my updated bio please visit [my sessionize profile](https://sessionize.com/mbianchidev)
 
 # Experience
 
@@ -37,7 +30,7 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 | x | 3rd July 2025 | KCD Netherlands 2025 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | Organizer, Program Committee |
 | 13 | 16-17 Jun 2025 | KubeCon Japan 2025 | KubeCon (CNCF) | Tokyo | Japan | Program Committee |
 | 12 | 10-11 Jun 2025 | KubeCon Hong Kong 2025 | KubeCon (CNCF) | Hong Kong | Hong Kong | Program Committee |
-| 11 | 5-6 May 2025 | [Cloud Native Days Romania 2025](https://cloudnativedays.ro/) | Cloud Native Days Global | Bucarest | Romania | Program Committee |
+| 11 | 5-6 May 2025 | Cloud Native Days Romania 2025 | Cloud Native Days Global | Bucarest | Romania | Program Committee |
 | 10 | 2-4 Apr 2025 | KubeCon EU 2025 | KubeCon (CNCF) | London | United Kingdom | Program Committee |
 | 9 | 1 Apr 2025 | KubeCon EU 2025, Platform Engineering Day co-located event | KubeCon (CNCF) | London | United Kingdom | Program Committee |
 | 7 | 10th Dec 2024 | Dutch Cloud Native Day meetup 2024 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | Organizer, Program Committee |
@@ -49,7 +42,7 @@ For a complete list of my avaiilable talks please visit [my sessionize profile](
 | 2 | 18th Mar 2024 | KubeTrain Amsterdam + KubeTrain party | KubeTrain (CNCF) | Amsterdam-Paris | Netherlands, Belgium, France | Founding Organizer |
 | 1 | 1st Dec 2023 | KCD Utrecht 2023 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | Organizer, Program Committee, Host and MC for the 2nd room track |
 
-## Videos / Podcasts / Interviews
+## Media (Videos, podcasts, interviews)
 
 | # | Date | Video | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
