@@ -69,8 +69,8 @@ I'm open to full-time with some flexibility and limitations to be discussed on a
 While I could not be actively looking for a job, I'm always open to new opportunities.
 
 To have an idea of my salary expectations for a full-time position, as of 2024, is:
-- starting from **130k base EUR/year (EMEA)** + bonus + equity + perks
-- starting from **160k base USD/year (US)** + bonus + equity + perks (sponsorship needed - O-1 possible)
+- starting from **140k base EUR/year (EMEA)** + bonus + equity + perks
+- starting from **180k base USD/year (US)** + bonus + equity + perks (sponsorship needed - O-1 visa possible)
 
 I'm open for relocation, but not in every area.
 
