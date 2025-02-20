@@ -1,6 +1,6 @@
 #### Hi there!
 
-My name is Matteo, I'm a metal singer with 9+ years of software/cloud engineering experience, currently living in Northern Europe. 
+I'm a metal singer with 9+ years of software/cloud engineering experience, currently living in Northern Europe. 
 
 I like to define myself as a _jack of most trades, master of some_.
 
@@ -24,7 +24,7 @@ I like to define myself as a _jack of most trades, master of some_.
 #### About me
 
 <details>
-  <summary><i>Are you sure? It's really long. TLDR; I like to build stuff</i></summary>
+  <summary><i>Are you sure? It's really long. TLDR; I really like to build stuff</i></summary>
 
   I have always been passionate about computers and technology, but I started to code when I was 15, after switching highschool from a scientific and mostly theoretical one to what in Italy is called "technical" high school, where I learned the basics of programming and computer science 👨‍💻.
   
