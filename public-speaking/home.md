@@ -48,6 +48,8 @@ For a complete list of my avaiilable talks and my updated bio please visit [my s
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | Your podcast | Your community | Your City or remote | Your country or timezone | Inivte me to your podcast at matteo@mb-consulting.dev |
 | x | TBD | Why Platform Engineering is the future? | [DevOps For Everyone](https://www.youtube.com/@joebignell5707) | Remote | United Kingdom | An episode of the DevOps for Everyone podcast about "Why Platform Engineering is the Future" |
+
+| 18 | 6th March 2025 | Rancher Live: Kubernetes Release 1.33 [[video](https://www.youtube.com/watch?v=dyqTNSCyNEU&ab_channel=Rancher)] | SUSE Open Source | Remote | - | An episode of Rancher live, where we discussed the upcoming k8s release with the release lead and comms lead. |
 | 17 | 11th Feb 2025 | You Choose! One Shot Actions [[video](http://youtu.be/6gQjnvzS5Bc)] | DevOps Toolkit | Remote | - | An episode of the podcast, you choose! I'm involved as SME on GitHub Actions and I am a guest along with Christian Hernandez (Akuity) and Vincent Demeester (Red Hat) |
 | 16 | 21th Dec 2024 | Il DevRel è morto, lunga vita al DevRel - con Matteo Bianchi [[video](https://www.youtube.com/watch?v=3HF92tiXcm4)] | Edo's backlog community | Remote | - | A 50-minutes long video extracted by a Twitch.tv live, held in Italian, in which me and Edo discuss DevRel commenting my medium blog on the topic. |
 | 15 | 19th Dec 2024 | Platformers podcast [[video](https://www.youtube.com/watch?v=EsIPu2R3nGY)] | [Platformers community](https://www.youtube.com/@PlatformersCommunity) | Remote | - | An episode of the Platformers podcast right after the release of Kubernetes v1.32 |
