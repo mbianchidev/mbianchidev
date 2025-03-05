@@ -44,13 +44,14 @@ If your event is a significant time zone change from me (Central European Time, 
 
 In any case you will need to cover only conference-related direct expenses, I will cover all other costs for my extra stay.
 
+If you reimburse me for travel and accomodation, I will be very happy and if my finances allow it I will donate it to a charity, so please let me know if you want me to donate to a specific cause (subject to my final decision) and I will send you proof of my donation.
+
 ### Fees
 
 Since speaking at events is typically part of my job or I very much enjoy it, I do not generally require a speaking fee.
 
-Unless it's a large-scale, corporate event where the organizing company stands to make a profit (AWS Re:Invent anyone?), or private internal corporate events: in both of these cases, my fee is negotiable based on the size of the event and whether or not I am a keynote speaker.
-
-If you reimburse me for whatever, I will be happy and if my finances allow it I will donate it to a charity, so please let me know if you want me to donate to a specific cause.
+I do require a speaking fee if the event is large-scale, corporate event where the organizing company stands to make a profit (AWS Re:Invent anyone?), or if it's a private internal corporate event. 
+My fee is negotiable based on the size of the event, the topic and whether or not I am a keynote speaker.
 
 ### Intellectual Property
 
