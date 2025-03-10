@@ -32,7 +32,7 @@ For a complete list of my avaiilable talks and my updated bio please visit [my s
 | # | Date | Event | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | Your event | Your group/meetup | Your City or remote | Your country | Invite me to organize at matteo@mb-consulting.dev |
-| x | 3rd July 2025 | KCD Netherlands 2025 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | Organizer, Program Committee |
+| 14 | 3rd July 2025 | KCD Netherlands 2025 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | (former) main organizer, (former) Program Committee |
 | 13 | 16-17 Jun 2025 | KubeCon Japan 2025 | KubeCon (CNCF) | Tokyo | Japan | Program Committee |
 | 12 | 10-11 Jun 2025 | KubeCon Hong Kong 2025 | KubeCon (CNCF) | Hong Kong | Hong Kong | Program Committee |
 | 11 | 5-6 May 2025 | Cloud Native Days Romania 2025 | Cloud Native Days Global | Bucarest | Romania | Program Committee |
