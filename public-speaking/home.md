@@ -9,14 +9,14 @@ For a complete list of my avaiilable talks and my updated bio please visit [my s
 | # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | My talk | Your event | Your City or remote | Your country or timezone | Invite me as a speaker at matteo@mb-consulting.dev |
-| 17 | 26th May 2025 | Give it a Spark, with Copilot! | European Cloud & AI Summit 2025 | Dusseldorf | Germany | upcoming |
+| 17 | 26th May 2025 | Give it a Spark, with Copilot! | [European Cloud & AI Summit 2025](https://cloudsummit.eu/) | Dusseldorf | Germany | upcoming |
 | 16 | 23rd May | TBD | KCD Istanbul | Istanbul | Turkey | upcoming |
 | 15 | 6th May | TBD | KCD Helsinki | Helsinki | Finland | upcoming |
-| 14 | 4th Apr 2025 | Cloud Native Wheel of Fortune: 5 Spins for 5 Topics! | KubeCon EU 2025 | London | United Kingdom | upcoming |
-| 13 | 1st Apr 2025 | Panel: Building Thriving Communities in Platform Engineering | Platform Engineering Day @ KubeCon EU 2025 | London | United Kingdom | upcoming |
-| 12 | 26th Mar 2025 | TBD | Microsoft AI Tour | Milan | Italy | upcoming |
-| 11 | 26th Mar 2025 | TBD | Microsoft AI Tour | Milan | Italy | upcoming |
-| 10 | 14th Mar 2025 | Platform Engineering's Inferno | Incontro DevOps Italia | Bologna | Italy | upcoming |
+| 14 | 4th Apr 2025 | [Cloud Native Wheel of Fortune: 5 Spins for 5 Topics!](https://kccnceu2025.sched.com/event/1txCh/cloud-native-wheel-of-fortune-5-spins-for-5-topics-steve-wade-independent-matteo-bianchi-github) | KubeCon EU 2025 | London | United Kingdom | upcoming |
+| 13 | 1st Apr 2025 | [Panel: Building Thriving Communities in Platform Engineering](https://colocatedeventseu2025.sched.com/event/1u5mp/panel-building-thriving-communities-in-platform-engineering-collaboration-innovation-and-growth-matteo-bianchi-github-william-rizzo-mirantis-cortney-nickerson-kelly-revenaugh-kubeshop-bart-farrell-learnk8s) | Platform Engineering Day @ KubeCon EU 2025 | London | United Kingdom | upcoming |
+| 12 | 26th Mar 2025 | TBD | [Microsoft AI Tour](https://msaitour.microsoft.com/it-it/Milan) | Milan | Italy | upcoming |
+| 11 | 26th Mar 2025 | TBD | [Microsoft AI Tou](https://msaitour.microsoft.com/it-it/Milan)r | Milan | Italy | upcoming |
+| 10 | 14th Mar 2025 | [Platform Engineering's Inferno](https://2025.incontrodevops.it/talks_speakers/#Plaform-Engineerings-Inferno) | [Incontro DevOps Italia](https://2025.incontrodevops.it/) | Bologna | Italy | upcoming |
 | 9 | 19th-20th Nov 2024 | Platform Engineering's Inferno - [[video](https://www.youtube.com/watch?v=y0VLubJKT5U&ab_channel=CloudNativeNordics)] ([slides](https://docs.google.com/presentation/d/1FPWyW8-Ucr9k4EzJLfgtOqdDpwTPTMZxzQ_5S03eHuA/edit#slide=id.p1)) | [KCD Denmark 2024](https://kcddenmark.dk/) | Copenhagen | Denmark | Keynote, 500+ people. Scored 4.78 out of 5 on [77 votes](https://docs.google.com/spreadsheets/d/1qGWNaqHgDN3icwesGQJs2gOSsrq7npJYPo7ijoWi96s/edit?gid=811644689#gid=811644689) |
 | 8 | 10th-11th Nov 2024 | I explained eBPF to my grandma! - [[video](https://youtu.be/lrBP4vv7u_I?si=olANwOmpObx6PFsG)] ([slides](https://docs.google.com/presentation/d/1XV0G42qlkaKag9JRtvFm1G5jBI_1h9sTx1kOLlaJd0Y/edit#slide=id.g35f391192_00)) | [Cloud Native Rejekts NA 2024](https://cloud-native.rejekts.io/) | Salt Lake City, Utah | United States | 50+ people |
 | 7 | 8th-10th Oct 2024 | Twenty thousand leagues under the Platform Engineering - [[video](https://www.youtube.com/watch?v=_TTGPEOsq-Y)] ([slides](https://docs.google.com/presentation/d/1bQNtGt2-ducS3NzeBBKw1-r_E6QPCdbmAZvS4as2FaU/edit#slide=id.p1)) | [KCD Austria 2024](https://kcdaustria.at/) | Vienna | Austria | 400+ people |
