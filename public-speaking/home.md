@@ -9,7 +9,9 @@ For a complete list of my avaiilable talks and my updated bio please visit [my s
 | # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | My talk | Your event | Your City or remote | Your country or timezone | Invite me as a speaker at matteo@mb-consulting.dev |
-| 15 | 26th May 2025 | Give it a Spark, with Copilot! | European Cloud & AI Summit 2025 | Dusseldorf | Germany | upcoming |
+| 17 | 26th May 2025 | Give it a Spark, with Copilot! | European Cloud & AI Summit 2025 | Dusseldorf | Germany | upcoming |
+| 16 | 23rd May | TBD | KCD Istanbul | Istanbul | Turkey | upcoming |
+| 15 | 6th May | TBD | KCD Helsinki | Helsinki | Finland | upcoming |
 | 14 | 4th Apr 2025 | Cloud Native Wheel of Fortune: 5 Spins for 5 Topics! | KubeCon EU 2025 | London | United Kingdom | upcoming |
 | 13 | 1st Apr 2025 | Panel: Building Thriving Communities in Platform Engineering | Platform Engineering Day @ KubeCon EU 2025 | London | United Kingdom | upcoming |
 | 12 | 26th Mar 2025 | TBD | Microsoft AI Tour | Milan | Italy | upcoming |
