@@ -11,7 +11,7 @@
 
 - Do my best to make the world a better place by building something meaningful and impactful.
 - Help engineers to achieve their goals, sharing my knowledge and experience and giving back to the community that helped me to grow.
-- Advocate for Cloud Native Open-Source technologies. Open-Source has been the past, is the present and will be the future of IT and powers the world we live in today.
+- Advocate for Cloud Native Open Source technologies. Open Source has been the past, is the present and will be the future of IT and powers the world we live in today.
 - Simplify the life of my fellow developers and engineers, by building tools and services that make their life easier. 
 
 ---
@@ -30,7 +30,7 @@ This basically thought me to not fully believe data unless I know context and ho
 
 - The best code is no code at all. - [_Coding Horror blog_](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
 
-I think this is self-explanatory but I'll add that before writing new code I always ask myself: "Is there a way to do this without writing (a lot of) code?". Answer is usually open-source, SaaS or adapt pre-existing code. Still, I try to keep my code as simple as possible following KISS, DRY and YAGNI principles.
+I think this is self-explanatory but I'll add that before writing new code I always ask myself: "Is there a way to do this without writing (a lot of) code?". Answer is usually open source, SaaS or adapt pre-existing code. Still, I try to keep my code as simple as possible following KISS, DRY and YAGNI principles.
 
 - "Clear is kind. Unclear is unkind." - _Brene Brown_
 
