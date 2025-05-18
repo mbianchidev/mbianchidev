@@ -2,7 +2,7 @@
 
 Please see [here](https://github.com/mbianchidev/mbianchidev/blob/master/public-speaking/home.md) for content created about me or videos of my talks.
 
-For everything feel free to visit [my YouTube channel](https://www.youtube.com/@mbianchidev)
+For everything else feel free to visit [my YouTube channel](https://www.youtube.com/@mbianchidev)
 
 ## Press
 - 2nd Sep 2024 - [Observability digest 24](https://www.masteringobservability.com/p/observability-digest-2024-no-24/)
