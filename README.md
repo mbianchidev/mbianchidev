@@ -1,6 +1,6 @@
 #### Hi there!
 
-I'm a metal singer with 9+ years of software/cloud engineering experience, currently living in Northern Europe. 
+I'm a metal singer with 10+ years of software/cloud engineering experience, currently living in Northern Europe. 
 
 I like to define myself as a _jack of most trades, master of some_.
 
