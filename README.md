@@ -4,7 +4,7 @@ I'm a metal singer with 9+ years of software/cloud engineering experience, curre
 
 I like to define myself as a _jack of most trades, master of some_.
 
-[values](values-and-mission.md) - [content creation](content-creation/home.md) - [achievements](achievements.md) - [fun facts](extra.md) - [WIP tech stack](tech-stack.md) -  [everything else](https://mb-consulting.dev/all-links)
+[values](values-and-mission.md) - [public speaking](public-speaking/README.md) - [content creation](content-creation/README.md) - [achievements](achievements.md) - [fun facts](extra.md) -  [everything else](https://mb-consulting.dev/all-links)
 
 ---
 
