@@ -21,6 +21,11 @@ I like to define myself as a _jack of most trades, master of some_.
 
 ---
 
+#### Flexing OSS contributions
+
+[![DevStats Card](https://devstats.me/?username=mbianchidev)](https://github.com/tico88612/devstats-card)
+
+---
 #### About me
 
 <details>
