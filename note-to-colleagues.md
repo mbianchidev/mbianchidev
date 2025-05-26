@@ -19,9 +19,9 @@ I'm very passionate about my job and I love to share my knowledge with others as
 
 - I care about climate change and I'm trying to do my part to help the planet. 🌱
 - I'm an ally of the LGBTQ+ community and I'm trying to educate myself more on the topic. 🏳️‍🌈
-- I care deeply about social issues and human rights but I might not be vocal about it on the job, mostly to avoid retaliation. ✊ 
+- I care deeply about social issues and human rights but I am not be vocal about it on the job or in professional settings, mostly to avoid retaliation (we live in a sick society). ✊ 
 
-Generally speaking, I don't want to talk politics or religion at work. I'm really not interested in chatting about that, nor knowing what you might think about those topics.
+I don't want to talk politics or religion at work. I also do not want to know what you might think about those topics, it could hurt our professional relationship so please keep those thoughts for yourself.
 
 ## Screaming
 
@@ -49,16 +49,16 @@ Context is love, context is life.
 
 ## Communication
 
-- Email ✅ - I usually check it twice a day (morning and afternoon) - note: I'm a zero inbox person, I will read or forward or automatically discard all of my emails.
+- Email ✅ - I usually check it twice a day (morning and afternoon) - note: I'm a zero inbox person, I will read, forward, reply or automatically discard all of my emails.
 - Slack ✅ - Love them messages and huddles, I check it after every meeting and if I have none - every 2 hours, unless I'm in a deep work status.
-- Zoom ✅ - Schedule a call, my calendar is probably open (busy means busy tho and lunch is sacred)
-- Phone (work number) ✅ - I reply if I am on-call or if it's an emergency, otherwise I will call you back when I'm available.
-- Phone (personal number) ❌ - Quite difficult that I give away my personal number - sorry, I separate 99.999% (yes, those are three nines) work and personal life - In case you have my personal it means I'm fond of you so please don't call me for work-related stuff.
+- Zoom ✅ - Schedule a call, my calendar is probably open (busy means busy tho, and lunch is more than sacred)
+- Phone (company number) ✅ - I reply if I am on-call or if it's an emergency, otherwise I will call you back when I'm available.
+- Phone (personal number) ❌ - Quite difficult that I give away my personal number - sorry, I separate 99.999% (yes, those are three nines) work and personal life - In case you have my personal it means I'm fond of you so please don't call me or text me for work-related stuff. I'd block you straight away.
 - Tracking software 🟡 - I might be involved in 20+ tasks/topics/threads/streams/PRs at the same time... Please message me on Slack or send me an email if you need me to do or check something, a mention won't work to get my attention in a timely fashion and if it did in the past you were just lucky!
 
 Sidenote: in the unfortunate case you use Microsoft Teams I will _highly_ recommend you to switch to Slack instead, waaay better.
 
-Mattermost is not bad either but it's still an extra software to install, Slack is standard c'mon man.
+Mattermost is not bad either but it's still an extra software to install, Slack is standard c'mon.
 
 ## Hello
 
@@ -78,7 +78,7 @@ Examples:
 - Straight to the point ✅
 - Context ✅
 
-"Hello Matteo" and then disappearing until I reply
+"Hello Matteo" and then disappearing until I reply.
 
 - Waste of time for the both of us ❌
 
@@ -108,7 +108,7 @@ In case you need to loosen the schedule of recurring meetings I'm 100% with you,
 
 First of all, unless you are announcing IPO: 🚩🚩🚩🚩🚩🚩🚩🚩
 
-If it's a 1-way broadcast it might as well be a video, right?
+If it's a 1-way broadcast with no interaction, it might as well be a video, right?
 
 I'll be eternally grateful if you let me consume your message whenever I have time that day or the day after.
 
