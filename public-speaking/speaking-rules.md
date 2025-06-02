@@ -26,7 +26,7 @@ If you want me to attend or speak, in no way your event should discriminate atte
 - etnicity
 - sex
 - gender
-- political opinions (banning fascists or extreme right wing folks it totally fair, tho. Avoid the [paradox of tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance))
+- political opinions (banning fascists or any extreme right wing folks it is totally fair, tho. Avoid the [paradox of tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance))
 - religion
 - belief
 - disability or chronic illness
