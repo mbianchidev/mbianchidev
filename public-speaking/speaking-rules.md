@@ -70,18 +70,21 @@ If you reimburse me for travel and accomodation, I will be very happy and if my 
 
 Since speaking at events is typically part of my job or I very much enjoy it, I do not generally require a speaking fee.
 
-I do require a speaking fee if the event is large-scale corporate event where the organizing company stands to make a profit (AWS Re:Invent anyone?), or if it's a private/internal corporate event.
-My fee is negotiable based on the size of the event, the topic and whether or not I am a keynote speaker.
+However, I do require a speaking fee if the event is a large-scale corporate one where the organizing entity stands to make a profit through it, or if it's a private/internal corporate event where the general public does not have access (paid or unpaid).
+
+My fee is negotiable based on the size of the event, the topic, time needed for preparation work and whether or not I am a keynote speaker.
 
 ### Intellectual Property
 
-You may record or stream my event, but I retain ownership over the content of the talk and the right to give the talk at other events at my discretion. Recordings cannot be paywalled (unless I give express, written permission, such as if you have paid me for a private corporate event or we have an agreement where I have at least 50% of the revenues reverted to me as royalties).
+You may record or stream my event, but I retain ownership over the content of the talk and the right to give the talk at other events at my discretion. 
 
-I reserve the right to ask that any recording, audio or video, as well as my likeness, be taken down at any point in the future for any reason of my choosing.
+Recordings cannot be paywalled unless I give express, written permission. Which would only happen if you have paid me for a private corporate event or we have an agreement where I have at least 50% of the revenues generated reverted to me as royalties.
 
 ### Pictures & Videos
 
 Of course you can take pictures and videos of me, you can also publish those on your social media to promote the event. I will just ask you if I can get a copy after the conf. I retain every right to re-use such images on my website, social media and other content.
+
+I reserve the right to ask that any recording, audio or video, as well as my likeness, be taken down at any point in the future for any reason of my choosing.
 
 ### Cancellations
 
