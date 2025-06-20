@@ -50,17 +50,17 @@ Context is love, context is life.
 ## Communication
 
 - Email ✅ - I usually check it twice a day (morning and afternoon) - note: I'm a zero inbox person, I will read, forward, reply or automatically discard all of my emails.
-- Slack ✅ - Love them messages and huddles, I check it after every meeting and if I have none - every 2 hours, unless I'm in a deep work status.
-- Zoom ✅ - Schedule a call, my calendar is probably open (busy means busy tho, and lunch is more than sacred)
-- Phone (company number) ✅ - I reply if I am on-call or if it's an emergency, otherwise I will call you back when I'm available.
-- Phone (personal number) ❌ - Quite difficult that I give away my personal number - sorry, I separate 99.999% (yes, those are three nines) work and personal life - In case you have my personal it means I'm fond of you so please don't call me or text me for work-related stuff. I'd block you straight away.
+- Chat ✅ - Love them messages and quick huddles/call, I check chat after every meeting and if I have none - about every 2 hours, unless I'm in a deep work status.
+- Videocall ✅ - Schedule a call, my calendar is probably open (busy means busy tho, and lunch is more than sacred)
+- Phone call (company number) ✅ - I reply if I am on-call or if it's an emergency, otherwise I will call you back when I'm available.
+- Phone call (personal number) ❌ - Quite difficult that I give away my personal number - sorry, I separate 99.999% (yes, those are three nines) work and personal life - In case you have my personal it means I'm fond of you so please don't call me or text me for work-related stuff. I'd block you straight away.
 - Tracking software 🟡 - I might be involved in 20+ tasks/topics/threads/streams/PRs at the same time... Please message me on Slack or send me an email if you need me to do or check something, a mention won't work to get my attention in a timely fashion and if it did in the past you were just lucky!
 
 Sidenote: in the unfortunate case you use Microsoft Teams I will _highly_ recommend you to switch to Slack instead, waaay better.
 
 Mattermost is not bad either but it's still an extra software to install, Slack is standard c'mon.
 
-## Hello
+## Don't just say hello
 
 See: [No hello manifesto](https://nohello.net/en)
 
@@ -78,7 +78,7 @@ Examples:
 - Straight to the point ✅
 - Context ✅
 
-"Hello Matteo" and then disappearing until I reply.
+"Hello Matteo" _and then disappearing until I reply._
 
 - Waste of time for the both of us ❌
 
@@ -110,7 +110,7 @@ First of all, unless you are announcing IPO: 🚩🚩🚩🚩🚩🚩🚩🚩
 
 If it's a 1-way broadcast with no interaction, it might as well be a video, right?
 
-I'll be eternally grateful if you let me consume your message whenever I have time that day or the day after.
+I'll be eternally grateful if you let me consume your video message whenever I have time that day or the day after.
 
 ### 1:1
 
@@ -127,7 +127,7 @@ Typical reasons are:
 - Missing agenda (there should always be one, possibly tagging people where they are needed)
 - Conflicting meeting and yours was deemed to have a lesser priority/urgency by me (or most probably my direct manager), reschedule if you can.
 - I don't know who you are / we don't work together so I assume you added me by mistake, shit happens!
-- There are already people smarter than me that can serve my same purpose/role, sorry but I would be redundant or not necessary at all.
+- There are already people possibly even smarter than me that can serve my same purpose/role, sorry but I would be redundant or not necessary at all.
 - It's out of my working hours, I usually start around 10 AM until 5:30 PM (time zone based)
 - I'm off that day, 99% of the time I have set an Out of Office event but you probably didn't notice it.
 
@@ -140,6 +140,8 @@ Necessary evil, let's do it and get stuff done so we can get back on track and I
 ### Random meetings
 
 In case you just wanna chat about random stuff with me I would **love** to have a (virtual or real) coffee break together! ☕
+
+Just let me know a bit in advance.
 
 ## Deep Work
 
