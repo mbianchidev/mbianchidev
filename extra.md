@@ -27,7 +27,6 @@
 #### Some of the stuff I'm learning and/or trying out
 
 - Chess (around 1000 elo as of 2024) ♟️-> Stopped playing in favor of Magic The Gathering Arena
-- [Astro](https://astro.new/latest) 🌌 -> currently building [SyncTune's website](https://github.com/mbianchidev/synctune-website) with it
 
 #### Some books I recommended
 
