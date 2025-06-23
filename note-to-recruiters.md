@@ -60,7 +60,7 @@ My daily rate is 8*hourly rate, _duh_.
 I discounts my freelancer rate if: 
   - you are a non-for profit organization;
   - I'm doing meaningful work - e.g. sustainability, children education...
-  - you are a pre-seed/seed startup, I really dig the idea, plus your founder(s) and if you offer me some equities. _Series A+ gets the full price, sorry._
+  - you are a pre-seed/seed startup, I really dig both the idea and the founder(s). To discount my rate I require that you offer me some equities in the form of .2-5% of the company total shares. _Series A+ gets the full price, sorry._
 
 I'm open to full-time with some flexibility and limitations to be discussed on a case-by-case basis.
 
@@ -69,8 +69,8 @@ I'm open to full-time with some flexibility and limitations to be discussed on a
 While I could not be actively looking for a job, I'm always open to new opportunities.
 
 To have an idea of my salary expectations for a full-time position, as of 2024, is:
-- starting from **140k base EUR/year (EMEA)** + bonus + equity + perks
-- starting from **180k base USD/year (US)** + bonus + equity + perks (sponsorship needed - O-1 visa possible)
+- starting from **140k base EUR/year (EMEA)** + bonus + equity + benefits
+- starting from **180k base USD/year (US)** + bonus + equity + benefits (sponsorship needed - O-1 visa possible)
 
 I'm open for relocation, but not in every area.
 
@@ -86,7 +86,7 @@ Addressing the elephant in the room: coding riddles, leetcoding, whiteboard inte
 
 In hope to avoid getting these I created [this repo](https://github.com/mbianchidev/engineering-interviews) to collect coding challenges and interview material. 
 
-My success rate at the technical interview stages has been around 67.9% out of 100+ in the past 9 years, so I'm not afraid of coding interviews. I just don't like to waste time with self-contained riddles that a new grad could solve by just memorizing algorithms and data structures 101 or leetcoding all day for 2 weeks. 
+My success rate at the technical interview stages has been around 67.9% out of 100+ in the past 10+ years, so I'm not afraid of coding interviews. I just don't like to waste time with self-contained riddles that a new grad could solve by just memorizing algorithms and data structures 101 or leetcoding all day for 2 weeks. 
 
 _Reversing a binary tree? Been there, done that, please be smarter and ask something meaningful._
 
