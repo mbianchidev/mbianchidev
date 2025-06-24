@@ -9,7 +9,8 @@ For a complete list of my avaiilable talks and my updated bio please visit [my s
 | # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | My talk | Your event | Your City or remote | Your country or timezone | Invite me as a speaker at matteo@mb-consulting.dev |
-| 18 | 24th June 2025 | Bridging the Gaps: Communication Strategies for Kubernetes Releases | [Cloud Native Days Italy 2025](https://cloudnativedaysitaly.org/) | Bologna | Italy | upcoming |
+| 19 | 29th September 2025 | The Periodic Table of Git | [Git Merge 2025](https://git-merge.com/#matteo-bianchi) | San Francisco | California, United States | upcoming |
+| 18 | 24th June 2025 | Bridging the Gaps: Communication Strategies for Kubernetes Releases | [Cloud Native Days Italy 2025](https://cloudnativedaysitaly.org/) | Bologna | Italy | 200 people |
 | 17 | 26th May 2025 | Give it a Spark, with Copilot! | [European Cloud & AI Summit 2025](https://cloudsummit.eu/) | Dusseldorf | Germany | 90+ people |
 | 16 | 23rd May 2025 | Bridging the Gaps: Communication Strategies for Kubernetes Releases | [KCD Istanbul 2025](https://community.cncf.io/events/details/cncf-kcd-istanbul-presents-kcd-istanbul-2025/) | Istanbul | Turkey | 200-250 people |
 | 15 | 6th May 2025 | Bridging the Gaps: Communication Strategies for Kubernetes Releases | [KCD Helsinki 2025](https://community.cncf.io/events/details/cncf-kcd-helsinki-presents-kcd-helsinki-2025/) | Helsinki | Finland | 40-50 people |
