@@ -13,7 +13,7 @@ For a complete list of my avaiilable talks and my updated bio please visit [my s
 | 18 | 24th June 2025 | Bridging the Gaps: Communication Strategies for Kubernetes Releases | [Cloud Native Days Italy 2025](https://cloudnativedaysitaly.org/) | Bologna | Italy | 200 people |
 | 17 | 26th May 2025 | Give it a Spark, with Copilot! | [European Cloud & AI Summit 2025](https://cloudsummit.eu/) | Dusseldorf | Germany | 90+ people |
 | 16 | 23rd May 2025 | Bridging the Gaps: Communication Strategies for Kubernetes Releases | [KCD Istanbul 2025](https://community.cncf.io/events/details/cncf-kcd-istanbul-presents-kcd-istanbul-2025/) | Istanbul | Turkey | 200-250 people |
-| 15 | 6th May 2025 | Bridging the Gaps: Communication Strategies for Kubernetes Releases | [KCD Helsinki 2025](https://community.cncf.io/events/details/cncf-kcd-helsinki-presents-kcd-helsinki-2025/) | Helsinki | Finland | 40-50 people |
+| 15 | 6th May 2025 | Bridging the Gaps: Communication Strategies for Kubernetes Releases [[video](https://www.youtube.com/watch?v=4GEz2dAVTa0)] | [KCD Helsinki 2025](https://community.cncf.io/events/details/cncf-kcd-helsinki-presents-kcd-helsinki-2025/) | Helsinki | Finland | 40-50 people |
 | 14 | 4th Apr 2025 | [Cloud Native Wheel of Fortune: 5 Spins for 5 Topics!](https://kccnceu2025.sched.com/event/1txCh/cloud-native-wheel-of-fortune-5-spins-for-5-topics-steve-wade-independent-matteo-bianchi-github) | KubeCon EU 2025 | London | United Kingdom | Unfortunately I could hardly read the speaker notes lol (note to self: beautiful.ai never again!) roughly 200 people were present - keynote room tho! |
 | 13 | 1st Apr 2025 | [Panel: Building Thriving Communities in Platform Engineering](https://colocatedeventseu2025.sched.com/event/1u5mp/panel-building-thriving-communities-in-platform-engineering-collaboration-innovation-and-growth-matteo-bianchi-github-william-rizzo-mirantis-cortney-nickerson-kelly-revenaugh-kubeshop-bart-farrell-learnk8s) | Platform Engineering Day @ KubeCon EU 2025 | London | United Kingdom | A gret convo about PE and Community with great folks |
 | 12 | 31th Mar 2025 | How to keep your supply chain al dente with GitHub Actions | [KubeCon Maintainers Summit](todo) | London | UK | 400 people, sponsored talk |
@@ -34,6 +34,8 @@ For a complete list of my avaiilable talks and my updated bio please visit [my s
 | # | Date | Event | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | Your event | Your group/meetup | Your City or remote | Your country | Invite me to organize at matteo@mb-consulting.dev |
+| 17 | 
+| 16 |
 | 15 | 6-7 Aug 2025 | KubeCon India 2025 | KubeCon (CNCF) | Hyderabad | India | [tentative] Program Committee - deadline missed |
 | 14 | 3rd July 2025 | KCD Netherlands 2025 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | (former) main organizer, (former) Program Committee |
 | 13 | 16-17 Jun 2025 | KubeCon Japan 2025 | KubeCon (CNCF) | Tokyo | Japan | Program Committee |
@@ -63,7 +65,7 @@ For a complete list of my avaiilable talks and my updated bio please visit [my s
 | 12 | 25th Nov 2024 | My Cloud Native Journey | [The Cloud Native Club](https://www.youtube.com/@thecloudnativeclub) | Remote | United Kingdom | An episode of the Cloud Native Club Podcast, My journey series. I got interviewed about my life and my contributions to cloud native technology. |
 | 11 | 15th Nov 2024 | KubeCon NA 2024 recap | [CNCF](https://www.youtube.com/watch?v=PHsNO6A2EaU) | Remote | United States | A recap of KubeCon NA 2024 |
 | 10 | 7th Nov 2024 | How to make the most of KubeCon NA 2024? | [Kube.FM]([https://www.youtube.com/@joebignell5707](https://www.linkedin.com/events/7260018558217142273/comments/)) | Remote | Spain | An episode of the kube.fm right before KubeCon NA |
-| 9 | 20th Sept 2024 | SeveralNines on the road at SREDays | [SeveralNines](https://www.youtube.com/@Severalnines) | London | United Kingdom | An episode of SeveralNines' podcast on the road during SREDays |
+| 9 | 20th Sept 2024 | [SeveralNines on the road at SREDays](https://www.youtube.com/shorts/PCSHg-DBkUw) | [SeveralNines](https://www.youtube.com/@Severalnines) | London | United Kingdom | An episode of SeveralNines' podcast on the road during SREDays |
 | 8 | 22nd Aug 2024 | [KubeFM](https://www.linkedin.com/posts/bart-farrell_what-does-a-kubernetes-release-shadow-do-activity-7232350152710098944-tyEz?utm_source=share&utm_medium=member_desktop) | KubeFM | Remote | Spain | An episode of the KubeFM podcast by Bart Farrell in which I have been interviewed as part of the release team of v.1.31 |
 | 7 | 13th Aug 2024 | [De Nederlandse Kubernetes Podcast](https://open.spotify.com/episode/7bUbEvnwg4iZAFi99KwtgD?si=9542753cfe144154&nd=1&dlsi=2f17bd34171941f0) [[video](https://www.youtube.com/watch?v=zyo67CNIlRc)] | Dutch Kubernetes Community | Amsterdam | Netherlands | An episode of the De Nederlandse Kubernetes Podcast by Ronald Kers and Jan Stomphorst, in which I have been interviewed as part of the release team for v1.31, the episode focuses on release team stories and features going out on Kubernetes for the 1.31 release |
 | 6 | Recorded but not published | [KubeFM]() | KubeFM | Remote | Spain | An episode of the KubeFM podcast by Bart Farrell in which I have been interviewed as SME on Kubernetes |
