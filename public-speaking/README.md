@@ -34,8 +34,8 @@ For a complete list of my avaiilable talks and my updated bio please visit [my s
 | # | Date | Event | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | Your event | Your group/meetup | Your City or remote | Your country | Invite me to organize at matteo@mb-consulting.dev |
-| 17 | 
-| 16 |
+| 17 | 9 Nov 2025 | KubeCon NA Co-located events 2025 | KubeCon (CNCF) | Atlanta | Georgia, United States | Program Committee |
+| 16 | 10-13 Nov 2025 | KubeCon NA 2025 | KubeCon (CNCF) | Atlanta | Georgia, United States | Program Committee |
 | 15 | 6-7 Aug 2025 | KubeCon India 2025 | KubeCon (CNCF) | Hyderabad | India | [tentative] Program Committee - deadline missed |
 | 14 | 3rd July 2025 | KCD Netherlands 2025 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | (former) main organizer, (former) Program Committee |
 | 13 | 16-17 Jun 2025 | KubeCon Japan 2025 | KubeCon (CNCF) | Tokyo | Japan | Program Committee |
