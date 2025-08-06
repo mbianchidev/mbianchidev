@@ -90,7 +90,7 @@ My success rate at the technical interview stages has been around 67.9% out of 1
 
 _Reversing a binary tree? Been there, done that, please be smarter and ask something meaningful._
 
-Btw I also have some open-source code on my GitHub profile, so you can check that out if you really want to see how I code, right? 😉
+Btw I also have some open source code on my GitHub profile, so you can check that out if you really want to see how I code, right? 😉
 
 Here's an example of why I don't like these kind of interviews:
 
