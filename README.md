@@ -1,8 +1,8 @@
 #### Hi there!
 
-I'm a metal singer with 10+ years of software/cloud engineering experience, currently living in Northern Europe. 
+I'm a metal singer with 10+ years of software/cloud engineering experience, currently living in Northern Europe and working at GitHub (you are looking at it).
 
-I like to define myself as a _jack of most trades, master of some_.
+I like to define myself as a _jack of most (tech) trades, master of some_.
 
 [values](values-and-mission.md) - [public speaking](public-speaking/README.md) - [content creation](content-creation/README.md) - [achievements](achievements.md) - [fun facts](extra.md) -  [everything else](https://mb-consulting.dev/all-links)
 
@@ -10,7 +10,7 @@ I like to define myself as a _jack of most trades, master of some_.
 
 #### Contact me
 
-- [public GPG key](keys/gpgkey.pub) to message me about sensitive matters.
+- [public GPG key](keys/gpgkey.pub) to message me about sensitive matters _if you need to report any OSS security vulnerability use the project security.md file and follow the instructions, thanks!_
 - [A message for recruiters and companies](note-to-recruiters.md)
 - [A message for my colleagues](note-to-colleagues.md)
 
@@ -21,7 +21,7 @@ I like to define myself as a _jack of most trades, master of some_.
 
 ---
 
-#### Flexing OSS contributions
+#### Just flexin some OSS contributions
 
 [![DevStats Card](https://devstats.me/?username=mbianchidev)](https://github.com/tico88612/devstats-card)
 
@@ -60,10 +60,12 @@ I like to define myself as a _jack of most trades, master of some_.
   
   In the end we could not find the Product-Market Fit, even after raising a pre-seed amount and had to step back, but quoting Yoda: "The greatest teacher, failure is."
   
-  In the end I kept advocating for Cloud Native technologies, I am a Kubernetes lover and a CNCF Ambassador. ☸️💙
-  I strongly believe in the power of Platform Engineering and I look forward to impact the IT industry with my work. 🏋️
+  In the end I kept advocating for Cloud Native technologies.
+  Currently I keep being a Kubernetes lover, contributor and advocate as a CNCF Ambassador. ☸️💙
+
+  I strongly believe in the need of Platform Engineering and AI to enhance developer workflows, hence why I joined GitHub in 2024 as Solutions Engineer. 🏋️
   
-  What will I do in 2024 and beyond? Who knows! 🤩
+  What will I do in 2026 and beyond? Who knows! 🤩
   
   To be continued... 
 </details>
