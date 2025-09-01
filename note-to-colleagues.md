@@ -8,7 +8,7 @@ Please use he/him or they/them pronouns when referring to me, thanks!
 I have good intentions most of the time, but being a non-native English speaker I might come across as dry or even rude. 
 While I am so sorry if something I said ended up hurting your feelings, please let me know if I do, I am on my way to improve!
 
-## Who am I?
+## About me
 
 I consider myself a very friendly person, I love to help people and I try to do so.
 Only problem is that especially when we first meet I'm quite shy and introverted, so I might not be the most talkative person in the room. Give me some time and I will open up!
@@ -87,74 +87,6 @@ Examples:
 
 - Non-work related 🟡 - I'll take my time to reply, but thanks for messaging!
 
-
-## Meetings
-
-If you feel the need to involve me in a meeting be sure to send me an agenda and set a clear expectation for my contribution.
-
-Most of the times meetings can be async or a shared doc where we brainstorm, hence I try to avoid meetings unless it's necessary. 
-I highly prefer async communication, it's more efficient and it allows us to focus on getting the actual work done.
-
-I will really be fond of you in case you will choose to schedule any kind of meeting at least 24 hours in advance and according to my time zone.
-If you need to reschedule, no big deal, just let me know with a quick message but it doesn't have to become the norm or I won't accept any further meeting invite.
-
-### Recurring
-
-I find them useful, to catch up, to have a quick overview, to update any kind of status and to finalize some items, again: they need an agenda.
-
-In case you need to loosen the schedule of recurring meetings I'm 100% with you, just ask / tell me instead of pushing them of 1 hour multiple times.
-
-### All-hands / City Hall or whatever they call them these days
-
-First of all, unless you are announcing IPO: 🚩🚩🚩🚩🚩🚩🚩🚩
-
-If it's a 1-way broadcast with no interaction, it might as well be a video, right?
-
-I'll be eternally grateful if you let me consume your video message whenever I have time that day or the day after.
-
-### 1:1
-
-Love them regardless of being the manageR or the manageD.
-Once a month or every two weeks works best imho, unless one of us is currently onboarding.
-
-### Big Group Meetings
-
-I will join in time and I'll be super happy to say hi to the team but...
-
-Nothing personal if I decline. 
-
-Typical reasons are:
-- Missing agenda (there should always be one, possibly tagging people where they are needed)
-- Conflicting meeting and yours was deemed to have a lesser priority/urgency by me (or most probably my direct manager), reschedule if you can.
-- I don't know who you are / we don't work together so I assume you added me by mistake, shit happens!
-- There are already people possibly even smarter than me that can serve my same purpose/role, sorry but I would be redundant or not necessary at all.
-- It's out of my working hours, I usually start around 10 AM until 5:30 PM (time zone based)
-- I'm off that day, 99% of the time I have set an Out of Office event but you probably didn't notice it.
-
-Btw rule of thumb: if you can solve or decide about something without me, do it, I trust you. If I happen to be your lead/manager just send me a recap message afterwards.
-
-### Working group / "War" room
-
-Necessary evil, let's do it and get stuff done so we can get back on track and I can unpause Spotify.
-
-### Random meetings
-
-In case you just wanna chat about random stuff with me I would **love** to have a (virtual or real) coffee break together! ☕
-
-Just let me know a bit in advance.
-
-## Deep Work
-
-See: [Deep Work](files/deep-work.pdf)
-
-## Bureaucracy
-
-I hate bureaucracy. Strong word, I know but I really hate it with all my heart. I will do my very best to avoid it at all costs.
-
-As you could've guessed, I don't cope well with it and it makes me feel like I'm wasting my and company time by not doing anything useful.
-
-Avoid forcing me to do it if you can, I will be forever grateful and I will stay in your company for way longer.
-
 ## Feedback
 
 ### Receiving
@@ -186,3 +118,80 @@ I ask you tell me if I do something wrong and in return I will try to learn and 
 Note: If you try to gaslight me I will absolutely be mad.
 
 p.s. If we have a good relationship I might make fun of you for making a mistake, but I will do it in a friendly way and expect you to do the same, I promise! 🤝
+
+----
+
+## Beliefs
+
+The following stuff is not actionable from you, dear colleague, it's just who I am.
+
+### Scrum sucks
+
+Yeah, it really does. Why? Read [this](https://blog.mb-consulting.dev/scrum-sucks-9960011fc5cf).
+
+### Meetings
+
+If you feel the need to involve me in a meeting be sure to send me an agenda and set a clear expectation for my contribution.
+
+Most of the times meetings can be async or a shared doc where we brainstorm, hence I try to avoid meetings unless it's necessary. 
+I highly prefer async communication, it's more efficient and it allows us to focus on getting the actual work done.
+
+I will really be fond of you in case you will choose to schedule any kind of meeting at least 24 hours in advance and according to my time zone.
+If you need to reschedule, no big deal, just let me know with a quick message but it doesn't have to become the norm or I won't accept any further meeting invite.
+
+#### Recurring
+
+I find them useful, to catch up, to have a quick overview, to update any kind of status and to finalize some items, again: they need an agenda.
+
+In case you need to loosen the schedule of recurring meetings I'm 100% with you, just ask / tell me instead of pushing them of 1 hour multiple times.
+
+#### All-hands / City Hall or whatever they call them these days
+
+First of all, unless you are announcing IPO: 🚩🚩🚩🚩🚩🚩🚩🚩
+
+If it's a 1-way broadcast with no interaction, it might as well be a video, right?
+
+I'll be eternally grateful if you let me consume your video message whenever I have time that day or the day after.
+
+#### 1:1
+
+Love them regardless of being the manageR or the manageD.
+Once a month or every two weeks works best imho, unless one of us is currently onboarding.
+
+#### Big Group Meetings
+
+I will join in time and I'll be super happy to say hi to the team but...
+
+Nothing personal if I decline. 
+
+Typical reasons are:
+- Missing agenda (there should always be one, possibly tagging people where they are needed)
+- Conflicting meeting and yours was deemed to have a lesser priority/urgency by me (or most probably my direct manager), reschedule if you can.
+- I don't know who you are / we don't work together so I assume you added me by mistake, shit happens!
+- There are already people possibly even smarter than me that can serve my same purpose/role, sorry but I would be redundant or not necessary at all.
+- It's out of my working hours, I usually start around 10 AM until 5:30 PM (time zone based)
+- I'm off that day, 99% of the time I have set an Out of Office event but you probably didn't notice it.
+
+Btw rule of thumb: if you can solve or decide about something without me, do it, I trust you. If I happen to be your lead/manager just send me a recap message afterwards.
+
+#### Working group / "War" room
+
+Necessary evil, let's do it and get stuff done so we can get back on track and I can unpause Spotify.
+
+#### Random meetings
+
+In case you just wanna chat about random stuff with me I would **love** to have a (virtual or real) coffee break together! ☕
+
+Just let me know a bit in advance.
+
+### Deep Work
+
+See: [Deep Work](files/deep-work.pdf)
+
+### Bureaucracy
+
+I hate bureaucracy. Strong word, I know but I really hate it with all my heart. I will do my very best to avoid it at all costs.
+
+As you could've guessed, I don't cope well with it and it makes me feel like I'm wasting my and company time by not doing anything useful.
+
+Avoid forcing me to do it if you can, I will be forever grateful and I will stay in your company for way longer.
