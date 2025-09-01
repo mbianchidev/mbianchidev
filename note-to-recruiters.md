@@ -53,7 +53,7 @@ I'm not going to compromise on this and neither should anyone else!
 
 I'm always looking for new challenges, so if you're looking for a Cloud Native Consultant, feel free to reach out to me.
 
-My starting hourly rate as a freelancer is **125€/hour** - slightly negotiable.
+My starting hourly rate as a freelancer is **150€/hour** - slightly negotiable.
 
 My daily rate is 8*hourly rate, _duh_.
 
