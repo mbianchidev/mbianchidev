@@ -9,7 +9,9 @@ For a complete list of my avaiilable talks and my updated bio please visit [my s
 | # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | My talk | Your event | Your City or remote | Your country or timezone | Invite me as a speaker at matteo@mb-consulting.dev |
-| 20 | 28-29th October 2025 | ??? | [GitHub Universe](https://githubuniverse.com/) | San Francisco | California, United States | upcoming |
+| 21 | 2-5 December 2025 | ??? | [WPC 2025](https://www.wpc.education/) | Milan | Italy | upcoming |
+| 21 | 1st December 2025 | ??? | [GitHub Universe Recap '25](https://resources.github.com/events/emea-universe25recap-events/) | Milan | Italy | upcoming |
+| 20 | 28-29th October 2025 | ??? | [GitHub Universe 2025](https://githubuniverse.com/) | San Francisco | California, United States | upcoming |
 | 19 | 29th September 2025 | The Periodic Table of Git | [Git Merge 2025](https://git-merge.com/#matteo-bianchi) | San Francisco | California, United States | upcoming |
 | 18 | 24th June 2025 | Bridging the Gaps: Communication Strategies for Kubernetes Releases | [Cloud Native Days Italy 2025](https://cloudnativedaysitaly.org/) | Bologna | Italy | 200 people |
 | 17 | 26th May 2025 | Give it a Spark, with Copilot! | [European Cloud & AI Summit 2025](https://cloudsummit.eu/) | Dusseldorf | Germany | 90+ people |
