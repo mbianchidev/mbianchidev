@@ -143,7 +143,8 @@ If you need to reschedule, no big deal, just let me know with a quick message bu
 
 I find them useful, to catch up, to have a quick overview, to update any kind of status and to finalize some items, again: they need an agenda.
 
-In case you need to loosen the schedule of recurring meetings I'm 100% with you, just ask / tell me instead of pushing them of 1 hour multiple times.
+In case you need to loosen the schedule of recurring meetings I'm 100% with you, just ask / tell me instead of pushing them of 1 hour, 1 day, 1 week multiple times.
+Shuffling that much hurts my trust in you.
 
 #### All-hands / City Hall or whatever they call them these days
 
