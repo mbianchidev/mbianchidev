@@ -5,6 +5,7 @@ Please see [here](https://github.com/mbianchidev/mbianchidev/blob/master/public-
 For everything else feel free to visit [my YouTube channel](https://www.youtube.com/@mbianchidev)
 
 ## Press
+- 6th Nov 2025 - [How a Frog made me fall in love with custom agents](https://www.eficode.com/blog/how-a-frog-made-me-fall-in-love-with-custom-github-agents)
 - 13th May 2025 - [Mirantis at KubeCon 2025 blog](https://www.mirantis.com/blog/watch-the-recordings-mirantis-talks-at-kubecon-eu-2025/)
 - 2nd Sep 2024 - [Observability digest 24](https://www.masteringobservability.com/p/observability-digest-2024-no-24/)
 - 27th Jun 2024 - [Devopsdays Amsterdam 2024: Our Takeaways - Devoteam blog](https://nl.devoteam.com/people/devopsdays-amsterdam-2024-our-takeaways/)
