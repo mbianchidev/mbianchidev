@@ -2,20 +2,27 @@
 
 Heya there future (or current) colleague! 👋
 
+_Also valid for OSS contributors_
+
 This is a manual to help you understand how to work with me.
 Please use he/him or they/them pronouns when referring to me, thanks!
 
-I have good intentions most of the time, but being a non-native English speaker I might come across as dry or even rude. 
-While I am so sorry if something I said ended up hurting your feelings, please let me know if I do, I am on my way to improve!
+I have good intentions most of the time, but not all the times: I can definitely be pissed off. 
+
+Being a non-native English speaker I might still come across as dry or even rude, when I am actually in my usual state of grumpyness.
+
+You must know I am so sorry if something I said ended up hurting your feelings and please let me know if I do, I am always on my way to improve.
 
 ## About me
 
-I consider myself a very friendly person, I love to help people and I try to do so.
-Only problem is that especially when we first meet I'm quite shy and introverted, so I might not be the most talkative person in the room. Give me some time and I will open up!
+I consider myself a very friendly person, I love to help people and I always strive to do so. Sometimes at my expense, too.
+I'm quite introverted, so I might not be the most talkative person in the room nor I am energized by people, au contraire.
 
-If you want to find some common topics to talk about, here's a list of things I like: [here](extra.md)
+This doesn't mean I don't like social moments, I do, but they drain my social battery.
 
-I'm very passionate about my job and I love to share my knowledge with others as well as learning from others. I usually have a lot of questions and I'm not afraid to ask them (even if they might sound stupid).
+If you want to find some common topics to talk about, here's a list of things I like aka my special interests: [here](extra.md)
+
+I'm very passionate about my job and I love to share my knowledge with others as well as learning from others. I usually have a lot of questions and I'm not afraid to ask them (even if they might sound quite stupid).
 
 - I care about climate change and I'm trying to do my part to help the planet. 🌱
 - I'm an ally of the LGBTQ+ community and I'm trying to educate myself more on the topic. 🏳️‍🌈
@@ -26,11 +33,11 @@ I don't want to talk politics or religion at work. I also do not want to know wh
 ## Screaming
 
 I can't stand people (regardless of their role in the company) screaming at other people. We are human beings, not a machines. We have feelings and emotions.
-I will **never** scream at you or anybody, so I expect the same from you if we are in the same team, even if you are my manager or in my chain.
+I will **never** scream at you or anybody, so I expect the same from you if we are in the same team, even if you are my manager or in my chain (_we only have those to lose, bro_)
 
 If you're angry it's completely valid. You need to take a break, go for a walk, do something else, then come back and we will talk about it. ❤️
 
-Btw I can scream at a higher volume than you, here's [proof](https://www.youtube.com/watch?v=mqukHybn6zg) lol.
+Btw I can scream at a way higher volume than you and I have proof.
 
 ## Touching
 
@@ -86,6 +93,17 @@ Examples:
 "Hello Matteo, have you watched the new episode of [insert TV series here]?"
 
 - Non-work related 🟡 - I'll take my time to reply, but thanks for messaging!
+
+## Calendar
+
+I work with my calendar only. I have my calendar. I have events for EVERYTHING (work related and not). 
+You can still try to book me especially if the event is named "Work on x", "Read x", probably not if it's called "Very Important Customer Call" or anything that has more than just me in it.
+
+Out of Office means out of office.
+
+Lunch means lunch.
+
+Meals are important to me. PLEASE do not book me on my meal block - unless you like rejection, lol.
 
 ## Feedback
 
