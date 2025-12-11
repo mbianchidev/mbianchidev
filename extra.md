@@ -3,14 +3,13 @@
 - I sing in a metal band! - _Yes, I make ungodly sounds 🎤_
 - I am an extreme vocal coach - _I teach people how to scream 😱_
 - I go to all the metal(core) concerts and festivals I can! - _I'm a metalhead 🤘_
-- I curate a list of personal finance resources [here](https://github.com/mbianchidev/financial-cool)
 - I hike but nothing too challenging - _I'm just a nature lover 🌲_
 - I try to stay fit and used to do combat sports (Kickboxing, K1, Muay Thai, BJJ, MMA), now I just go to the boring gym - _I'm a former amateur fighter 🥊_
 - I compose(d) some aggressive electronic music - _ask me about it! 🤖_
 - [I curate my Spotify playlists](https://open.spotify.com/user/1169908688?si=f484127a02164fc7)
-- I have 8 tattoos and counting - _I love being able to tell a story without even speaking 🖤_
+- I have 10+ tattoos but you probably will ever see only a part of them - _I love being able to tell a story without even speaking 🖤_
 - I used to stream on a Twitch gaming channel _cringe-y, not sharing the link here 😳_
-- I've been playing League of Legends for 10+ years, peak elo higher than yours! 💎 But now I mostly play single player games: Elden Ring is the last one I played as of 2023. 👾
+- I played League of Legends for 10+ years, peak elo higher than yours! 💎 But now I mostly play single player games: Elden Ring is the last one I played as of 2023. 👾
 - I play Magic The Gathering, mainly MTGA due to my wallet not being very happy with the real deal.
 - I am a risotto master - _I'm Italian 🇮🇹 I literally can't be (too) bad at cooking_
 - I gave birth to tons of D&D PGs - most of them passed away, sigh. _I love tabletop games and RPGs_ 🎲
