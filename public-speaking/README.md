@@ -9,6 +9,8 @@ For a complete list of my avaiilable talks and my updated bio please visit [my s
 | # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | My talk | Your event | Your City or remote | Your country or timezone | Invite me as a speaker at matteo@mb-consulting.dev |
+| 22 | 23-26 March 2026 | Pull Request Wars: The Flux Awakens - Ephemeral Environments Strike Back | [KubeCon EU 2026](https://kccnceu2026.sched.com/event/2CW37/pull-request-wars-the-flux-awakens-ephemeral-kubernetes-environments-strike-back-matteo-bianchi-github-stefan-prodan-controlplane?iframe=no) | Amsterdam | Netherlands | upcoming |
+| 21 | 2-4 March 2026 | Talent Arena (MWC co-located) | [Talent Arena 2026](https://talentarena.tech/) | Barcelona | Catalunya, Spain | upcoming |
 | 20 | 28-29th October 2025 | Breath of Copilot: Level Up Your DevEx with Actions and Advanced Security | [GitHub Universe 2025](https://githubuniverse.com/) | San Francisco | California, United States | 200 people |
 | 19 | 29th September 2025 | The Periodic Table of Git [[video](https://youtu.be/oWP7_8OIa9E?si=UY-x5a6ITndSGsax)] | [Git Merge 2025](https://git-merge.com/#matteo-bianchi) | San Francisco | California, United States | 105 people (100 online) |
 | 18 | 24th June 2025 | Bridging the Gaps: Communication Strategies for Kubernetes Releases | [Cloud Native Days Italy 2025](https://cloudnativedaysitaly.org/) | Bologna | Italy | 180 people |
