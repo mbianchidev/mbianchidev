@@ -7,7 +7,7 @@
 - I try to stay fit and used to do combat sports (Kickboxing, K1, Muay Thai, BJJ, MMA), now I just go to the boring gym - _I'm a former amateur fighter 🥊_
 - I compose(d) some aggressive electronic music - _ask me about it! 🤖_
 - [I curate my Spotify playlists](https://open.spotify.com/user/1169908688?si=f484127a02164fc7)
-- I have 10+ tattoos but you probably will ever see only a part of them - _I love being able to tell a story without even speaking 🖤_
+- I have 10+ tattoos, but you probably did not notice most of them - _I love being able to tell a story without even speaking 🖤_
 - I used to stream on a Twitch gaming channel _cringe-y, not sharing the link here 😳_
 - I played League of Legends for 10+ years, peak elo higher than yours! 💎 But now I mostly play single player games: Elden Ring is the last one I played as of 2023. 👾
 - I play Magic The Gathering, mainly MTGA due to my wallet not being very happy with the real deal.
@@ -42,7 +42,6 @@
 | Deep Work | [Amazon aff. link](https://amzn.to/45KXYcS) | Deep Work is a book about productivity by Cal Newport |
 | The 80/20 Principle | [Amazon aff. link](https://amzn.to/3sSlvKs) | The 80/20 Principle is a book about productivity by Richard Koch |
 | The psychology of money | [Amazon aff. link](https://amzn.to/3ZcgacQ) | The psychology of money is a book about personal finance by Morgan Housel |
-| Zero to One: Notes on Startups, or How to Build the Future | [Amazon aff. link](https://amzn.to/3sSlBBO) | Zero One is a book about startups by Peter Thiel |
 | The Subtle Art of Not Giving a F*ck | [Amazon aff. link](https://amzn.to/3sNOWNw) | The Subtle Art of Not Giving a F*ck is a book about life by Mark Manson |
 | The Alchemist | [Amazon aff. link](https://amzn.to/485Ydk9) | The Alchemist is a book about life by Paulo Coelho |
 
