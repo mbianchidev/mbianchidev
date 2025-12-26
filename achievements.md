@@ -1,6 +1,6 @@
 ## Professional achievements in reverse cronological order (latest first, evergreen at the top in order of importance, if any)
 
-- Awarded as SIG Release choice for the Contributor Awards 2025 at KubeCon NA in Atlanta
+- Awarded as [SIG Release choice for the Contributor Awards 2025](https://www.kubernetes.dev/community/awards/2025/#release) at KubeCon NA in Atlanta
 - Released Kubernetes v1.33 as branch manager
 - Spoke at KubeCon EU London 2025, with 3 different sessions
 - Delivered my first Keynote at KCD Denmark
