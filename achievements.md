@@ -1,6 +1,6 @@
 ## Professional achievements in reverse cronological order (latest first, evergreen at the top in order of importance, if any)
 
-- Speaking at KubeCon EU Amsterdam 2026, with 1 session
+- Speaking at [KubeCon EU Amsterdam 2026](https://kccnceu2026.sched.com/event/2CW37/pull-request-wars-the-flux-awakens-ephemeral-kubernetes-environments-strike-back-matteo-bianchi-github-stefan-prodan-controlplane?iframe=no&w=100%&sidebar=yes&bg=no), with 1 session
 - Awarded as [SIG Release choice for the Contributor Awards 2025](https://www.kubernetes.dev/community/awards/2025/#release) at KubeCon NA in Atlanta
 - Released Kubernetes v1.33 as branch manager
 - Spoke at KubeCon EU London 2025, with 3 different sessions
