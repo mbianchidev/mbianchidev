@@ -1,51 +1,42 @@
 <div align="center">
 
-# 👋 Hi there!
+# Hi there!
 
-### 🎸 Metal Singer | ☁️ Cloud Engineer | 🚀 10+ Years in Software Engineering
+I'm a metal singer with 10+ years of software/cloud engineering experience.
 
-I'm a metal singer with 10+ years of software/cloud engineering experience, currently living in Northern Europe and working at **GitHub** (you are looking at it).
+Currently living in Northern Europe and working at **GitHub** (you are looking at it).
 
-> _"I like to define myself as a **jack of most (tech) trades, master of some**."_
+"I like to define myself as a **jack of most (tech) trades, master of some**."
 
 ---
 
-### 🔗 Quick Links
+### Quick Links
 
 [![Values](https://img.shields.io/badge/📜-Values%20%26%20Mission-blue?style=for-the-badge)](values-and-mission.md)
 [![Public Speaking](https://img.shields.io/badge/🎤-Public%20Speaking-green?style=for-the-badge)](public-speaking/README.md)
 [![Content Creation](https://img.shields.io/badge/📝-Content%20Creation-orange?style=for-the-badge)](content-creation/README.md)
+
 [![Achievements](https://img.shields.io/badge/🏆-Achievements-yellow?style=for-the-badge)](achievements.md)
 [![Fun Facts](https://img.shields.io/badge/🎉-Fun%20Facts-purple?style=for-the-badge)](extra.md)
 [![All Links](https://img.shields.io/badge/🔗-Everything%20Else-red?style=for-the-badge)](https://mb-consulting.dev/all-links)
 
-</div>
-
 ---
 
-## 🚀 Things I am currently working on, aside from my main job
+## Things I am currently working on, aside from my main job
 
-<div align="center">
+| Type | Project | Description | Effort      |
+|------|---------|-------------|-------------|
+| ☕ | **Music** | Playing and recording music with my band. | High. <br> Best way to spend many hours of my free time. |
+| 💸 | **Consulting** | Infrastructure/Architecture with a focus on Kubernetes, Hiring, Product Market Fit & Go To Market, Open Source Strategy. | Medium. <br> Depends on the period. |
+| 📖 | **[Kubernetes](https://github.com/kubernetes/kubernetes)** | It's running this and other website/apps you look at every single day. | Medium. <br> A couple hours per week, doing maintainance and improving processes. |
+| 💸 | **[Mentoring engineers](https://mentorcruise.com/mentor/matteobianchi/)** | Reach out on MentorCruise, or my LinkedIn if you want to be mentored by me, easy. | Low. <br> I only take a few mentees at a time. |
+| 📖 🔮 | **[Fire Tools](https://github.com/mbianchidev/fire-tools)** | Your personal finance copilot, without AI. | Low. <br> A hobby project that will substitute the current Google Sheet setup for my personal finance. |
+| 📖 🔮 | **[Engineering Interviews](https://github.com/mbianchidev/engineering-interviews)** | A simple platform to practice for engineering interviews, focused on System Design, Engineering and conversational interview. | Low. <br> I sometimes add questions here, especially when I spar-interview. |
+| 📖 | **[Platform Engineering Roadmap](https://github.com/mbianchidev/platform-engineering-roadmap)** | An opinionated way to get to be a Platform Engineer, in the form of a roadmap.sh style website. | Low. <br> I will probably donate it to a Platform Engineering community at some point. |
+| ☕ | **[My new satiric website](https://github.com/mbianchidev/mock-startup-website)** | I pretended to have a startup with a cool product (me) and I am absolutely mocking YC founders with this, yes. | Almost zero. <br> One day I'll actually buy a new domain and publish it. |
+| 📖 🔮 | **[Find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** | I want to build a concert discovery service that doesn't suck, unlike Songkick or Bandsintown (somewhat). | Almost zero. <br> Gotta find time to work on this. |
 
-### 📊 In order of effort/hours:
-
-</div>
-
-| Type | Project | Description |
-|------|---------|-------------|
-| ☕ | **Music** | Playing and recording music with my band. |
-| 💸 | **Consulting** | Infrastructure/Architecture with a focus on Kubernetes, Hiring, Product Market Fit & Go To Market, Open Source Strategy. |
-| 💸 | **[Mentoring engineers](https://mentorcruise.com/mentor/matteobianchi/)** | Reach out on MentorCruise, or my LinkedIn if you want to be mentored by me, easy. |
-| 📖 | **[Kubernetes](https://github.com/kubernetes/kubernetes)** | It's running this and other website/apps you look at every single day. |
-| 📖 🔮 | **[Fire Tools](https://github.com/mbianchidev/fire-tools)** | Your personal finance copilot, without AI. |
-| 📖 🔮 | **[Engineering Interviews](https://github.com/mbianchidev/engineering-interviews)** | A simple platform to practice for engineering interviews, focused on System Design, Engineering and conversational interview. |
-| 📖 | **[Platform Engineering Roadmap](https://github.com/mbianchidev/platform-engineering-roadmap)** | An opinionated way to get to be a Platform Engineer, in the form of a roadmap.sh style website. |
-| ☕ | **[My new satiric website](https://github.com/mbianchidev/mock-startup-website)** | I pretended to have a startup with a cool product (me) and I am absolutely mocking YC founders with this, yes. |
-| 📖 🔮 | **[Find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** | I want to build a concert discovery service that doesn't suck, unlike Songkick or Bandsintown (somewhat). |
-
-<div align="center">
-
-### 📖 Legend
+### Legend
 
 | Icon | Meaning |
 |:----:|---------|
@@ -54,23 +45,15 @@ I'm a metal singer with 10+ years of software/cloud engineering experience, curr
 | 💸 | Monetized |
 | 🔮 | Monetized (in the future?) |
 
-</div>
-
 ---
 
 ## 📬 Contact me
 
-<div align="center">
-
 ### 💬 Get in Touch
-
-</div>
 
 | Method | Details |
 |--------|---------|
-| 🔐 **Secure Messages** | [public GPG key](keys/gpgkey.pub) to message me about sensitive matters |
-| 💼 **For Recruiters** | [A message for recruiters and companies](note-to-recruiters.md) |
-| 👥 **For Colleagues** | [A message for my colleagues](note-to-colleagues.md) |
+| 🔐 **Secure Messages** | [public GPG key](keys/gpgkey.pub) to message me about sensitive matters ||
 
 > ⚠️ _If you need to report any OSS security vulnerability use the project security.md file and follow the instructions, thanks!_
 
@@ -84,11 +67,7 @@ I'm a metal singer with 10+ years of software/cloud engineering experience, curr
 
 ## 💪 Just flexin some OSS contributions
 
-<div align="center">
-
 [![DevStats Card](https://devstats.me/?username=mbianchidev)](https://github.com/tico88612/devstats-card)
-
-</div>
 
 ---
 
@@ -101,11 +80,5 @@ I'm a metal singer with 10+ years of software/cloud engineering experience, curr
     <strong>TLDR;</strong> I really like to build stuff in the cloud, especially if they pay me big bucks for it.
   </blockquote>
 </details>
-
----
-
-<div align="center">
-
-Made with ❤️ and ☕
 
 </div>
