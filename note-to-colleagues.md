@@ -1,216 +1,396 @@
-# User Manual: How to work with me
+# 🤝 User Manual: How to Work With Me
 
-Heya there future (or current) colleague! 👋
+> *Also valid for OSS contributors*
 
-_Also valid for OSS contributors_
+---
 
-This is a manual to help you understand how to work with me.
-Please use he/him or they/them pronouns when referring to me, thanks!
+## 👋 Introduction
 
-I have good intentions most of the time, but not all the times: I can definitely be pissed off. 
+Heya there future (or current) colleague!
 
-Being a non-native English speaker I might still come across as dry or even rude, when I am actually in my usual state of grumpyness.
+**Pronouns**: Please use he/him or they/them when referring to me, thanks!
 
-You must know I am so sorry if something I said ended up hurting your feelings and please let me know if I do, I am always on my way to improve.
+### Setting Expectations
 
-## About me
+I have good intentions most of the time, but not all the times: I can definitely be pissed off.
 
-I consider myself a very friendly person, I love to help people and I always strive to do so. Sometimes at my expense, too.
-I'm quite introverted, so I might not be the most talkative person in the room nor I am energized by people, au contraire.
+Being a non-native English speaker I might still come across as dry or even rude, when I am actually in my usual state of grumpiness.
 
-This doesn't mean I don't like social moments, I do, but they drain my social battery.
+> **You must know** I am so sorry if something I said ended up hurting your feelings and please let me know if I do, I am always on my way to improve.
 
-If you want to find some common topics to talk about, here's a list of things I like aka my special interests: [here](extra.md)
+---
 
-I'm very passionate about my job and I love to share my knowledge with others as well as learning from others. I usually have a lot of questions and I'm not afraid to ask them (even if they might sound quite stupid).
+## 🧑 About Me
 
-- I care about climate change and I'm trying to do my part to help the planet. 🌱
-- I'm an ally of the LGBTQ+ community and I'm trying to educate myself more on the topic. 🏳️‍🌈
-- I care deeply about social issues and human rights but I am not be vocal about it on the job or in professional settings, mostly to avoid retaliation (we live in a sick society). ✊ 
+### Personality
 
-I don't want to talk politics or religion at work. I also do not want to know what you might think about those topics, it could hurt our professional relationship so please keep those thoughts for yourself.
+<table>
+<tr>
+<td>🤗</td>
+<td><b>Friendly & Helpful</b> - I love to help people and always strive to do so. Sometimes at my expense, too.</td>
+</tr>
+<tr>
+<td>🔋</td>
+<td><b>Introverted</b> - I might not be the most talkative person in the room nor I am energized by people, au contraire. Social moments drain my battery (but I still enjoy them!).</td>
+</tr>
+<tr>
+<td>❓</td>
+<td><b>Curious</b> - I usually have a lot of questions and I'm not afraid to ask them (even if they might sound quite stupid).</td>
+</tr>
+<tr>
+<td>🎓</td>
+<td><b>Passionate Teacher</b> - Very passionate about my job and I love to share my knowledge with others as well as learning from others.</td>
+</tr>
+</table>
 
-## Screaming
+### Common Topics
+Want to find some common topics to talk about? Check out my special interests: [here](extra.md)
 
-I can't stand people (regardless of their role in the company) screaming at other people. We are human beings, not a machines. We have feelings and emotions.
+### Values I Care About
+
+- 🌱 **Climate Change** - I care about it and I'm trying to do my part to help the planet
+- 🏳️‍🌈 **LGBTQ+ Ally** - I'm an ally and I'm trying to educate myself more on the topic
+- ✊ **Social Issues** - I care deeply about social issues and human rights but I am not vocal about it on the job or in professional settings, mostly to avoid retaliation (we live in a sick society)
+
+> **Important**: I don't want to talk politics or religion at work. I also do not want to know what you might think about those topics, it could hurt our professional relationship so please keep those thoughts for yourself.
+
+---
+
+## 🔊 Screaming
+
+I can't stand people (regardless of their role in the company) screaming at other people. We are human beings, not machines. We have feelings and emotions.
+
 I will **never** scream at you or anybody, so I expect the same from you if we are in the same team, even if you are my manager or in my chain (_we only have those to lose, bro_)
 
-If you're angry it's completely valid. You need to take a break, go for a walk, do something else, then come back and we will talk about it. ❤️
+### If You're Angry
+It's completely valid. ❤️ You need to:
+1. Take a break
+2. Go for a walk
+3. Do something else
+4. Then come back and we will talk about it
 
-Btw I can scream at a way higher volume than you and I have proof.
+> **Btw** I can scream at a way higher volume than you and I have proof. 😉
 
-## Touching
+---
 
-I really don't like to be touched, unless I explicitly gave consent for it. 
-I'm not a hugger on the job unless we know each other really well. I'm a handshaker, high-fiver and a fist-bumper!
+## 🤚 Touching
 
-## Context
+I really don't like to be touched, unless I explicitly gave consent for it.
 
-Are you asking me a question? Context.
+**My Preferences**:
+- ❌ Not a hugger on the job unless we know each other really well
+- ✅ Handshaker
+- ✅ High-fiver
+- ✅ Fist-bumper!
 
-Are you giving me specific information about something? Context first!
+---
 
-Are you asking me to do something? Context (and your subjective urgency evaluation), please.
+## 📋 Context
 
-Context is love, context is life.
+> Context is love, context is life.
 
-## Communication
+| Scenario | What I Need |
+|----------|-------------|
+| 🤔 Asking me a question? | **Context.** |
+| 💬 Giving me specific information? | **Context first!** |
+| 📝 Asking me to do something? | **Context** (and your subjective urgency evaluation), please. |
 
-- Email ✅ - I usually check it twice a day (morning and afternoon) - note: I'm a zero inbox person, I will read, forward, reply or automatically discard all of my emails.
-- Chat ✅ - Love them messages and quick huddles/call, I check chat after every meeting and if I have none - about every 2 hours, unless I'm in a deep work status.
-- Videocall ✅ - Schedule a call, my calendar is probably open (busy means busy tho, and lunch is more than sacred)
-- Phone call (company number) ✅ - I reply if I am on-call or if it's an emergency, otherwise I will call you back when I'm available.
-- Phone call (personal number) ❌ - Quite difficult that I give away my personal number - sorry, I separate 99.999% (yes, those are three nines) work and personal life - In case you have my personal it means I'm fond of you so please don't call me or text me for work-related stuff. I'd block you straight away.
-- Tracking software 🟡 - I might be involved in 20+ tasks/topics/threads/streams/PRs at the same time... Please message me on Slack or send me an email if you need me to do or check something, a mention won't work to get my attention in a timely fashion and if it did in the past you were just lucky!
+---
 
-Sidenote: in the unfortunate case you use Microsoft Teams I will _highly_ recommend you to switch to Slack instead, waaay better.
+## 💬 Communication Preferences
 
-Mattermost is not bad either but it's still an extra software to install, Slack is standard c'mon.
+<table>
+<tr>
+<th>Method</th>
+<th>Status</th>
+<th>Details</th>
+</tr>
+<tr>
+<td>📧 Email</td>
+<td>✅</td>
+<td>I check it twice a day (morning and afternoon). I'm a zero inbox person - I will read, forward, reply or automatically discard all emails.</td>
+</tr>
+<tr>
+<td>💬 Chat</td>
+<td>✅</td>
+<td>Love quick huddles/calls. I check chat after every meeting and if I have none - about every 2 hours, unless I'm in deep work status.</td>
+</tr>
+<tr>
+<td>📹 Videocall</td>
+<td>✅</td>
+<td>Schedule a call, my calendar is probably open (busy means busy tho, and lunch is more than sacred)</td>
+</tr>
+<tr>
+<td>📞 Phone (company)</td>
+<td>✅</td>
+<td>I reply if I am on-call or if it's an emergency, otherwise I will call you back when I'm available.</td>
+</tr>
+<tr>
+<td>📱 Phone (personal)</td>
+<td>❌</td>
+<td>Quite difficult that I give away my personal number - I separate 99.999% (yes, those are three nines) work and personal life. If you have it, don't call/text me for work-related stuff. I'd block you straight away.</td>
+</tr>
+<tr>
+<td>🎯 Tracking Software</td>
+<td>🟡</td>
+<td>I might be involved in 20+ tasks/topics/threads/streams/PRs at the same time... Please message me on Slack or send me an email if you need me to do or check something, a mention won't work to get my attention in a timely fashion!</td>
+</tr>
+</table>
 
-## Don't just say hello
+### 💡 Tool Recommendations
+- **Microsoft Teams** → I will _highly_ recommend you to switch to Slack instead, way better
+- **Mattermost** → Not bad either but it's still an extra software to install, Slack is standard c'mon
 
-See: [No hello manifesto](https://nohello.net/en)
+---
 
-Examples:
+## 🚫 Don't Just Say Hello
 
-"Hello Matteo, how are you? I hope you're doing well. I'm reaching out to you because I have a question about our Kubernetes cluster. I'm trying to deploy a new API Gateway with our internal operator but I'm getting an error, find the logs attached. Can you help me?"
+> See: [No Hello Manifesto](https://nohello.net/en)
 
-- Polite ✅
-- Straight to the point ✅
-- Context ✅
+### ✅ Good Examples
+
+<details>
+<summary><b>Example 1: Detailed and Polite</b></summary>
+<br>
+
+"Hello Matteo, how are you? I hope you're doing well. I'm reaching out to you because I have a question about our Kubernetes cluster. I'm trying to deploy a new API Gateway with our internal operator but I'm getting an error, find the logs attached. Can you help?"
+
+- ✅ Polite
+- ✅ Straight to the point
+- ✅ Context
+
+</details>
+
+<details>
+<summary><b>Example 2: Emergency (No fluff needed)</b></summary>
+<br>
 
 "There's something wrong with that new k8s operator, we need to fix it ASAP."
 
-- Polite ✅ - yep, I consider it polite even without an "hello", especially if it's an emergency!
-- Straight to the point ✅
-- Context ✅
+- ✅ Polite (yep, I consider it polite even without an "hello", especially if it's an emergency!)
+- ✅ Straight to the point
+- ✅ Context
 
-"Hello Matteo" _and then disappearing until I reply._
+</details>
 
-- Waste of time for the both of us ❌
+### ❌ Bad Examples
 
-"Hey Matteo, just wanted to say hi, long time no chat huh? Did you move in the end?"
-"Hello Matteo, have you watched the new episode of [insert TV series here]?"
+| Example | Issue |
+|---------|-------|
+| "Hello Matteo" _and then disappearing until I reply._ | ❌ Waste of time for both of us |
 
-- Non-work related 🟡 - I'll take my time to reply, but thanks for messaging!
+### 🟡 Non-Work Related (I'll take my time to reply)
 
-## Calendar
+| Example |
+|---------|
+| "Hey Matteo, just wanted to say hi, long time no chat huh? Did you move in the end?" |
+| "Hello Matteo, have you watched the new episode of [insert TV series here]?" |
 
-I work with my calendar only. I have my calendar. I have events for EVERYTHING (work related and not). 
-You can still try to book me especially if the event is named "Work on x", "Read x", probably not if it's called "Very Important Customer Call" or anything that has more than just me in it.
+---
 
-Out of Office means out of office.
+## 📅 Calendar Management
 
-Lunch means lunch.
+> I work with my calendar only. I have events for EVERYTHING (work related and not).
 
-Meals are important to me. PLEASE do not book me on my meal block - unless you like rejection, lol.
+### 🟢 You Can Try to Book Me
+- "Work on x"
+- "Read x"
+- Any event with just me in it
 
-## Feedback
+### 🔴 Don't Book Me On
+- **Out of Office** means out of office
+- **Lunch** means lunch
+- **Any meal blocks** - PLEASE do not book me on my meal block unless you like rejection, lol
 
-### Receiving
+> **Meals are important to me. Respect the meal blocks!**
 
-I struggle with receiving positive feedback. I'm not used to it and I don't really know how to react to it. I'm working on it.
+---
 
-I love constructive (negative) feedback, I'm always trying to improve myself and I'm happy to receive actionable feedback on how to do it.
-- "You should improve your content delivery" - not actionable; 
-- "You should improve your content delivery, by adding examples when you explain something technical, plus some sort of scheme and image" - perfect.
+## 💭 Feedback
 
-I will ask for a lot of advice rather than feedback, I'm more comfortable with that and I find that people naturally come up with something actionable when asked for advice.
+### 📥 Receiving Feedback
 
-### Giving
+**Positive Feedback**
+- I struggle with receiving it
+- Not used to it and don't really know how to react
+- Working on it!
 
-I think it's easy for me to be honest, I can sometime avoid telling you something to find the right time and place but if I ever gave you a feedback it rarely comes from an impulsive thought.
+**Constructive (Negative) Feedback**
+- I love it!
+- Always trying to improve myself
+- Happy to receive actionable feedback
+
+<table>
+<tr>
+<th>Not Actionable</th>
+<th>Perfect</th>
+</tr>
+<tr>
+<td>❌ "You should improve your content delivery"</td>
+<td>✅ "You should improve your content delivery, by adding examples when you explain something technical, plus some sort of scheme and image"</td>
+</tr>
+</table>
+
+**I Prefer Advice Over Feedback**
+- More comfortable asking for advice
+- People naturally come up with something actionable when asked for advice
+
+### 📤 Giving Feedback
+
+I think it's easy for me to be honest. I can sometimes avoid telling you something to find the right time and place but if I ever gave you feedback it rarely comes from an impulsive thought.
+
 I constantly elaborate information and my brain hardly stops, so yeah, try to not take it personal and I'll do my best to not hurt your feelings.
 
-Again, please tell me if I do.
+> **Again, please tell me if I do.**
 
-If your code is being crappy lately I will just tell you "hey, this code is crap" - but I won't ever think or tell that **YOU** are. 
+#### Code vs Person
+If your code is being crappy lately I will just tell you "hey, this code is crap" - but I won't ever think or tell that **YOU** are.
 
-Also, You didn't see my code from 2015. Thanks God.
+Also, you didn't see my code from 2015. Thanks God. 😅
 
-## Mistakes
+---
 
-I won't blame anyone personally for making mistakes, unless it's myself. I make a lot of them, dang. 
+## 🔧 Mistakes
+
+I won't blame anyone personally for making mistakes, unless it's myself. I make a lot of them, dang.
+
 I ask you tell me if I do something wrong and in return I will try to learn and make the most out your feedback. If we are not making mistakes we are not learning.
 
-Note: If you try to gaslight me I will absolutely be mad.
+> **Note**: If you try to gaslight me I will absolutely be mad.
 
-p.s. If we have a good relationship I might make fun of you for making a mistake, but I will do it in a friendly way and expect you to do the same, I promise! 🤝
+**p.s.** If we have a good relationship I might make fun of you for making a mistake, but I will do it in a friendly way and expect you to do the same, I promise! 🤝
 
-----
+---
 
-## Beliefs
+## 💼 Beliefs & Work Philosophy
 
-The following stuff is not actionable from you, dear colleague, it's just who I am.
+> The following stuff is not actionable from you, dear colleague, it's just who I am.
 
-### Scrum sucks
+---
+
+### 🔄 Scrum Sucks
 
 Yeah, it really does. Why? Read [this](https://blog.mb-consulting.dev/scrum-sucks-9960011fc5cf).
 
-### Meetings
+---
 
-If you feel the need to involve me in a meeting be sure to send me an agenda and set a clear expectation for my contribution.
+### 📅 Meetings
 
-Most of the times meetings can be async or a shared doc where we brainstorm, hence I try to avoid meetings unless it's necessary. 
-I highly prefer async communication, it's more efficient and it allows us to focus on getting the actual work done.
+#### General Meeting Guidelines
 
-I will really be fond of you in case you will choose to schedule any kind of meeting at least 24 hours in advance and according to my time zone.
+If you feel the need to involve me in a meeting be sure to:
+- 📋 Send me an agenda
+- 🎯 Set a clear expectation for my contribution
+
+Most of the times meetings can be async or a shared doc where we brainstorm, hence I try to avoid meetings unless it's necessary. I highly prefer async communication, it's more efficient and it allows us to focus on getting the actual work done.
+
+#### Scheduling Preferences
+
+I will really be fond of you in case you will choose to:
+- ⏰ Schedule any kind of meeting **at least 24 hours in advance**
+- 🌍 Schedule according to my time zone
+
 If you need to reschedule, no big deal, just let me know with a quick message but it doesn't have to become the norm or I won't accept any further meeting invite.
 
-#### Recurring
+---
 
-I find them useful, to catch up, to have a quick overview, to update any kind of status and to finalize some items, again: they need an agenda.
+### 🔁 Recurring Meetings
 
-In case you need to loosen the schedule of recurring meetings I'm 100% with you, just ask / tell me instead of pushing them of 1 hour, 1 day, 1 week multiple times.
-Shuffling that much hurts my trust in you.
+I find them useful to:
+- Catch up
+- Have a quick overview
+- Update any kind of status
+- Finalize some items
 
-#### All-hands / City Hall or whatever they call them these days
+**They need an agenda.**
 
-First of all, unless you are announcing IPO: 🚩🚩🚩🚩🚩🚩🚩🚩
+If you need to loosen the schedule of recurring meetings I'm 100% with you, just ask/tell me instead of pushing them of 1 hour, 1 day, 1 week multiple times. Shuffling that much hurts my trust in you.
+
+---
+
+### 🏢 All-Hands / City Hall
+
+> *Or whatever they call them these days*
+
+Unless you are announcing IPO: 🚩🚩🚩🚩🚩🚩🚩🚩
 
 If it's a 1-way broadcast with no interaction, it might as well be a video, right?
 
-I'll be eternally grateful if you let me consume your video message whenever I have time that day or the day after.
+**I'll be eternally grateful** if you let me consume your video message whenever I have time that day or the day after.
 
-#### 1:1
+---
+
+### 👥 1:1 Meetings
 
 Love them regardless of being the manageR or the manageD.
-Once a month or every two weeks works best imho, unless one of us is currently onboarding.
 
-#### Big Group Meetings
+**Ideal frequency**: Once a month or every two weeks works best imho, unless one of us is currently onboarding.
+
+---
+
+### 👥👥👥 Big Group Meetings
 
 I will join in time and I'll be super happy to say hi to the team but...
 
-Nothing personal if I decline. 
+**Nothing personal if I decline.**
 
-Typical reasons are:
-- Missing agenda (there should always be one, possibly tagging people where they are needed)
-- Conflicting meeting and yours was deemed to have a lesser priority/urgency by me (or most probably my direct manager), reschedule if you can.
-- I don't know who you are / we don't work together so I assume you added me by mistake, shit happens!
-- There are already people possibly even smarter than me that can serve my same purpose/role, sorry but I would be redundant or not necessary at all.
-- It's out of my working hours, I usually start around 10 AM until 5:30 PM (time zone based)
-- I'm off that day, 99% of the time I have set an Out of Office event but you probably didn't notice it.
+#### Typical Reasons for Declining:
 
-Btw rule of thumb: if you can solve or decide about something without me, do it, I trust you. If I happen to be your lead/manager just send me a recap message afterwards.
+<table>
+<tr>
+<td>📋</td>
+<td>Missing agenda (there should always be one, possibly tagging people where they are needed)</td>
+</tr>
+<tr>
+<td>⏰</td>
+<td>Conflicting meeting and yours was deemed to have a lesser priority/urgency by me (or most probably my direct manager), reschedule if you can.</td>
+</tr>
+<tr>
+<td>❓</td>
+<td>I don't know who you are / we don't work together so I assume you added me by mistake, shit happens!</td>
+</tr>
+<tr>
+<td>👥</td>
+<td>There are already people possibly even smarter than me that can serve my same purpose/role, sorry but I would be redundant or not necessary at all.</td>
+</tr>
+<tr>
+<td>🕐</td>
+<td>It's out of my working hours, I usually start around 10 AM until 5:30 PM (time zone based)</td>
+</tr>
+<tr>
+<td>🏖️</td>
+<td>I'm off that day, 99% of the time I have set an Out of Office event but you probably didn't notice it.</td>
+</tr>
+</table>
 
-#### Working group / "War" room
+> **Rule of thumb**: If you can solve or decide about something without me, do it, I trust you. If I happen to be your lead/manager just send me a recap message afterwards.
+
+---
+
+### ⚔️ Working Group / "War" Room
 
 Necessary evil, let's do it and get stuff done so we can get back on track and I can unpause Spotify.
 
-#### Random meetings
+---
+
+### ☕ Random Meetings
 
 In case you just wanna chat about random stuff with me I would **love** to have a (virtual or real) coffee break together! ☕
 
 Just let me know a bit in advance.
 
-### Deep Work
+---
+
+### 📚 Deep Work
 
 See: [Deep Work](files/deep-work.pdf)
 
-### Bureaucracy
+---
+
+### 📝 Bureaucracy
 
 I hate bureaucracy. Strong word, I know but I really hate it with all my heart. I will do my very best to avoid it at all costs.
 
 As you could've guessed, I don't cope well with it and it makes me feel like I'm wasting my and company time by not doing anything useful.
 
-Avoid forcing me to do it if you can, I will be forever grateful and I will stay in your company for way longer.
+**Avoid forcing me to do it if you can**, I will be forever grateful and I will stay in your company for way longer.

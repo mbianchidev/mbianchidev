@@ -1,13 +1,14 @@
-# Blog
+# ✍️ Blog
 
-# Medium
+---
 
-Tech blog - more generalist and high level
+## 📰 Publishing Platforms
 
-# Hashnode 
+### Medium
+**Tech blog** - More generalist and high level content
 
-Small tech bits like demos and tutorials
+### Hashnode
+**Small tech bits** - Demos and tutorials
 
-# Dev.to
-
-Deep tech articles
+### Dev.to
+**Deep tech articles** - In-depth technical content

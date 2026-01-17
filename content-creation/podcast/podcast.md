@@ -1,3 +1,7 @@
-# Refactoring Friday podcast
+# 🎙️ Refactoring Friday Podcast
 
-Coming soon...
+---
+
+## 🚧 Coming Soon...
+
+Stay tuned for updates!

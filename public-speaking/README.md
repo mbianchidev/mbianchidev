@@ -1,10 +1,24 @@
-# Bio & talks
+# 🎤 Public Speaking
 
-For a complete list of my avaiilable talks and my updated bio please visit [my sessionize profile](https://sessionize.com/mbianchidev)
+---
 
-# Experience
+## 📋 Bio & Available Talks
 
-## Speaking gigs
+For a complete list of my available talks and my updated bio please visit:
+
+👉 **[My Sessionize Profile](https://sessionize.com/mbianchidev)**
+
+---
+
+## 🎭 Experience
+
+### 🎯 Speaking Gigs
+
+> Want me to speak at your event? **Invite me at matteo@mb-consulting.dev**
+
+<details>
+<summary><b>📅 View All Speaking Engagements</b></summary>
+<br>
 
 | # | Date | Title | Event | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
@@ -32,7 +46,17 @@ For a complete list of my avaiilable talks and my updated bio please visit [my s
 | 2 | 18th Mar 2024 | I explained Kubernetes to my grandma - [[video](https://youtu.be/8c6xYXY12ro?si=ceNgAo5OAWiOWqff&t=545)] ([slides](https://docs.google.com/presentation/d/1aQiVSsl8tSV583ah6w-yWBn1qsWciDSyMoXyrYQSxKM/edit#slide=id.p1)) | [Cloud Native Rejekts EU 2024](https://cloud-native.rejekts.io/) | Paris | France | 200 people, 500 views during the live stream |
 | 1 | 7th Feb 2024 | Oops I deployed too hard - ([slides](https://docs.google.com/presentation/d/15OkDT31ll8dBakYg15Sj_1HNR7qI57tNSdb_IbTak40/edit?usp=sharing)) | [DevOops Meetup Amsterdam](https://www.meetup.com/amsterdam-devooops-meetup-group/events/298416527/) | Amsterdam | Netherlands | 100 people |
 
-## Organizer / Program committee
+</details>
+
+---
+
+### 🎪 Organizer & Program Committee
+
+> Want me to help organize your event? **Invite me at matteo@mb-consulting.dev**
+
+<details>
+<summary><b>📅 View All Organizing Experience</b></summary>
+<br>
 
 | # | Date | Event | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
@@ -57,7 +81,17 @@ For a complete list of my avaiilable talks and my updated bio please visit [my s
 | 2 | 18th Mar 2024 | KubeTrain Amsterdam + KubeTrain party | KubeTrain (CNCF) | Amsterdam-Paris | Netherlands, Belgium, France | Founding Organizer |
 | 1 | 1st Dec 2023 | KCD Utrecht 2023 | Kubernetes Community Days (CNCF) | Utrecht | Netherlands | Organizer, Program Committee, Host and MC for the 2nd room track |
 
-## Media (Videos, podcasts, interviews)
+</details>
+
+---
+
+### 🎙️ Media (Videos, Podcasts, Interviews)
+
+> Want me on your podcast? **Invite me at matteo@mb-consulting.dev**
+
+<details>
+<summary><b>📅 View All Media Appearances</b></summary>
+<br>
 
 | # | Date | Video | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
@@ -82,3 +116,4 @@ For a complete list of my avaiilable talks and my updated bio please visit [my s
 | x | Not published (but recorded) | De Nederlandse Kubernetes Podcast | Dutch Kubernetes Community | Amsterdam | Netherlands | An episode of the De Nederlandse Kubernetes Podcast by Ronald Kers and Jan Stomphorst, in which I have been interviewed as part of the release team for v1.32 as Comms Lead, the episode focuses on release team stories and features going out on Kubernetes for the 1.32 release |
 | x | Not published (but recorded) | Why Platform Engineering is the future? | [DevOps For Everyone](https://www.youtube.com/@joebignell5707) | Remote | United Kingdom | An episode of the DevOps for Everyone podcast about "Why Platform Engineering is the Future" |
 
+</details>

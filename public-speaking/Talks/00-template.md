@@ -1,7 +1,20 @@
-# Conference/Meetup name
+# 🎤 [Event Name]
 
-- Where: Location, City (Country)
-- Event link: [website](https://example.com)
-- Photos: 
-- Video: 
-- Slides: [Google Slides Deck](TBD)
+---
+
+## 📍 Event Details
+
+| | |
+|---|---|
+| **Location** | Location, City (Country) |
+| **Event** | [website](https://example.com) |
+
+---
+
+## 📚 Resources
+
+| Resource | Link |
+|----------|------|
+| 📸 **Photos** | TBD |
+| 🎥 **Video** | TBD |
+| 📊 **Slides** | [Google Slides Deck](TBD) |
