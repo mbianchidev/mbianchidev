@@ -24,6 +24,9 @@ Currently living in Northern Europe and working at **GitHub** (you are looking a
 
 ## Things I am currently working on, aside from my main job
 
+<details>
+<summary><b>Click to expand</b></summary>
+
 | Type | Project | Description | Effort      |
 |------|---------|-------------|-------------|
 | ☕ | **Music** | Playing and recording music with my band. | High. <br> Best way to spend many hours of my free time. |
@@ -49,6 +52,8 @@ Currently living in Northern Europe and working at **GitHub** (you are looking a
 | 📖 | Open Source |
 | 💸 | Monetized |
 | 🔮 | Monetized (in the future?) |
+
+</details>
 
 ---
 
