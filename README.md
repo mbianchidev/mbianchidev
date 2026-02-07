@@ -46,7 +46,7 @@ Currently living in Northern Europe and working at **GitHub** (you are looking a
 | 📖 🔮 | **[Find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** | I want to build a concert discovery service that doesn't suck, unlike Songkick or Bandsintown (somewhat). | Almost zero. <br> Gotta find time to work on this. |
 | 📖 ☕ | **[Open Playlist](https://github.com/mbianchidev/open-playlist)** | A music playlist management tool. | Low. <br> A hobby project, but music-related. |
 | 📖 ☕ | **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** | An Eisenhower matrix todo app for your productivity. | Low. <br> A hobby project for productivity management. |
-| 📖 ☕ | **[Every Music](https://github.com/mbianchidev/every-music)** | A music-related project. | Low. <br> A hobby project for music enthusiasts. |
+| 📖 ☕ | **[Every Music](https://github.com/mbianchidev/every-music)** | A music discovery and management project. | Low. <br> A hobby project for music enthusiasts. |
 
 ### Legend
 
