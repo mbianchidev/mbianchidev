@@ -22,10 +22,12 @@ Currently living in Northern Europe and working at **GitHub** (you are looking a
 
 ---
 
-## Things I am currently working on, aside from my main job
+## Aside from my main job
 
 <details>
 <summary><b>Click to expand</b></summary>
+
+### I am mainly working on...
 
 | Type | Project | Description | Effort      |
 |------|---------|-------------|-------------|
@@ -34,16 +36,39 @@ Currently living in Northern Europe and working at **GitHub** (you are looking a
 | 📖 | **[Kubernetes](https://github.com/kubernetes/kubernetes)** | It's running this and other website/apps you look at every single day. | Medium. <br> A couple hours per week, doing maintainance and improving processes. |
 | 💸 | **[Mentoring engineers](https://mentorcruise.com/mentor/matteobianchi/)** | Reach out on MentorCruise, or my LinkedIn if you want to be mentored by me, easy. | Low. <br> I only take a few mentees at a time. |
 | 📖 🔮 | **[Fire Tools](https://github.com/mbianchidev/fire-tools)** | Your personal finance copilot, without AI. | Low. <br> A hobby project that will substitute the current Google Sheet setup for my personal finance. |
+
+### When I'm not playing music...
+
+| Type | Project | Description | Effort      |
+|------|---------|-------------|-------------|
 | 📖 ☕ | **[Track2Stem](https://github.com/mbianchidev/track2stem)** | A way to separate tracks into multiple stems, with AI. | Low. <br> Another hobby project, but music-related. |
+| 📖 🔮 | **[Find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** | I want to build a concert discovery service that doesn't suck, unlike Songkick or Bandsintown (somewhat). | Almost zero. <br> Gotta find time to work on this. |
+| 📖 🔮 | **[Every Music](https://github.com/mbianchidev/every-music)** | A music-based social media. | Low. <br> A business idea, somewhat overlapping with find-concerts. |
 | 📖 ☕ | **[AnyTrack Converter](https://github.com/mbianchidev/anytrack-converter)** | Convert any audio file or YouTube video to any format you want, with metadata editing. | Low. <br> Another hobby project, but music-related. |
-| 📖 | **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** | A free, open source LaTeX editor with real-time preview. Think Overleaf, but free and self-hostable. | Low. <br> A hobby project born out of frustration with Overleaf limits. |
-| ☕ 🔮 | **[ATS Review](https://github.com/mbianchidev/ats-review)** | Something is cooking here... stay tuned! 🔮 | WIP |
-| 📖 ☕ | **[2DnD](https://github.com/mbianchidev/2dnd)** | A 2D game, work in progress. | WIP |
+| 📖 | **[Open Playlist](https://github.com/mbianchidev/open-playlist)** | An Open Standard for music playlists | Low. <br> The way music should move forward, no vendor lock-in. |
+
+### Since I want to move away from SaaS as much as possible...
+
+| Type | Project | Description | Effort      |
+|------|---------|-------------|-------------|
+| 📖 | **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** | An Eisenhower matrix todo app for your productivity. | Low. <br> A hobby project for productivity management. |
 | 📖 | **[PDFTools](https://github.com/mbianchidev/pdf-tools)** | A simple PDF manipulation tool, to avoid uploading your files on 3rd party websites. | Low. <br> This is pretty much finished, I might add more features as I need them. |
+
+### To help with my mentoring efforts...
+
+| Type | Project | Description | Effort      |
+|------|---------|-------------|-------------|
 | 📖 🔮 | **[Engineering Interviews](https://github.com/mbianchidev/engineering-interviews)** | A simple platform to practice for engineering interviews, focused on System Design, Engineering and conversational interview. | Low. <br> I sometimes add questions here, especially when I spar-interview. |
 | 📖 | **[Platform Engineering Roadmap](https://github.com/mbianchidev/platform-engineering-roadmap)** | An opinionated way to get to be a Platform Engineer, in the form of a roadmap.sh style website. | Low. <br> I will probably donate it to a Platform Engineering community at some point. |
+| 📖 | **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** | A free, open source LaTeX editor with real-time preview. Think Overleaf, but free and self-hostable. | Low. <br> A hobby project born out of frustration with Overleaf limits. |
+| ☕ 🔮 | **[ATS Review](https://github.com/mbianchidev/ats-review)** | Something is cooking here... stay tuned! 🔮 | WIP |
+
+### When I really don't have shit to do...
+
+| Type | Project | Description | Effort      |
+|------|---------|-------------|-------------|
 | ☕ | **[My new satiric website](https://github.com/mbianchidev/mock-startup-website)** | I pretended to have a startup with a cool product (me) and I am absolutely mocking YC founders with this, yes. | Almost zero. <br> One day I'll actually buy a new domain and publish it. |
-| 📖 🔮 | **[Find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** | I want to build a concert discovery service that doesn't suck, unlike Songkick or Bandsintown (somewhat). | Almost zero. <br> Gotta find time to work on this. |
+| 📖 ☕ | **[2DnD](https://github.com/mbianchidev/2dnd)** | A game based on D&D but 2D, duh. | WIP |
 
 ### Legend
 
