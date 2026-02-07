@@ -44,9 +44,9 @@ Currently living in Northern Europe and working at **GitHub** (you are looking a
 | 📖 | **[Platform Engineering Roadmap](https://github.com/mbianchidev/platform-engineering-roadmap)** | An opinionated way to get to be a Platform Engineer, in the form of a roadmap.sh style website. | Low. <br> I will probably donate it to a Platform Engineering community at some point. |
 | ☕ | **[My new satiric website](https://github.com/mbianchidev/mock-startup-website)** | I pretended to have a startup with a cool product (me) and I am absolutely mocking YC founders with this, yes. | Almost zero. <br> One day I'll actually buy a new domain and publish it. |
 | 📖 🔮 | **[Find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** | I want to build a concert discovery service that doesn't suck, unlike Songkick or Bandsintown (somewhat). | Almost zero. <br> Gotta find time to work on this. |
-| 📖 ☕ | **[Open Playlist](https://github.com/mbianchidev/open-playlist)** | A music playlist management tool. | Low. <br> Another hobby project, but music-related. |
+| 📖 ☕ | **[Open Playlist](https://github.com/mbianchidev/open-playlist)** | A music playlist management tool. | Low. <br> A hobby project, but music-related. |
 | 📖 ☕ | **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** | An Eisenhower matrix todo app for your productivity. | Low. <br> A hobby project for productivity management. |
-| 📖 ☕ | **[Every Music](https://github.com/mbianchidev/every-music)** | A music-related project. | Low. <br> Another hobby project, but music-related. |
+| 📖 ☕ | **[Every Music](https://github.com/mbianchidev/every-music)** | A music-related project. | Low. <br> A hobby project for music enthusiasts. |
 
 ### Legend
 
