@@ -13,8 +13,6 @@ Hi there!
 
 I'm happy that you're interested in having me speak at your tech event. I truly love open source, technology and the related communities so I'm always excited to have another opportunity to share a time and space to exchange ideas with others.
 
-**I also love food from different cuisines so it's a win win!** 🍜
-
 However, I must say I have some requirements and standards for accepting a speaking slot, submitting to a CFP, or engaging in any promotion of your event (yes, including reshares on BlueSky or LinkedIn).
 
 ---
