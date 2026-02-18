@@ -2,7 +2,7 @@
 
 ---
 
-**Last Updated**: 29 May 2025  
+**Last Updated**: 18 Feb 2026
 **Inspired by**: [Kat Cosgrove's speaker rider](https://github.com/katcosgrove/katcosgrove/blob/main/speaking.md)
 
 ---
