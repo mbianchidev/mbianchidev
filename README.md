@@ -105,7 +105,7 @@ I also work on a number of different software projects, some for fun, some to fr
 
 > ⚠️ _If you need to report any OSS security vulnerability use the project security.md file and follow the instructions, thanks!_
 
-  <summary><b>🗓️ Wanna book a meeting instead?</b></summary>
+  <b>🗓️ Wanna book a meeting instead?</b>
   <br>
   Here's a secret <a href="https://mb-consulting.dev/secret">link</a>! 🤫
 </details>
