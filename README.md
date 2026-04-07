@@ -24,43 +24,66 @@ Currently living in Northern Europe and working at **GitHub** (you are looking a
 
 ---
 
+<div align="center">
+
 ## Aside from my main job
 
-- Consultancy on Kubernetes (not really for startups, you don't need that) but also helping company with hiring, product market fit & go to market (mainly for startups), Open Source strategy
+</div>
+
+- Freelance services offered:
+  - on Kubernetes (not really for startups, you don't need that) 
+  - Platform Engineering (again, not really for startups)
+  - Helping you hire the right engineers
+  - product market fit & go to market (mainly for startups)
+  - Open Source strategy
 - Open source on Kubernetes upstream, in the Release Engineering team - find me as mbianchidev on the k8s Slack
-- Mentoring engineers via Mentorcruise, a very selected few mentees at for a period of time (2, maximum 3), no leeching, no bullshit - free if you got laid off
+  - I just like maintainance and doing the work, no (low) politics
+- Mentoring engineers [via Mentorcruise](https://mentorcruise.com/mentor/matteobianchi/) and other channels
+  - a very selected few mentees at for a period of time (2, maximum 3)
+  - no 100% beginners
+  - no leeching (if you are ready there's no point in me to keep mentoring you)
+  - no bullshit 
+  - a month for free if you recently got laid off
 
 I also work on a number of different software projects, some for fun, some to free myself from paying lots of SaaS, some for future profit, mostly open source:
 
+<div align="center">
+
 ### Closed source (for now?)
+
+</div>
 
 - 🔮 **ats-review** - A tool to track your applications that optimizes resumes for Applicant Tracking Systems
 - 🦾 **se-claw** - Open Claw (sorta) for Solutions Engineers, for day-to-day pre/post-Sales work, but without all the CVEs open-claw has.
 - 📦 **sendbox** - An all-in-one sandbox for Copilot CLI and agents, written in Swift, integrated with devcontainers and based on Apple Virtualization (kata-containers ftw)
 - 🎸 **devoidofbeauty.com** - My (latest) band's website, we will publish our debut EP sometime in 2026
 
+<div align="center">
+
 ### Current Projects (open source)
 
+</div>
+
 - 💰 **[Fire Tools](https://github.com/mbianchidev/fire-tools)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
-
 - 🗃️ **[SQL Not So Lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
-
 - 🎵 **[Track2Stem](https://github.com/mbianchidev/track2stem)** - Separate any track into multiple stems, with AI (the cool kind tho, it's Hybrid Spectrogram and Waveform Source Separation)
 - 🎤 **[Find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** - A concert discovery service that doesn't suck like Songkick and others
 - 🎶 **[Every Music](https://github.com/mbianchidev/every-music)** - A music-based social media experiment
 - 🔊 **[AnyTrack Converter](https://github.com/mbianchidev/anytrack-converter)** - Convert any audio file or YouTube video to any format, with metadata editing
 - 📋 **[Open Playlist](https://github.com/mbianchidev/open-playlist)** - The foundation for an open standard for music playlists, no vendor lock-in
-
 - 📝 **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** - A free, open source LaTeX editor with real-time preview
 - ✅ **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** - An Eisenhower matrix todo app for productivity, stop guessing wtf to do with your time
 - 📄 **[PDFTools](https://github.com/mbianchidev/pdf-tools)** - A simple set of PDF manipulation tools, no third-party uploads needed
 - 🧑‍💻 **[Engineering Interviews](https://github.com/mbianchidev/engineering-interviews)** - Practice platform for System Design and Engineering interviews
 - 🗺️ **[Platform Engineering Roadmap](https://github.com/mbianchidev/platform-engineering-roadmap)** - An opinionated roadmap to becoming a Platform Engineer
-
 - 🎮 **[2DnD](https://github.com/mbianchidev/2dnd)** - A 2D game based on D&D, duh
 - 😂 **[Mock Startup Website](https://github.com/mbianchidev/mock-startup-website)** - A satiric website mocking the average YC startup
 
+<div align="center">
+
 ### Legacy work (archived)
+
+</div>
 
 - ☸️ **[KLab CLI](https://github.com/mbianchidev/klab-cli)** - A CLI to manage Kubernetes clusters consistently across clouds and tenants
 - 💵 **[Financial Cool](https://github.com/mbianchidev/financial-cool)** - A curated list of financial resources, projects and products
