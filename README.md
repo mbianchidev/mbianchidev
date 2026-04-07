@@ -20,60 +20,68 @@ Currently living in Northern Europe and working at **GitHub** (you are looking a
 [![Fun Facts](https://img.shields.io/badge/🎉-Fun%20Facts-purple?style=for-the-badge)](extra.md)
 [![All Links](https://img.shields.io/badge/🔗-Everything%20Else-red?style=for-the-badge)](https://mb-consulting.dev/all-links)
 
+</div>
+
 ---
 
 ## Aside from my main job
 
-<details>
-<summary><b>Click to expand</b></summary>
+- Consultancy on Kubernetes (not really for startups, you don't need that) but also helping company with hiring, product market fit & go to market (mainly for startups), Open Source strategy
+- Open source on Kubernetes upstream, in the Release Engineering team - find me as mbianchidev on the k8s Slack
+- Mentoring engineers via Mentorcruise, a very selected few mentees at for a period of time (2, maximum 3), no leeching, no bullshit - free if you got laid off
 
-### Closed source
+I also work on a number of different software projects, some for fun, some to free myself from paying lots of SaaS, some for future profit, mostly open source:
 
-🔮 **ats-review** - A tool to review and optimize resumes for Applicant Tracking Systems
-🦾 **se-claw** - An all-inclusive assistant for Solutions Engineers, for day-to-day pre-Sales work
-📦 **sendbox** - An all-in-one sandbox for Copilot CLI and agents, powered by devcontainers
-🎸 **devoidofbeauty.com** - A personal creative website, as devoid of beauty as metal can get
+### Closed source (for now?)
+
+- 🔮 **ats-review** - A tool to track your applications that optimizes resumes for Applicant Tracking Systems
+- 🦾 **se-claw** - Open Claw (sorta) for Solutions Engineers, for day-to-day pre/post-Sales work, but without all the CVEs open-claw has.
+- 📦 **sendbox** - An all-in-one sandbox for Copilot CLI and agents, written in Swift, integrated with devcontainers and based on Apple Virtualization (kata-containers ftw)
+- 🎸 **devoidofbeauty.com** - My (latest) band's website, we will publish our debut EP sometime in 2026
 
 ### Current Projects (open source)
 
-💰 **[Fire Tools](https://github.com/mbianchidev/fire-tools)** - Your personal finance copilot, without AI
-🎵 **[Track2Stem](https://github.com/mbianchidev/track2stem)** - Separate any track into multiple stems, with AI
-🎤 **[Find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** - A concert discovery service that doesn't suck
-🎶 **[Every Music](https://github.com/mbianchidev/every-music)** - A music-based social media
-🔊 **[AnyTrack Converter](https://github.com/mbianchidev/anytrack-converter)** - Convert any audio file or YouTube video to any format, with metadata editing
-📋 **[Open Playlist](https://github.com/mbianchidev/open-playlist)** - An open standard for music playlists, no vendor lock-in
-✅ **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** - An Eisenhower matrix todo app for productivity
-📄 **[PDFTools](https://github.com/mbianchidev/pdf-tools)** - A simple PDF manipulation tool, no third-party uploads needed
-🧑‍💻 **[Engineering Interviews](https://github.com/mbianchidev/engineering-interviews)** - Practice platform for System Design and engineering interviews
-🗺️ **[Platform Engineering Roadmap](https://github.com/mbianchidev/platform-engineering-roadmap)** - An opinionated roadmap to becoming a Platform Engineer
-📝 **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** - A free, open source LaTeX editor with real-time preview
-🎮 **[2DnD](https://github.com/mbianchidev/2dnd)** - A 2D game based on D&D, duh
-😂 **[Mock Startup Website](https://github.com/mbianchidev/mock-startup-website)** - A satiric website mocking the average YC startup
-🗃️ **[SQL Not So Lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
+- 💰 **[Fire Tools](https://github.com/mbianchidev/fire-tools)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
+
+- 🗃️ **[SQL Not So Lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
+
+- 🎵 **[Track2Stem](https://github.com/mbianchidev/track2stem)** - Separate any track into multiple stems, with AI (the cool kind tho, it's Hybrid Spectrogram and Waveform Source Separation)
+- 🎤 **[Find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** - A concert discovery service that doesn't suck like Songkick and others
+- 🎶 **[Every Music](https://github.com/mbianchidev/every-music)** - A music-based social media experiment
+- 🔊 **[AnyTrack Converter](https://github.com/mbianchidev/anytrack-converter)** - Convert any audio file or YouTube video to any format, with metadata editing
+- 📋 **[Open Playlist](https://github.com/mbianchidev/open-playlist)** - The foundation for an open standard for music playlists, no vendor lock-in
+
+- 📝 **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** - A free, open source LaTeX editor with real-time preview
+- ✅ **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** - An Eisenhower matrix todo app for productivity, stop guessing wtf to do with your time
+- 📄 **[PDFTools](https://github.com/mbianchidev/pdf-tools)** - A simple set of PDF manipulation tools, no third-party uploads needed
+- 🧑‍💻 **[Engineering Interviews](https://github.com/mbianchidev/engineering-interviews)** - Practice platform for System Design and Engineering interviews
+- 🗺️ **[Platform Engineering Roadmap](https://github.com/mbianchidev/platform-engineering-roadmap)** - An opinionated roadmap to becoming a Platform Engineer
+
+- 🎮 **[2DnD](https://github.com/mbianchidev/2dnd)** - A 2D game based on D&D, duh
+- 😂 **[Mock Startup Website](https://github.com/mbianchidev/mock-startup-website)** - A satiric website mocking the average YC startup
 
 ### Legacy work (archived)
 
-☸️ **[KLab CLI](https://github.com/mbianchidev/klab-cli)** - A CLI to manage Kubernetes clusters consistently across clouds and tenants
-💵 **[Financial Cool](https://github.com/mbianchidev/financial-cool)** - A curated list of financial resources, projects and products
-🕹️ **[Blockster 2D](https://github.com/mbianchidev/blockster-2d)** - A 2D game developed during the Global Game Jam hackathon in Milan
-☁️ **[Cloud Native Days](https://github.com/mbianchidev/cloud-native-days)** - Cloud Native Days event resources
-📜 **[Platform Engineering Manifesto](https://github.com/mbianchidev/platform-engineering-manifesto)** - The Agile Manifesto, but for Platform Engineering
-
-</details>
+- ☸️ **[KLab CLI](https://github.com/mbianchidev/klab-cli)** - A CLI to manage Kubernetes clusters consistently across clouds and tenants
+- 💵 **[Financial Cool](https://github.com/mbianchidev/financial-cool)** - A curated list of financial resources, projects and products
+- 🕹️ **[Blockster 2D](https://github.com/mbianchidev/blockster-2d)** - A 2D game developed during the Global Game Jam hackathon in Milan
+- ☁️ **[Cloud Native Days](https://github.com/mbianchidev/cloud-native-days)** - Cloud Native Days event resources
+- 📜 **[Platform Engineering Manifesto](https://github.com/mbianchidev/platform-engineering-manifesto)** - The Agile Manifesto, but for Platform Engineering
 
 ---
 
-## 📬 Contact me
+<div align="center">
 
-### 💬 Get in Touch
+## 💬 Get in Touch
 
+<details>
+  
 | Method | Details |
 |--------|---------|
 | 🔐 **Secure Messages** | [public GPG key](keys/gpgkey.pub) to message me about sensitive matters ||
 
 > ⚠️ _If you need to report any OSS security vulnerability use the project security.md file and follow the instructions, thanks!_
 
-<details>
   <summary><b>🗓️ Wanna book a meeting instead?</b></summary>
   <br>
   Here's a secret <a href="https://mb-consulting.dev/secret">link</a>! 🤫
