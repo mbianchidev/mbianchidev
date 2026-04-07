@@ -20,80 +20,91 @@ Currently living in Northern Europe and working at **GitHub** (you are looking a
 [![Fun Facts](https://img.shields.io/badge/🎉-Fun%20Facts-purple?style=for-the-badge)](extra.md)
 [![All Links](https://img.shields.io/badge/🔗-Everything%20Else-red?style=for-the-badge)](https://mb-consulting.dev/all-links)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## Aside from my main job
 
-<details>
-<summary><b>Click to expand</b></summary>
+</div>
 
-### I am mainly working on...
+- Freelance services offered:
+  - on Kubernetes (not really for startups, you don't need that) 
+  - Platform Engineering (again, not really for startups)
+  - Helping you hire the right engineers
+  - product market fit & go to market (mainly for startups)
+  - Open Source strategy
+- Open source on Kubernetes upstream, in the Release Engineering team - find me as mbianchidev on the k8s Slack
+  - I just like maintainance and doing the work, no (low) politics
+- Mentoring engineers [via Mentorcruise](https://mentorcruise.com/mentor/matteobianchi/) and other channels
+  - a very selected few mentees at for a period of time (2, maximum 3)
+  - no 100% beginners
+  - no leeching (if you are ready there's no point in me to keep mentoring you)
+  - no bullshit 
+  - a month for free if you recently got laid off
 
-| Type | Project | Description | Effort      |
-|------|---------|-------------|-------------|
-| ☕ | **Music** | Playing and recording music with my band. | High. <br> Best way to spend many hours of my free time. |
-| 💸 | **Consulting** | Infrastructure/Architecture with a focus on Kubernetes, Hiring, Product Market Fit & Go To Market, Open Source Strategy. | Medium. <br> Depends on the period. |
-| 📖 | **[Kubernetes](https://github.com/kubernetes/kubernetes)** | It's running this and other website/apps you look at every single day. | Medium. <br> A couple hours per week, doing maintainance and improving processes. |
-| 💸 | **[Mentoring engineers](https://mentorcruise.com/mentor/matteobianchi/)** | Reach out on MentorCruise, or my LinkedIn if you want to be mentored by me, easy. | Low. <br> I only take a few mentees at a time. |
-| 📖 🔮 | **[Fire Tools](https://github.com/mbianchidev/fire-tools)** | Your personal finance copilot, without AI. | Low. <br> A hobby project that will substitute the current Google Sheet setup for my personal finance. |
+I also work on a number of different software projects, some for fun, some to free myself from paying lots of SaaS, some for future profit, mostly open source:
 
-### When I'm not playing music...
+<div align="center">
 
-| Type | Project | Description | Effort      |
-|------|---------|-------------|-------------|
-| 📖 ☕ | **[Track2Stem](https://github.com/mbianchidev/track2stem)** | A way to separate tracks into multiple stems, with AI. | Low. <br> Another hobby project, but music-related. |
-| 📖 🔮 | **[Find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** | I want to build a concert discovery service that doesn't suck, unlike Songkick or Bandsintown (somewhat). | Almost zero. <br> Gotta find time to work on this. |
-| 📖 🔮 | **[Every Music](https://github.com/mbianchidev/every-music)** | A music-based social media. | Low. <br> A business idea, somewhat overlapping with find-concerts. |
-| 📖 ☕ | **[AnyTrack Converter](https://github.com/mbianchidev/anytrack-converter)** | Convert any audio file or YouTube video to any format you want, with metadata editing. | Low. <br> Another hobby project, but music-related. |
-| 📖 | **[Open Playlist](https://github.com/mbianchidev/open-playlist)** | An Open Standard for music playlists | Low. <br> The way music should move forward, no vendor lock-in. |
+### Closed source (for now?)
 
-### Since I want to move away from SaaS as much as possible...
+</div>
 
-| Type | Project | Description | Effort      |
-|------|---------|-------------|-------------|
-| 📖 | **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** | An Eisenhower matrix todo app for your productivity. | Low. <br> A hobby project for productivity management. |
-| 📖 | **[PDFTools](https://github.com/mbianchidev/pdf-tools)** | A simple PDF manipulation tool, to avoid uploading your files on 3rd party websites. | Low. <br> This is pretty much finished, I might add more features as I need them. |
+- 🔮 **ats-review** - A tool to track your applications that optimizes resumes for Applicant Tracking Systems
+- 🦾 **se-claw** - Open Claw (sorta) for Solutions Engineers, for day-to-day pre/post-Sales work, but without all the CVEs open-claw has.
+- 📦 **sendbox** - An all-in-one sandbox for Copilot CLI and agents, written in Swift, integrated with devcontainers and based on Apple Virtualization (kata-containers ftw)
+- 🎸 **devoidofbeauty.com** - My (latest) band's website, we will publish our debut EP sometime in 2026
 
-### To help with my mentoring efforts...
+<div align="center">
 
-| Type | Project | Description | Effort      |
-|------|---------|-------------|-------------|
-| 📖 🔮 | **[Engineering Interviews](https://github.com/mbianchidev/engineering-interviews)** | A simple platform to practice for engineering interviews, focused on System Design, Engineering and conversational interview. | Low. <br> I sometimes add questions here, especially when I spar-interview. |
-| 📖 | **[Platform Engineering Roadmap](https://github.com/mbianchidev/platform-engineering-roadmap)** | An opinionated way to get to be a Platform Engineer, in the form of a roadmap.sh style website. | Low. <br> I will probably donate it to a Platform Engineering community at some point. |
-| 📖 | **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** | A free, open source LaTeX editor with real-time preview. Think Overleaf, but free and self-hostable. | Low. <br> A hobby project born out of frustration with Overleaf limits. |
-| ☕ 🔮 | **[ATS Review](https://github.com/mbianchidev/ats-review)** | Something is cooking here... stay tuned! 🔮 | WIP |
+### Current Projects (open source)
 
-### When I really don't have shit to do...
+</div>
 
-| Type | Project | Description | Effort      |
-|------|---------|-------------|-------------|
-| ☕ | **[My new satiric website](https://github.com/mbianchidev/mock-startup-website)** | I pretended to have a startup with a cool product (me) and I am absolutely mocking YC founders with this, yes. | Almost zero. <br> One day I'll actually buy a new domain and publish it. |
-| 📖 ☕ | **[2DnD](https://github.com/mbianchidev/2dnd)** | A game based on D&D but 2D, duh. | WIP |
+- 💰 **[Fire Tools](https://github.com/mbianchidev/fire-tools)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
+- 🗃️ **[SQL Not So Lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
+- 🎵 **[Track2Stem](https://github.com/mbianchidev/track2stem)** - Separate any track into multiple stems, with AI (the cool kind tho, it's Hybrid Spectrogram and Waveform Source Separation)
+- 🎤 **[Find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** - A concert discovery service that doesn't suck like Songkick and others
+- 🎶 **[Every Music](https://github.com/mbianchidev/every-music)** - A music-based social media experiment
+- 🔊 **[AnyTrack Converter](https://github.com/mbianchidev/anytrack-converter)** - Convert any audio file or YouTube video to any format, with metadata editing
+- 📋 **[Open Playlist](https://github.com/mbianchidev/open-playlist)** - The foundation for an open standard for music playlists, no vendor lock-in
+- 📝 **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** - A free, open source LaTeX editor with real-time preview
+- ✅ **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** - An Eisenhower matrix todo app for productivity, stop guessing wtf to do with your time
+- 📄 **[PDFTools](https://github.com/mbianchidev/pdf-tools)** - A simple set of PDF manipulation tools, no third-party uploads needed
+- 🧑‍💻 **[Engineering Interviews](https://github.com/mbianchidev/engineering-interviews)** - Practice platform for System Design and Engineering interviews
+- 🗺️ **[Platform Engineering Roadmap](https://github.com/mbianchidev/platform-engineering-roadmap)** - An opinionated roadmap to becoming a Platform Engineer
+- 🎮 **[2DnD](https://github.com/mbianchidev/2dnd)** - A 2D game based on D&D, duh
+- 😂 **[Mock Startup Website](https://github.com/mbianchidev/mock-startup-website)** - A satiric website mocking the average YC startup
 
-### Legend
+<div align="center">
 
-| Icon | Meaning |
-|:----:|---------|
-| ☕ | Hobby |
-| 📖 | Open Source |
-| 💸 | Monetized |
-| 🔮 | Monetized (in the future?) |
+### Legacy work (archived)
 
-</details>
+</div>
+
+- ☸️ **[KLab CLI](https://github.com/mbianchidev/klab-cli)** - A CLI to manage Kubernetes clusters consistently across clouds and tenants
+- 💵 **[Financial Cool](https://github.com/mbianchidev/financial-cool)** - A curated list of financial resources, projects and products
+- 🕹️ **[Blockster 2D](https://github.com/mbianchidev/blockster-2d)** - A 2D game developed during the Global Game Jam hackathon in Milan
+- ☁️ **[Cloud Native Days](https://github.com/mbianchidev/cloud-native-days)** - Cloud Native Days event resources
+- 📜 **[Platform Engineering Manifesto](https://github.com/mbianchidev/platform-engineering-manifesto)** - The Agile Manifesto, but for Platform Engineering
 
 ---
 
-## 📬 Contact me
+<div align="center">
 
-### 💬 Get in Touch
+## 💬 Get in Touch
 
+<details>
+  
 | Method | Details |
 |--------|---------|
 | 🔐 **Secure Messages** | [public GPG key](keys/gpgkey.pub) to message me about sensitive matters ||
 
 > ⚠️ _If you need to report any OSS security vulnerability use the project security.md file and follow the instructions, thanks!_
 
-<details>
   <summary><b>🗓️ Wanna book a meeting instead?</b></summary>
   <br>
   Here's a secret <a href="https://mb-consulting.dev/secret">link</a>! 🤫
