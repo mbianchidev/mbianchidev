@@ -39,7 +39,7 @@ Currently living in Northern Europe and working at **GitHub** (you are looking a
 - Open source on Kubernetes upstream, in the Release Engineering team - find me as mbianchidev on the k8s Slack
   - I just like maintainance and doing the work, no (low) politics
 - Mentoring engineers [via Mentorcruise](https://mentorcruise.com/mentor/matteobianchi/) and other channels
-  - a very selected few mentees at for a period of time (2, maximum 3)
+  - a very selected few mentees at a time (usually 2, maximum 3)
   - no 100% beginners
   - no leeching (if you are ready there's no point in me to keep mentoring you)
   - no bullshit 
@@ -56,6 +56,7 @@ I also work on a number of different software projects, some for fun, some to fr
 - 🔮 **ats-review** - A tool to track your applications that optimizes resumes for Applicant Tracking Systems
 - 🦾 **se-claw** - Open Claw (sorta) for Solutions Engineers, for day-to-day pre/post-Sales work, but without all the CVEs open-claw has.
 - 📦 **sendbox** - An all-in-one sandbox for Copilot CLI and agents, written in Swift, integrated with devcontainers and based on Apple Virtualization (kata-containers ftw)
+- 🎤 **yt2karaoke** - The must have for all good parties, convert youtube videos into karaoke experiences (powered by track2stem)
 - 🎸 **devoidofbeauty.com** - My (latest) band's website, we will publish our debut EP sometime in 2026
 
 <div align="center">
