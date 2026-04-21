@@ -31,13 +31,13 @@ Currently living in Northern Europe and working at **GitHub** (you are looking a
 </div>
 
 - Freelance services offered:
-  - on Kubernetes (not really for startups, you don't need that) 
-  - Platform Engineering (again, not really for startups)
-  - Helping you hire the right engineers
-  - product market fit & go to market (mainly for startups)
+  - Kubernetes assessment, optimization and strategy (_not really for startups, you don't need that_) 
+  - Platform Engineering (_again, not really for startups_)
+  - Helping you hire the right engineers for the job
+  - Product Market Fit & Go To Market (_this is mainly for startups and scaleups or enterprises with innovative product lines on top of their current business_)
   - Open Source strategy
 - Open source on Kubernetes upstream, in the Release Engineering team - find me as mbianchidev on the k8s Slack
-  - I just like maintainance and doing the work, no (low) politics
+  - I just like maintainance and doing the work, no (or low) politics
 - Mentoring engineers [via Mentorcruise](https://mentorcruise.com/mentor/matteobianchi/) and other channels
   - a very selected few mentees at a time (usually 2, maximum 3)
   - no 100% beginners
