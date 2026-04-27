@@ -7,18 +7,17 @@
 I consider myself a mix between:
 - **Software Engineer**
 - **Platform Engineer** (with DevOps and SRE background)
-- **Developer Relations Engineer**
-- A pinch of **leadership** (more than management)
-- A love for both **Product** and **Customer-related** roles
+- A pinch of **leadership** (more than management) and **developer relations**
+- A love (and hate) for both **Product** and **Customer-related** roles
 
 ### Technical Expertise
-- 🐳 Kubernetes & cloud expert
-- 🔄 DevOps coach
-- 💻 Experienced coder in multiple programming languages (Java, Python, Golang, TypeScript...)
-- 🎓 Mentor
-- 🎤 International keynote speaker
-- ✍️ Tech writer
-- 🌐 Community leader
+- 🐳 Kubernetes & cloud 
+- 🔄 Platform Engineering 
+- 💻 Coding in multiple programming languages (Java, Python, Golang, TypeScript...) but I mean with AI any language really
+- 🎓 Mentoring
+- 🎤 Public speaking (20+ international engagements, not counting meetups but just actual conferences)
+- ✍️ Tech writer (I don't do this a lot anymore but I can still do it)
+- 🌐 Community leader - I mean, maintainership and all.
 
 > As a neuro-spicy individual I think and operate differently from the majority but I think it is my strength and I'm not afraid to challenge the status quo.
 
@@ -58,7 +57,7 @@ I consider myself a mix between:
 > Essential requirements
 
 ### 🌍 Remote & Flexibility
-- Allow to operate remote in a flexible way, including working from abroad
+- Allow to operate remote in a flexible way, including working from abroad in respect to my tax residency. tldr; I go back to Italy and travel to Germany often.
 
 ### 🌙 Moonlight Policy
 Must allow me to:
@@ -67,8 +66,8 @@ Must allow me to:
 - Advisory work in respect of a non-compete agreement (off hours)
 
 ### 🎤 Speaking & Events
-- Allow me to organize (off hours) - and go (office hours) - to tech events
-- Allow me to speak at tech events (office hours) and if looking for affiliation fully cover my travel, accommodation and food expenses - seems obvious but in my experience it is not
+- Allow me to potentially organize (off hours) - and go (work hours) - to tech events
+- Allow me to speak at tech events (work hours) and if looking for affiliation aka your name on my badge and slides you'll need to fully cover my travel, accommodation and food expenses - seems obvious but in my experience it is not
 
 ---
 
@@ -84,15 +83,15 @@ Must allow me to:
 4. Cloud Native tech (Monitoring, Observability, Security, CI/CD, etc.)
 
 ### 🚀 Company Stage
-- Startup/scaleup (Series A+)
-- Low bureaucracy
-- Ability to move fast!
+- Startup/scaleup (Series B+)
+- Low bureaucracy - so you can even be big tech if you allow me to have little BS in my workday
+- Ability to move fast, have ownership and GROW. I expect to exceed expectations after less than a year in the company and to be rewarded for it. I am a hard worker.
 
 ### 🌐 Work Style
-- **Full-remote advocate** - work from anywhere
-- **Async-first** - so I can work for 3 months from Bali, Indonesia or wherever I want
+- **Full-remote** - work from anywhere, time zone flexible up to an extent
+- **Async-first** - so I can work for 3 months from Bali, Indonesia or wherever I want and jokes aside, I think that this helps EVERYONE in the company, even if they work on site
 - Note: I will happily swing by the office for social events if I feel like it
-- Company offsites are ok (full expenses covered and possibly not in the weekend as I typically have other plans)
+- Company offsites are fun, I'll come (full expenses covered and possibly not in the weekend as I typically have other plans)
 
 ### 🌙 Enhanced Moonlight Policy
 Allows me to also:
@@ -105,7 +104,7 @@ Examples of what I mean:
   - *On a serious note, I never had issues with delivering results in my career, I'm a responsible and reliable person.*
 
 ### 🎪 Event Sponsorship
-- Sponsor events that I organize
+- Sponsor events that I organize, very optionally.
 
 > **TLDR; just be a nice company to me and I will be a very nice employee/freelancer to you.**
 
@@ -159,11 +158,11 @@ I'm open to full-time with some flexibility and limitations to be discussed on a
 <table>
 <tr>
 <td><b>EMEA</b></td>
-<td>Starting from <b>140k base EUR/year</b> + bonus + equity + benefits</td>
+<td>Starting from <b>180k base EUR/year</b> + bonus + equity + benefits</td>
 </tr>
 <tr>
 <td><b>United States</b></td>
-<td>Starting from <b>180k base USD/year</b> + bonus + equity + benefits<br>(Sponsorship needed - O-1 visa possible)</td>
+<td>Starting from <b>220k base USD/year</b> + bonus + equity + benefits<br>(Sponsorship needed - O-1 visa possible)</td>
 </tr>
 </table>
 
@@ -186,17 +185,15 @@ I'm open for relocation, but not in every area.
 
 🚩🚩🚩🚩🚩🚩
 
-In hope to avoid getting these I created [this repo](https://github.com/mbianchidev/engineering-interviews) to collect coding challenges and interview material.
-
 ### 📊 My Interview Stats
-- **Success rate**: ~67.9% out of 100+ technical interviews in the past 10+ years
+- **Success rate**: ~62.1% out of 100+ technical interviews in the past 10+ years
 - I'm not afraid of coding interviews
 - I just don't like wasting time with self-contained riddles that a new grad could solve by just memorizing algorithms and data structures 101 or leetcoding all day for 2 weeks
 
 > *Reversing a binary tree? Been there, done that, please be smarter and ask something meaningful.*
 
 ### 💡 Alternative Approach
-I have some open source code on my GitHub profile, so you can check that out if you really want to see how I code, right? 😉
+I have some open source code on my GitHub profile, so you can check that out if you really want to see how I code, right? 🙄
 
 ### 🎭 Real Example
 
@@ -215,7 +212,9 @@ I have some open source code on my GitHub profile, so you can check that out if 
 ### 🎯 About Interview Numbers
 I do sparring interviews once every _some_-months, just to keep up with the market and understand if my market value has increased or not.
 
-> **That said**, if you have a fair career development plan in place (with salary evaluation included) and a good internal mobility in your company, you have nothing to worry about. Literally.
+> **That said**, if you have a fair career development and growth plan in place (with salary evaluation included) and a good internal mobility in your company, you have nothing to worry about. Literally.
+
+p.s. a 1% yearly increase when your company makes billions is so disrespectful. At least match the inflation in my country? Typically 2-3%. CMON.
 
 ---
 
