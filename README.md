@@ -2,7 +2,7 @@
 
 # Hi there!
 
-I'm a metal singer with 10+ years of software/cloud engineering experience.
+I'm a metal(core) singer with 10+ years of software/cloud engineering experience.
 
 Currently living in Northern Europe and working at **GitHub** (you are looking at it).
 
@@ -33,19 +33,19 @@ Currently living in Northern Europe and working at **GitHub** (you are looking a
 - Freelance services offered:
   - Kubernetes assessment, optimization and strategy (_not really for startups, you don't need that_) 
   - Platform Engineering (_again, not really for startups_)
-  - Helping you hire the right engineers for the job
+  - Helping you hire the right engineers for the job (for every software company)
   - Product Market Fit & Go To Market (_this is mainly for startups and scaleups or enterprises with innovative product lines on top of their current business_)
-  - Open Source strategy
+  - Open Source strategy (for every company, regardless of their domain)
 - Open source on Kubernetes upstream, in the Release Engineering team - find me as mbianchidev on the k8s Slack
-  - I just like maintainance and doing the work, no (or low) politics
+  - I just like maintainance and doing the work, no politics (or lowest as humanly possible)
 - Mentoring engineers [via Mentorcruise](https://mentorcruise.com/mentor/matteobianchi/) and other channels
   - a very selected few mentees at a time (usually 2, maximum 3)
   - no 100% beginners
   - no leeching (if you are ready there's no point in me to keep mentoring you)
   - no bullshit 
-  - a month for free if you recently got laid off
+  - a month for free if you recently got laid off _subject to (my) availability, first come first served_
 
-I also work on a number of different software projects, some for fun, some to free myself from paying lots of SaaS, some for future profit, mostly open source:
+I also work on a number of different software projects, some for fun, some to free myself from paying lots of SaaS, some for (hopefully) future profit so I can retire early.
 
 <div align="center">
 
@@ -67,12 +67,12 @@ I also work on a number of different software projects, some for fun, some to fr
 
 - 💰 **[Fire Tools](https://github.com/mbianchidev/fire-tools)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
 - 🗃️ **[SQL Not So Lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
-- 🎵 **[Track2Stem](https://github.com/mbianchidev/track2stem)** - Separate any track into multiple stems, with AI (the cool kind tho, it's Hybrid Spectrogram and Waveform Source Separation)
-- 🎤 **[Find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** - A concert discovery service that doesn't suck like Songkick and others
-- 🎶 **[Every Music](https://github.com/mbianchidev/every-music)** - A music-based social media experiment
+- 🎵 **[Track2Stem](https://github.com/mbianchidev/track2stem)** - Separate any track into multiple stems, with the cool kind of AI (Hybrid Spectrogram and Waveform Source Separation)
+- 🎤 **[Find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** - A concert discovery service that doesn't absolutely suck like Songkick or Bandsintown (probably will be focused on metal and most -core subgenres, sorry Taylor Swift fans but you probably don't need this as much as we do)
+- 🎶 **[Every Music](https://github.com/mbianchidev/every-music)** - A music-based social media experiment, giga WIP but an interesting concept I would love to explore (maybe bulding it leveraging ATProtocol and call it MusicSky?)
 - 🔊 **[AnyTrack Converter](https://github.com/mbianchidev/anytrack-converter)** - Convert any audio file or YouTube video to any format, with metadata editing
-- 📋 **[Open Playlist](https://github.com/mbianchidev/open-playlist)** - The foundation for an open standard for music playlists, no vendor lock-in
-- 📝 **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** - A free, open source LaTeX editor with real-time preview
+- 📋 **[Open Playlist](https://github.com/mbianchidev/open-playlist)** - The foundation for an open standard for music playlists, no vendor lock-in. Very WIP
+- 📝 **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** - A free, open source LaTeX editor with real-time preview, basically OverLeaf but self hosted and free without any limits
 - ✅ **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** - An Eisenhower matrix todo app for productivity, stop guessing wtf to do with your time
 - 📄 **[PDFTools](https://github.com/mbianchidev/pdf-tools)** - A simple set of PDF manipulation tools, no third-party uploads needed
 - 🧑‍💻 **[Engineering Interviews](https://github.com/mbianchidev/engineering-interviews)** - Practice platform for System Design and Engineering interviews
@@ -86,11 +86,11 @@ I also work on a number of different software projects, some for fun, some to fr
 
 </div>
 
-- ☸️ **[KLab CLI](https://github.com/mbianchidev/klab-cli)** - A CLI to manage Kubernetes clusters consistently across clouds and tenants
-- 💵 **[Financial Cool](https://github.com/mbianchidev/financial-cool)** - A curated list of financial resources, projects and products
-- 🕹️ **[Blockster 2D](https://github.com/mbianchidev/blockster-2d)** - A 2D game developed during the Global Game Jam hackathon in Milan
-- ☁️ **[Cloud Native Days](https://github.com/mbianchidev/cloud-native-days)** - Cloud Native Days event resources
-- 📜 **[Platform Engineering Manifesto](https://github.com/mbianchidev/platform-engineering-manifesto)** - The Agile Manifesto, but for Platform Engineering
+- ☸️ **[KLab CLI](https://github.com/mbianchidev/klab-cli)** - A CLI to manage Kubernetes clusters consistently across clouds and tenants. Outdated af.
+- 💵 **[Financial Cool](https://github.com/mbianchidev/financial-cool)** - A curated list of financial resources, projects and products. There's better out there, Reddit communities already have it all.
+- 🕹️ **[Blockster 2D](https://github.com/mbianchidev/blockster-2d)** - A 2D game developed during the Global Game Jam hackathon in Milan, fun to play, might de-archive it in the future but unlikely.
+- ☁️ **[Cloud Native Days](https://github.com/mbianchidev/cloud-native-days)** - Cloud Native Days event resources, it is probably not relevant.
+- 📜 **[Platform Engineering Manifesto](https://github.com/mbianchidev/platform-engineering-manifesto)** - The Agile Manifesto, but for Platform Engineering, it might still be relevant.
 
 ---
 
@@ -113,7 +113,7 @@ I also work on a number of different software projects, some for fun, some to fr
 
 ---
 
-## 💪 Just flexin some OSS contributions
+## 💪 Just flexin' some OSS contributions
 
 [![DevStats Card](https://devstats.me/?username=mbianchidev)](https://github.com/tico88612/devstats-card)
 
