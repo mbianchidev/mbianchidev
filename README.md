@@ -113,12 +113,6 @@ I also work on a number of different software projects, some for fun, some to fr
 
 ---
 
-## 💪 Just flexin' some OSS contributions
-
-[![DevStats Card](https://devstats.me/?username=mbianchidev)](https://github.com/tico88612/devstats-card)
-
----
-
 ## 👤 About me
 
 <details>
