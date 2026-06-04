@@ -6,7 +6,7 @@ I'm a metal(core) singer with 12+ years of experience in tech.
 
 Currently living in Northern Europe and working at **GitHub** (you are looking at it).
 
-My decade in the space had me doing Software Engineering, Platform Engineering (lots of k8s), Developer Relations, Field Marketing, Sales/Revenue Engineering, co-founding a startup and bringing it to 600k ARR and freelancing which is basically me being a one-man company. Order of these is random.
+My decade in the space had me doing Software Engineering, Platform Engineering (lots of k8s), Developer Relations, Field Marketing, Sales/Revenue Engineering, co-founding a startup and freelancing which is basically me being a one-man company. Order of these is random.
 
 Have you seen Everything Everywhere All at Once? I am the tech version of that.
 
