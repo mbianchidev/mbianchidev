@@ -2,11 +2,15 @@
 
 # Hi there!
 
-I'm a metal(core) singer with 10+ years of software/cloud engineering experience.
+I'm a metal(core) singer with 12+ years of experience in tech.
 
 Currently living in Northern Europe and working at **GitHub** (you are looking at it).
 
-"I like to define myself as a **jack of most (tech) trades, master of some**."
+My decade in the space had me doing Software Engineering, Platform Engineering (lots of k8s), Developer Relations, Field Marketing, Sales/Revenue Engineering, Product (co-founded a startup and brought it to 600k ARR) and freelancing which is basically being a one-man company. Order of these is random.
+
+Have you seen Everything Everywhere All at Once? I am the tech version of that.
+
+"I like to define myself as a **jack of most (tech) trades, master of some**." - _Confucius when talking about me, in a dream_
 
 ---
 
@@ -37,7 +41,7 @@ Currently living in Northern Europe and working at **GitHub** (you are looking a
   - Product Market Fit & Go To Market (_this is mainly for startups and scaleups or enterprises with innovative product lines on top of their current business_)
   - Open Source strategy (for every company, regardless of their domain)
 - Open source on Kubernetes upstream, in the Release Engineering team - find me as mbianchidev on the k8s Slack
-  - I just like maintainance and doing the work, no politics (or lowest as humanly possible)
+  - I just like maintainance and doing the work, no politics (or as low as humanly possible)
 - Mentoring engineers [via Mentorcruise](https://mentorcruise.com/mentor/matteobianchi/) and other channels
   - a very selected few mentees at a time (usually 2, maximum 3)
   - no 100% beginners
