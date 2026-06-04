@@ -58,10 +58,9 @@ I also work on a number of different software projects, some for fun, some to fr
 </div>
 
 - 🔮 **go-get-a-job** - A tool to track your applications that optimizes resumes for Applicant Tracking Systems and... it does more too
-- 🦾 **se-claw** - Open Claw (sorta) for Solutions Engineers, for day-to-day pre/post-Sales work, but without all the CVEs open-claw has
 - 📦 **sendbox** - An all-in-one sandbox for Copilot CLI and agents, written in Swift, integrated with devcontainers and based on Apple Virtualization (kata-containers ftw)
 - 🎤 **yt2karaoke** - The must have for all good parties, convert youtube videos into karaoke experiences (powered by track2stem)
-- 🎸 **devoidofbeauty.com** - My (latest) band's website, we will publish our debut EP sometime in 2026
+- 🎸 **devoidofbeauty.com** - My (latest) band's website, we will publish our debut EP sometime in 2026?
 
 <div align="center">
 
