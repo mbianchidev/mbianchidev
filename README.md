@@ -10,7 +10,7 @@ My decade in the space had me doing Software Engineering, Platform Engineering (
 
 Have you seen Everything Everywhere All at Once? I am the tech version of that.
 
-"I like to define myself as a **jack of most (tech) trades, master of some**." - _Confucius when talking about me, in a dream_
+"I like to define myself as a **jack of most (tech) trades, master of some**." - _probably Confucius referring to me_
 
 ---
 
