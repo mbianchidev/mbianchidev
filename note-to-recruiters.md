@@ -77,10 +77,11 @@ Must allow me to:
 
 ### 🎯 Preferred Industries
 *(In order of preference)*
+0. Music (but not streaming services unless they pay artists well)
 1. DevTools
-2. Green/Blue Energy (sustainability in general is fine)
-3. ML/AI
-4. Cloud Native tech (Monitoring, Observability, Security, CI/CD, etc.)
+2. Cloud Native tech (Monitoring, Observability, Security, CI/CD, etc.)
+3. Green/Blue Energy (sustainability in general is fine)
+4. ML/AI (Foundational, no AI coding tools)
 
 ### 🚀 Company Stage
 - Startup/scaleup (Series B+)
