@@ -32,22 +32,20 @@ Have you seen Everything Everywhere All at Once? I am the tech version of that.
 
 </div>
 
-- Freelance services offered:
+- I offer freelance services:
   - Kubernetes assessment, optimization and strategy (_not really for startups, you don't need that_) 
   - Platform Engineering (_again, not really for startups_)
   - Helping you hire the right engineers for the job (for every software company)
   - Product Market Fit & Go To Market (_this is mainly for startups and scaleups or enterprises with innovative product lines on top of their current business_)
   - Open Source strategy (for every company, regardless of their domain)
-- Open source on Kubernetes upstream, in the Release Engineering team - find me as mbianchidev on the k8s Slack
-  - I just like maintainance and doing the work, no politics (or as low as humanly possible)
-- Mentoring engineers [via Mentorcruise](https://mentorcruise.com/mentor/matteobianchi/) and other channels
+- Mentor engineers [via Mentorcruise](https://mentorcruise.com/mentor/matteobianchi/) and other channels
   - a very selected few mentees at a time (usually 2, maximum 3)
   - no 100% beginners
   - no leeching (if you are ready there's no point in me to keep mentoring you)
   - no bullshit 
   - a month for free if you recently got laid off _subject to (my) availability, first come first served_
 
-I also work on a number of different software projects, some for fun, some to free myself from paying lots of SaaS, some for (hopefully) future profit so I can retire early.
+I also work on a number of different software projects, some for keeping myself technical (Kubernetes?) some for fun, some to free myself from paying lots of subscriptions, some for (hopefully) future profit so I can retire early.
 
 <div align="center">
 
