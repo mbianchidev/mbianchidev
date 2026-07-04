@@ -68,7 +68,7 @@ I also work on a number of different software projects, some for fun, some to fr
 
 </div>
 
-- 💰 **[Fire Tools](https://github.com/mbianchidev/fire-tools)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
+- 💰 **[Fire Tools](https://github.com/fire-tools-inc)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
 - 🗃️ **[SQL Not So Lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
 - 💀 **[Kill-switch](https://github.com/mbianchidev/kill-switch)** - A switch to kill your MacOS processes
 - 🚢 **[Porto](https://github.com/mbianchidev/porto)** - Your localhost apps orchestrator
