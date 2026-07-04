@@ -75,10 +75,10 @@
 
 | Quote | Meaning |
 |-------|---------|
-| 💸 Code is a (terrible) liability. | Every line of code is a maintenance burden |
-| 🛡️ Data is your most valuable asset. Protect it. | Security and privacy matter |
-| 🌍 Always assume good intentions, especially when interacting with a non-native English speaker. | Communication can be challenging |
-| 🧑‍🤝‍🧑 People are way more important than code or data. | Human-centered approach |
+| 💸 Code is a (terrible) liability. | Every line of code is a maintenance burden - this was before AI, now it's even worse lol |
+| 🛡️ Data is your most valuable asset. Protect it. | Security and privacy matter - again, before AI and now... it's even more imporant. |
+| 🌍 Always assume good intentions, especially when interacting with a non-native English speaker. | Communication can be challenging, but I try my best to be very clear. |
+| 🧑‍🤝‍🧑 People are way more important than code or data. | I strive to have a human-centered approach, despite I find myself liking machines more than most humans. |
 
 ---
 
