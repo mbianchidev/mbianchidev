@@ -162,7 +162,7 @@ I'm open to full-time with some flexibility and limitations to be discussed on a
 </tr>
 <tr>
 <td><b>United States</b></td>
-<td>Starting from <b>220k base USD/year</b> + bonus + equity + benefits<br>(Sponsorship needed - O-1 visa possible)</td>
+<td>Starting from <b>250k base USD/year (remote anywhere) or 300k base USD/year for Bay Area, Seattle, whatever</b> + bonus + equity + benefits<br>(Sponsorship needed - O-1 visa possible)</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@ I'm open for relocation, but not in every area.
 🚩🚩🚩🚩🚩🚩
 
 ### 📊 My Interview Stats
-- **Success rate**: ~62.1% out of 100+ technical interviews in the past 10+ years
+- **Success rate**: ~63.7% out of 150+ technical interviews in the past 10+ years
 - I'm not afraid of coding interviews
 - I just don't like wasting time with self-contained riddles that a new grad could solve by just memorizing algorithms and data structures 101 or leetcoding all day for 2 weeks
 
@@ -214,7 +214,7 @@ I do sparring interviews once every _some_-months, just to keep up with the mark
 
 > **That said**, if you have a fair career development and growth plan in place (with salary evaluation included) and a good internal mobility in your company, you have nothing to worry about. Literally.
 
-p.s. a 1% yearly increase when your company makes billions is so disrespectful. At least match the inflation in my country? Typically 2-3%. CMON.
+p.s. a 1% yearly increase when your company makes billions (or millions) is so disrespectful. At least match the inflation in my country? Typically 2-3%. C'MON DUDE.
 
 ---
 
