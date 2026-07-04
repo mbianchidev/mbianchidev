@@ -31,7 +31,7 @@
 </tr>
 <tr>
 <td>🎵</td>
-<td><b>Playlist Curator</b> - <a href="https://open.spotify.com/user/1169908688?si=f484127a02164fc7">I curate my Spotify playlists</a></td>
+<td><b>Playlist Curator</b> - I curate my music playlists (50+)</td>
 </tr>
 <tr>
 <td>🖤</td>
