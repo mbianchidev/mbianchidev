@@ -43,11 +43,11 @@
 </tr>
 <tr>
 <td>👾</td>
-<td><b>Gamer</b> - Played League of Legends for 10+ years, peak elo higher than yours! 💎 But now I mostly play single player games: Elden Ring is the last one I played as of 2023.</td>
+<td><b>Gamer</b> - Played League of Legends for 10+ years, peak elo higher than yours! 💎 But now I mostly play single player or retro games: Dave The Diver is the last one I played as of 2026.</td>
 </tr>
 <tr>
 <td>🃏</td>
-<td><b>MTG Player</b> - Play Magic The Gathering, mainly MTGA due to my wallet not being very happy with the real deal</td>
+<td><b>MTG Player</b> - Play Magic The Gathering, mainly MTGA due to my wallet not being very happy with the real deal. I mainly play Golgari, mono black, or whatever the meta says it's strong. Not very fond of full control decks.</td>
 </tr>
 <tr>
 <td>🇮🇹</td>
