@@ -10,8 +10,6 @@ My decade in the space had me doing Software Engineering, Platform Engineering (
 
 Have you seen Everything Everywhere All at Once? I am the tech version of that.
 
-"I like to define myself as a **jack of most (tech) trades, master of some**." - _probably Confucius referring to me_
-
 ---
 
 ### Quick Links
@@ -53,49 +51,55 @@ I also work on a number of different software projects, some for fun, some to fr
 
 <div align="center">
 
-### Closed source (for now?)
+### Current Projects
 
 </div>
 
-- 🔮 **go-get-a-job** - A tool to track your applications that optimizes resumes for Applicant Tracking Systems and... it does more too
-- 📦 **sendbox** - An all-in-one sandbox for Copilot CLI and agents, written in Swift, integrated with devcontainers and based on Apple Virtualization (kata-containers ftw)
-- 🎤 **yt2karaoke** - The must have for all good parties, convert youtube videos into karaoke experiences (powered by track2stem)
-- 🎸 **devoidofbeauty.com** - My (latest) band's website, we will publish our debut EP sometime in 2026?
+If a project has no link it's closed source.
 
-<div align="center">
+I tend to default to open source, MIT License, but sometimes I don't.
 
-### Current Projects (open source)
-
-</div>
+### Finance
 
 - 💰 **[Fire Tools](https://github.com/fire-tools-inc)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
+- 💵 **[Financial Cool](https://github.com/mbianchidev/financial-cool)** - Formerly a curated list of financial resources, projects and products. There's better out there, Reddit communities already have it all! Archived.
+
+### DevTools
+
 - 🗃️ **[SQL Not So Lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
 - 💀 **[Kill-switch](https://github.com/mbianchidev/kill-switch)** - A switch to kill your MacOS processes
 - 🚢 **[Porto](https://github.com/mbianchidev/porto)** - Your localhost apps orchestrator
+- 📦 **sendbox** - An all-in-one sandbox for Copilot CLI and agents, written in Swift, integrated with devcontainers and based on Apple Virtualization (kata-containers ftw)
+- ☸️ **[KLab CLI](https://github.com/mbianchidev/klab-cli)** - A CLI to manage Kubernetes clusters consistently across clouds and tenants. Outdated af, archived.
+
+### Music
+
+- 🎤 **yt2karaoke** - The must have for all good parties, convert youtube videos into karaoke experiences (powered by track2stem)
 - 🎵 **[Track2Stem](https://github.com/mbianchidev/track2stem)** - Separate any track into multiple stems, with the cool kind of AI (Hybrid Spectrogram and Waveform Source Separation)
 - 🎤 **[Find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** - A concert discovery service that doesn't absolutely suck like Songkick or Bandsintown - _probably will be focused on metal and most -core subgenres, sorry Taylor Swift fans but you probably don't need this as much as we do_
 - 🎶 **[Every Music](https://github.com/mbianchidev/every-music)** - A music-based social media experiment, giga WIP but an interesting concept I would love to explore (maybe bulding it leveraging ATProtocol and call it MusicSky?)
 - 🔊 **[AnyTrack Converter](https://github.com/mbianchidev/anytrack-converter)** - Convert any audio file or YouTube video to any format, with metadata editing
-- 📋 **[Open Playlist](https://github.com/mbianchidev/open-playlist)** - The foundation for an open standard for music playlists, no vendor lock-in. Very WIP
+- 📋 **[Open Playlist](https://github.com/mbianchidev/open-playlist)** - The foundation for an open standard for music playlists, no vendor lock-in
+- 🎧 **[Open Playlist Engine](mbianchidev/open-playlist-engine)** - The first implementation on top of the open playlist idea, mainly helping users migrating off Spotify to various targets
+- 🎸 **devoidofbeauty.com** - My (latest) band's website, we will publish our debut EP sometime in 2026?
+
+### Productivity
 - 📝 **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** - A free, open source LaTeX editor with real-time preview, basically OverLeaf but self hosted and free without any limits
 - ✅ **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** - An Eisenhower matrix todo app for productivity, stop guessing wtf to do with your time
 - 📄 **[PDFTools](https://github.com/mbianchidev/pdf-tools)** - A simple set of PDF manipulation tools, no third-party uploads needed
+
+### Education / Career
+- 🔮 **go-get-a-job** - A tool to track your applications that optimizes resumes for Applicant Tracking Systems and... it does more too
 - 🧑‍💻 **[Engineering Interviews](https://github.com/mbianchidev/engineering-interviews)** - Practice platform for System Design and Engineering interviews
 - 🗺️ **[Platform Engineering Roadmap](https://github.com/mbianchidev/platform-engineering-roadmap)** - An opinionated roadmap to becoming a Platform Engineer
+- ☁️ **[Cloud Native Days](https://github.com/mbianchidev/cloud-native-days)** - Cloud Native Days event resources, it is probably not relevant. Archived.
+- 📜 **[Platform Engineering Manifesto](https://github.com/mbianchidev/platform-engineering-manifesto)** - The Agile Manifesto, but for Platform Engineering, it might still be relevant. Archived.
+
+### Games & misc
 - 🎮 **[2DnD](https://github.com/mbianchidev/2dnd)** - A 2D game based on D&D, duh
+- 🕹️ **[Blockster 2D](https://github.com/mbianchidev/blockster-2d)** - A 2D game developed during the Global Game Jam hackathon in Milan, fun to play, might de-archive it in the future but unlikely. Archived.
 - 😂 **[Mock Startup Website](https://github.com/mbianchidev/mock-startup-website)** - A satiric website mocking the average YC startup
 
-<div align="center">
-
-### Legacy work (archived)
-
-</div>
-
-- ☸️ **[KLab CLI](https://github.com/mbianchidev/klab-cli)** - A CLI to manage Kubernetes clusters consistently across clouds and tenants. Outdated af.
-- 💵 **[Financial Cool](https://github.com/mbianchidev/financial-cool)** - A curated list of financial resources, projects and products. There's better out there, Reddit communities already have it all.
-- 🕹️ **[Blockster 2D](https://github.com/mbianchidev/blockster-2d)** - A 2D game developed during the Global Game Jam hackathon in Milan, fun to play, might de-archive it in the future but unlikely.
-- ☁️ **[Cloud Native Days](https://github.com/mbianchidev/cloud-native-days)** - Cloud Native Days event resources, it is probably not relevant.
-- 📜 **[Platform Engineering Manifesto](https://github.com/mbianchidev/platform-engineering-manifesto)** - The Agile Manifesto, but for Platform Engineering, it might still be relevant.
 
 ---
 
