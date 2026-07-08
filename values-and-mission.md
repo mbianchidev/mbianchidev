@@ -1,8 +1,8 @@
-# 💫 Values & Mission
+# Values & Mission
 
 ---
 
-## 🌟 Core Values
+## Core Values
 
 > Principles that guide my actions and decisions
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 My Mission
+## My Mission
 
 <table>
 <tr>
@@ -36,7 +36,7 @@
 
 ---
 
-## 🏔️ Big Hairy Audacious Goal
+## Big Hairy Audacious Goal
 
 > *(Can I say the naming is terrible?)*
 
