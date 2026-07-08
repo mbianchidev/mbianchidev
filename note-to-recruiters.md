@@ -77,6 +77,7 @@ Must allow me to:
 
 ### 🎯 Preferred Industries
 *(In order of preference)*
+
 0. Music (but not streaming services unless they pay artists well)
 1. DevTools
 2. Cloud Native tech (Monitoring, Observability, Security, CI/CD, etc.)
