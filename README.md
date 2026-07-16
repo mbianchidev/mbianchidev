@@ -67,7 +67,7 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - 🗃️ **[SQL Not So Lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
 - 💀 **[Kill-switch](https://github.com/mbianchidev/kill-switch)** - A switch to kill your MacOS processes
 - 🚢 **[Porto](https://github.com/mbianchidev/porto)** - Your localhost apps orchestrator
-- 📦 **sendbox** - An all-in-one sandbox for Copilot CLI and agents, written in Swift, integrated with devcontainers and based on Apple Virtualization (kata-containers ftw)
+- 📦 **[sendbox](https://github.com/mbianchidev/sendbox)** - An all-in-one sandbox for Copilot CLI and agents, written in Swift, integrated with devcontainers and based on Apple Virtualization (kata-containers ftw)
 - ☸️ **[KLab CLI](https://github.com/mbianchidev/klab-cli)** - A CLI to manage Kubernetes clusters consistently across clouds and tenants. Outdated af, archived.
 
 ### Music
