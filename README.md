@@ -57,18 +57,15 @@ If a project has no link it's closed source.
 
 I tend to default to open source, MIT License, but sometimes I don't.
 
-### Finance
-
-- 💰 **[Fire Tools](https://github.com/fire-tools-inc)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
-- 💵 **[Financial Cool](https://github.com/mbianchidev/financial-cool)** - Formerly a curated list of financial resources, projects and products. There's better out there, Reddit communities already have it all! Archived.
-
 ### DevTools
 
+- ❄️ **NixArc** - NixOS meets Arch Linux. A prototype OS, to explore the possibility of having a declarative system manifest inspired by NixOS within Arch.
+- ⚖️ **VSLocal** - the local-first AI IDE alternative that requires no account, API key, or cloud service. A VSCode fork, powered by open weight models. See [vslocal-test](https://github.com/mbianchidev/vslocal-test) for initial PoC (WIP).
+- 🌐 **Stainless** - A chromium-based productivity-oriented web browser: native adblock, sandboxed, search with stripped down results (goodbye sponsored content) and local/self hosted AI (optional).
+- 📦 **[sendbox](https://github.com/mbianchidev/sendbox)** - An all-in-one sandbox for Copilot CLI and agents, written in Swift, integrated with devcontainers and based on Apple Virtualization (kata-containers ftw)
+- 🚢 **[Porto](https://github.com/mbianchidev/porto)** - Your localhost apps orchestrator
 - 🗃️ **[SQL Not So Lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
 - 💀 **[Kill-switch](https://github.com/mbianchidev/kill-switch)** - A switch to kill your MacOS processes
-- 🚢 **[Porto](https://github.com/mbianchidev/porto)** - Your localhost apps orchestrator
-- 📦 **[sendbox](https://github.com/mbianchidev/sendbox)** - An all-in-one sandbox for Copilot CLI and agents, written in Swift, integrated with devcontainers and based on Apple Virtualization (kata-containers ftw)
-- ☸️ **[KLab CLI](https://github.com/mbianchidev/klab-cli)** - A CLI to manage Kubernetes clusters consistently across clouds and tenants. Outdated af, archived.
 
 ### Music
 
@@ -82,9 +79,9 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - 🎶 **[Every Music](https://github.com/mbianchidev/every-music)** - A music-based social media experiment, giga WIP but an interesting concept I would love to explore (maybe bulding it leveraging ATProtocol and call it MusicSky?)
 - 🎸 **devoidofbeauty.com** - My (latest) band's website, we will publish our debut EP sometime in 2026?
 
-### Productivity
+### Productivity & Finance
+- 💰 **[Fire Tools](https://github.com/fire-tools-inc)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
 - 🦊 **FiscalFox** - A self hosted accounting software: invoicing, contracts, quotations, expenses/receipts, time and trip tracking... Ideal for freelancers and small businesses
-- 🌐 **Stainless** - A chromium-based productivity-oriented web browser: native adblock, sandboxed, search with stripped down results (goodbye sponsored content) and local/self hosted AI (optional).
 - 📝 **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** - A free, open source LaTeX editor with real-time preview, basically OverLeaf but self hosted and free without any limits
 - ✅ **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** - An Eisenhower matrix todo app for productivity, stop guessing wtf to do with your time
 - 📄 **[PDFTools](https://github.com/mbianchidev/pdf-tools)** - A simple set of PDF manipulation tools, no third-party uploads needed
