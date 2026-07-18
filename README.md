@@ -84,6 +84,7 @@ I tend to default to open source, MIT License, but sometimes I don't.
 
 ### Productivity
 - 🦊 **FiscalFox** - A self hosted accounting software: invoicing, contracts, quotations, expenses/receipts, time and trip tracking... Ideal for freelancers and small businesses
+- 🌐 **Stainless** - A chromium-based productivity-oriented web browser: native adblock, sandboxed, search with stripped down results (goodbye sponsored content) and local/self hosted AI (optional).
 - 📝 **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** - A free, open source LaTeX editor with real-time preview, basically OverLeaf but self hosted and free without any limits
 - ✅ **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** - An Eisenhower matrix todo app for productivity, stop guessing wtf to do with your time
 - 📄 **[PDFTools](https://github.com/mbianchidev/pdf-tools)** - A simple set of PDF manipulation tools, no third-party uploads needed
