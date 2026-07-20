@@ -62,7 +62,7 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - ❄️ **NixArc** - NixOS meets Arch Linux. A prototype OS, to explore the possibility of having a declarative system manifest inspired by NixOS within Arch.
 - ⚖️ **VSLocal** - the local-first AI IDE alternative that requires no account, API key, or cloud service. A VSCode fork, powered by open weight models. See [vslocal-test](https://github.com/mbianchidev/vslocal-test) for initial PoC (WIP).
 - 🌐 **Stainless** - A chromium-based productivity-oriented web browser: native adblock, sandboxed, search with stripped down results (goodbye sponsored content) and local/self hosted AI (optional).
-- 🦇 **moguri** - A harness for your AI that works on your terms, both in a CLI (TUI) format and a desktop app
+- 🦇 **moguri** - A harness for your AI that works on your terms, both in a CLI (TUI) format and a desktop app, inspired by OpenCode
 - 📦 **[sendbox](https://github.com/mbianchidev/sendbox)** - An all-in-one sandbox for Copilot CLI and agents, written in Swift, integrated with devcontainers and based on Apple Virtualization (kata-containers ftw)
 - 🚢 **[porto](https://github.com/mbianchidev/porto)** - Your localhost apps orchestrator
 - 🗃️ **[SQL not-so-lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
