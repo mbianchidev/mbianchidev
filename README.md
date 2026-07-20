@@ -33,9 +33,10 @@ Have you seen Everything Everywhere All at Once? I am the tech version of that.
 </div>
 
 - I offer freelance services:
-  - Kubernetes assessment, optimization and strategy (_not really for startups, you don't need that_) 
-  - Platform Engineering (_again, not really for startups_)
+  - Kubernetes assessment, optimization and strategy (_not really for startups, you typically don't need that until you hit elastic usage growth, with unpredictable peaks_) 
+  - Platform Engineering (_again, usually not for startups until they hit product market fit and need to scale their infra (teams)_)
   - Helping you hire the right engineers for the job (for every software company)
+  - Fractionally helping you get shit (and software) done until you hire the right engineers for the job 
   - Product Market Fit & Go To Market (_this is mainly for startups and scaleups or enterprises with innovative product lines on top of their current business_)
   - Open Source strategy (for every company, regardless of their domain)
 - Mentor engineers [via Mentorcruise](https://mentorcruise.com/mentor/matteobianchi/) and other channels
@@ -53,7 +54,7 @@ I also work on a number of different software projects, some for keeping myself 
 
 </div>
 
-If a project has no link it's closed source.
+If a project has no link it's closed source for the time being.
 
 I tend to default to open source, MIT License, but sometimes I don't.
 
@@ -61,9 +62,9 @@ I tend to default to open source, MIT License, but sometimes I don't.
 
 - ❄️ **NixArc** - NixOS meets Arch Linux. A prototype OS, to explore the possibility of having a declarative system manifest inspired by NixOS within Arch.
 - ⚖️ **VSLocal** - the local-first AI IDE alternative that requires no account, API key, or cloud service. A VSCode fork, powered by open weight models. See [vslocal-test](https://github.com/mbianchidev/vslocal-test) for initial PoC (WIP).
-- 🌐 **Stainless** - A chromium-based productivity-oriented web browser: native adblock, sandboxed, search with stripped down results (goodbye sponsored content) and local/self hosted AI (optional).
-- 🦇 **moguri** - A harness for your AI that works on your terms, both in a CLI (TUI) format and a desktop app, inspired by OpenCode
-- 📦 **[sendbox](https://github.com/mbianchidev/sendbox)** - An all-in-one sandbox for Copilot CLI and agents, written in Swift, integrated with devcontainers and based on Apple Virtualization (kata-containers ftw)
+- 🌐 **Stainless** - A chromium-based productivity and dev oriented web browser: native adblock, sandboxed, clean search (goodbye sponsored/recommended content) and local/self hosted AI (optional).
+- 🦇 **moguri** - A harness for your AI that works on your terms, both in a CLI (TUI) format and a desktop app, forked from OpenCode
+- 📦 **[sendbox](https://github.com/mbianchidev/sendbox)** - An all-in-one sandbox for agents, integrated with devcontainers based on kata-containers
 - 🚢 **[porto](https://github.com/mbianchidev/porto)** - Your localhost apps orchestrator
 - 🗃️ **[SQL not-so-lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
 - 💀 **[killswitch](https://github.com/mbianchidev/kill-switch)** - A low footprint resource manager and utility for your MacOS
@@ -126,7 +127,16 @@ I tend to default to open source, MIT License, but sometimes I don't.
   <summary><i>Are you sure? It's really long.</i></summary>
   <br>
   <blockquote>
-    <strong>TLDR;</strong> I really like to build stuff in the cloud, especially if they pay me big bucks for it.
+    <strong>TLDR;</strong> I really like to build and run stuff in the cloud, especially if they pay me big bucks for it.
+    My stack is the following:
+     - I prefer docker compose setups for local development environments, it's easier to later move to microservices (or a keep a monorepo)
+     - For frontend I usually go for React + Vite, I also didn't mind NextJS for a while but after all the CVEs and with the rise of AI I felt less of a frontend framework need.
+     - For backend I try to be mindful. I'm comfortable with Golang and Python mainly for the backend, I don't mind Node.js with Express. I used a lot of Java with Spring Boot back in the days but I'm a bit Rust-y now. I use Rust over C/C++ whenever I need performance, but adjacent to eBPF or kernel the choice is not as obvious. I like wrapping things with GraphQL when possible, mainly for lightening up egress costs for client-heavy loads. RESTful all the way for most CRUD apps, but also gRPC when performance matters.
+     - For databases I adore SQLite when I work locally and Postgres for production environments, especially run on Kubernetes with CloudNativePG.
+     - For cache I tend to prefer Valkey over Redis for licensing and historical reasons.
+     - For S3-compatible storage I prefer SeaweedFS over any other alternative.
+     - For mobile Flutter or React Native, never really dove deep into Swift or Kotlin (Android).
+     - For desktop I have a heavy preference for Electron, but I am experimenting with Tauri (multi-platform)
   </blockquote>
 </details>
 
