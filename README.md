@@ -128,12 +128,21 @@ I tend to default to open source, MIT License, but sometimes I don't.
   <br>
   <blockquote>
     <strong>TLDR;</strong> I really like to build and run stuff in the cloud, especially if they pay me big bucks for it.
-    My stack is the following:
-     - I prefer docker compose setups for local development environments, it's easier to later move to microservices (or a keep a monorepo)
+    
+    My stack for doing that is the following:
+
+     - Favorite orchestrator: Kubernetes, duh. BUT. I'm not a fan of using it when it's not needed, so container managed services like ECS or even serverless can be totally fine too.
+     - Cloud provider tier list: 
+     1. God tier - Google Cloud Platform
+     2. Good but expensive tier - AWS
+     3. Why would I ever tier - Azure (and I work for MSFT at the time of writing this lol)
+     4. Every other cloud provider is not even in the tier list, unless you are a teeny tiny company starting out, or a hobbyst. In that case OVH, Hetzner or any other VPS / Cloud works. Just never Oracle or IBM please. I beg you to reconsider. 
+     - I obviously prefer docker compose setups for local development environments, and I tend to containerize the services I build: it's easier to later move to microservices (or a keep a monorepo)
      - For frontend I usually go for React + Vite, I also didn't mind NextJS for a while but after all the CVEs and with the rise of AI I felt less of a frontend framework need.
      - For backend I try to be mindful. I'm comfortable with Golang and Python mainly for the backend, I don't mind Node.js with Express. I used a lot of Java with Spring Boot back in the days but I'm a bit Rust-y now. I use Rust over C/C++ whenever I need performance, but adjacent to eBPF or kernel the choice is not as obvious. I like wrapping things with GraphQL when possible, mainly for lightening up egress costs for client-heavy loads. RESTful all the way for most CRUD apps, but also gRPC when performance matters.
      - For databases I adore SQLite when I work locally and Postgres for production environments, especially run on Kubernetes with CloudNativePG.
      - For cache I tend to prefer Valkey over Redis for licensing and historical reasons.
+     - For event-driven I usually do rabbitmq or Kafka and I've worked with and built custom systems (ask me about puma PMA)
      - For S3-compatible storage I prefer SeaweedFS over any other alternative.
      - For mobile Flutter or React Native, never really dove deep into Swift or Kotlin (Android).
      - For desktop I have a heavy preference for Electron, but I am experimenting with Tauri (multi-platform)
