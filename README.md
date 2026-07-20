@@ -42,7 +42,7 @@ Have you seen Everything Everywhere All at Once? I am the tech version of that.
 - Mentor engineers [via Mentorcruise](https://mentorcruise.com/mentor/matteobianchi/) and other channels
   - a very selected few mentees at a time (usually 2, maximum 3)
   - no 100% beginners
-  - no leeching (if you are ready there's no point in me to keep mentoring you)
+  - no leeching (if you are ready for interviewing, acquired the knowledge you wanted or you reached your goal, there's no point in me to keep mentoring you)
   - no bullshit 
   - a month for free if you recently got laid off _subject to (my) availability, first come first served_
 
