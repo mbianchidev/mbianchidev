@@ -25,9 +25,10 @@
 - **Guest Lecturer** - University of Turin, teaching Cloud Native Tech to Computer Science students
 
 ### 💼 Entrepreneurship & Impact
+- President's Club FY27 at GitHub - top 1% Solutions Engineers in the company in terms of attainment
 - **[First Startup](https://www.linkedin.com/company/kubelab/)** - Co-founder of Platform Engineering tool for multi-cloud Kubernetes management (xxxk pre-seed raised, xxxk ARR)
 - **[KLab-CLI](https://github.com/mbianchidev/klab-cli)** - All-in-one CLI to manage EKS, AKS and GKE clusters, powered by Terraform (will migrate to OpenTofu eventually)
-- **[Healthcare Impact](https://www.linkedin.com/pulse/kubelab-netherlands-cancer-institute-partner-around-ai-peter-comstock/?utm_source=rss&utm_campaign=articles_sitemaps&utm_medium=google_news)** - Helped a cancer research center save more lives: Machine Learning on Azure Cloud infrastructure, connected to a mobile gaming app, what a game changer!
+- **[Healthcare Research Impact](https://www.linkedin.com/pulse/kubelab-netherlands-cancer-institute-partner-around-ai-peter-comstock/?utm_source=rss&utm_campaign=articles_sitemaps&utm_medium=google_news)** - Helped a cancer research center save more lives: Machine Learning on Azure Cloud infrastructure, connected to a mobile gaming app, what a game changer!
 
 ### ✍️ Content Creation
 - **[Tech Blog](https://mb-consulting.dev/blog)** - 50k+ views monthly, 1400+ subscribers at peak
