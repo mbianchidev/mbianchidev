@@ -82,7 +82,7 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - 🎸 **devoidofbeauty.com** - My (latest) band's website, we will publish our debut EP sometime in 2026?
 
 ### Productivity & Finance
-- 💰 **[Fire Tools](https://github.com/fire-tools-inc)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
+- 💰 **[Fire Tools](https://github.com/fire-tools-inc/app)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
 - 🦊 **Fiscal Fox** - A self hosted accounting software: invoicing, contracts, quotations, expenses/receipts, time and trip tracking... Ideal for freelancers and small businesses
 - 📝 **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** - A free, open source LaTeX editor with real-time preview, basically OverLeaf but self hosted and free without any limits
 - ✅ **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** - An Eisenhower matrix todo app for productivity, stop guessing wtf to do with your time
@@ -99,6 +99,21 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - 🎮 **[2DnD](https://github.com/mbianchidev/2dnd)** - A 2D game based on D&D, duh
 - 🕹️ **[Blockster 2D](https://github.com/mbianchigaming/blockster-2d)** - A 2D game developed during the Global Game Jam hackathon in Milan, fun to play, might de-archive it in the future but unlikely. Archived.
 - 😂 **[Mock Startup Website](https://github.com/mbianchidev/mock-startup-website)** - A satiric website mocking the average YC startup
+
+Orgs I own include:
+  
+<details>
+
+  - [fire-tools-inc](https://github.com/fire-tools-inc) - for the FIRE Tools project
+  - [synctune-io](https://github.com/synctune-io) - for anything music related that doesn't fit my profile
+  - [mbianchiutils](https://github.com/mbianchiutils) - for any little utility project that doesn't belong in my profile
+  - [mbianchicareers](https://github.com/mbianchicareers) - for anything career related, most of these are private, some are public. All will be public when I retire.
+  - [mbianchidemos](https://github.com/mbianchidemos) - for code demos, talks and anything regarding my DevRel side, aside from this [one org](https://github.com/pull-request-wars-fluxcd) which required to be standalone for a KubeCon talk in 2026.
+  - [mbianchigaming](https://github.com/mbianchigaming) - for anything regarding videogames
+  
+</details>
+
+Open source orgs I am part of are typically shown in my profile.
 
 ---
 
