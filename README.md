@@ -79,7 +79,7 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - 🎧 **[Open Playlist Engine](mbianchidev/open-playlist-engine)** - The first implementation on top of the open playlist idea, mainly helping users migrating off Spotify to various targets
 - 🎤 **[find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** - A concert discovery service that doesn't absolutely suck like Songkick or Bandsintown - _probably will be focused on metal and most -core subgenres, sorry Taylor Swift fans but you probably don't need this as much as we do_
 - 🎶 **[Every Music](https://github.com/mbianchidev/every-music)** - A music-based social media experiment, giga WIP but an interesting concept I would love to explore (maybe bulding it leveraging ATProtocol and call it MusicSky?)
-- 🎸 **devoidofbeauty.com** - My (latest) band's website, we will publish our debut EP sometime in 2026?
+- 🎸 **[devoidofbeauty.com](https://devoidofbeauty.com)** - My (latest) band's website, our debut EP has been published 1st Aug 2026 on Bandcamp, listen to it [here](devoidofbeauty.bandcamp.com)
 
 ### Productivity & Finance
 - 💰 **[Fire Tools](https://github.com/fire-tools-inc/app)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
