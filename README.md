@@ -60,7 +60,7 @@ I tend to default to open source, MIT License, but sometimes I don't.
 
 ### DevTools
 
-- ❄️ **NixArc** - NixOS meets Arch Linux. A prototype OS, to explore the possibility of having a declarative system manifest inspired by NixOS within Arch.
+- ❄️ **NixArc** - NixOS meets Arch Linux. A prototype OS, to explore the possibility of having a declarative system manifest inspired by NixOS within Arch, it also finally solves audio driver issues in Linux.
 - ⚖️ **VSLocal** - the local-first AI IDE alternative that requires no account, API key, or cloud service. A VSCode fork, powered by open weight models. See [vslocal-test](https://github.com/mbianchidev/vslocal-test) for initial PoC (WIP).
 - 🌐 **Stainless** - A chromium-based productivity and dev oriented web browser: native adblock, sandboxed, clean search (goodbye sponsored/recommended content) and local/self hosted AI (optional).
 - 🦇 **moguri** - A harness for your AI that works on your terms, both in a CLI (TUI) format and a desktop app, forked from OpenCode
