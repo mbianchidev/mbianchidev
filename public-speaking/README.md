@@ -61,7 +61,8 @@ For a complete list of my available talks and my updated bio please visit:
 | # | Date | Event | Group | City | Country | Notes |
 |---|------|-------|-------|------|---------|-------|
 | 0 | Whenever | Your event | Your group/meetup | Your City or remote | Your country | Invite me to organize at matteo@mb-consulting.dev |
-| 19 | - | KCD SF Bay Area | Kubernetes Community Days (CNCF) | San Francisco | California, United States | Program Committee |
+| 20 | 5th Aug 2026 | KCD Melbourne 2026 | Kubernetes Community Days (CNCF) | Melbourne | Australia | Program Committee |
+| 19 | 9th Sep 2025 | KCD SF Bay Area 2025 | Kubernetes Community Days (CNCF) | San Francisco | California, United States | Program Committee |
 | 18 | 23-26 March 2026 | KubeCon EU 2025 | KubeCon (CNCF) | Amsterdam | Netherlands | Program Committee |
 | 17 | 9 Nov 2025 | KubeCon NA Co-located events 2025 | KubeCon (CNCF) | Atlanta | Georgia, United States | Program Committee |
 | 16 | 10-13 Nov 2025 | KubeCon NA 2025 | KubeCon (CNCF) | Atlanta | Georgia, United States | Program Committee |
