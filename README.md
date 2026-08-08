@@ -99,7 +99,7 @@ I tend to default to open source, MIT License, but sometimes I don't.
 ### Games & misc
 - 🎮 **[2DnD](https://github.com/mbianchidev/2dnd)** - A 2D game based on D&D, duh
 - 🕹️ **[Blockster 2D](https://github.com/mbianchigaming/blockster-2d)** - A 2D game developed during the Global Game Jam hackathon in Milan, fun to play, might de-archive it in the future but unlikely. Archived.
-- 😂 **[Mock Startup Website](https://github.com/mbianchidev/mock-startup-website)** - A satiric website mocking the average YC startup
+- 😂 **[My startup-like website](https://github.com/mbianchidev/mbianchi.dev)** - Just my website mocking a little bit the average YC startup
 
 Orgs I own include:
   
