@@ -1,5 +1,0 @@
-# 🛠️ Tech Stack
-
----
-
-Deprecated
