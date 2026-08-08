@@ -78,7 +78,7 @@ It's completely valid. ❤️ You need to:
 I really don't like to be touched, unless I explicitly gave consent for it.
 
 **My Preferences**:
-- ❌ Not a hugger on the job unless we know each other really well
+- ❌ Not a hugger on the job, unless we know each other well (I think most people can read the room)
 - ✅ Handshaker
 - ✅ High-fiver
 - ✅ Fist-bumper!
