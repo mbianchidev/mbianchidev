@@ -65,7 +65,7 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - 🌐 **Stainless** - A chromium-based productivity and dev oriented web browser: native adblock, sandboxed, clean search (goodbye sponsored/recommended content) and local/self hosted AI (optional).
 - 🦇 **moguri** - A harness for your AI that works on your terms, both in a CLI (TUI) format and a desktop app, forked from OpenCode
 - 📦 **[sendbox](https://github.com/mbianchidev/sendbox)** - An all-in-one sandbox for agents, integrated with devcontainers based on kata-containers
-- 🚢 **[porto](https://github.com/mbianchidev/porto)** - Your localhost apps orchestrator
+- 🚢 **[porto](https://github.com/mbianchidev/porto)** - Your self-hosted apps orchestrator
 - 🗃️ **[SQL not-so-lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
 - 💀 **[killswitch](https://github.com/mbianchidev/kill-switch)** - A low footprint resource manager and utility for your MacOS
 
