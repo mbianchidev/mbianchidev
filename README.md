@@ -60,20 +60,20 @@ I tend to default to open source, MIT License, but sometimes I don't.
 
 ### DevTools
 
-- ❄️ **NixArc** - NixOS meets Arch Linux. A prototype OS, to explore the possibility of having a declarative system manifest inspired by NixOS within Arch, it also finally solves audio driver issues in Linux.
-- ⚖️ **VSLocal** - the local-first AI IDE alternative that requires no account, API key, or cloud service. A VSCode fork, powered by open weight models. See [vslocal-test](https://github.com/mbianchidev/vslocal-test) for initial PoC (WIP).
-- 🌐 **Stainless** - A chromium-based productivity and dev oriented web browser: native adblock, sandboxed, clean search (goodbye sponsored/recommended content) and local/self hosted AI (optional).
 - 🦇 **moguri** - A harness for your AI that works on your terms, both in a CLI (TUI) format and a desktop app, forked from OpenCode
+- 🌐 **Stainless** - A chromium-based productivity and dev oriented web browser: native adblock, sandboxed, clean search (goodbye sponsored/recommended content) and local/self hosted AI (optional).
+- ⚖️ **VSLocal** - the local-first AI IDE alternative that requires no account, API key, or cloud service. A VSCode fork, powered by open weight models. See [vslocal-test](https://github.com/mbianchidev/vslocal-test) for initial PoC (WIP).
 - 📦 **[sendbox](https://github.com/mbianchidev/sendbox)** - An all-in-one sandbox for agents, integrated with devcontainers based on kata-containers
 - 🚢 **[porto](https://github.com/mbianchidev/porto)** - Your self-hosted apps orchestrator
 - 🗃️ **[SQL not-so-lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
 - 💀 **[killswitch](https://github.com/mbianchidev/kill-switch)** - A low footprint resource manager and utility for your MacOS
+- ❄️ **NixArc** - NixOS meets Arch Linux. A prototype OS, to explore the possibility of having a declarative system manifest inspired by NixOS within Arch, it also finally solves audio driver issues in Linux.
 
 ### Music
 
 - 🎛️ **Studio Duo** - A brand new DAW because Studio One has been acquired by Fender and it now kinda sucks.
 - 🎤 **yt2karaoke** - The must have for all good parties, convert youtube videos into karaoke experiences (powered by track2stem)
-- ⚒️ **Scream Forge** - A VST for metal singers, includes a chain with: a compressor, EQ, pitch up/down, exciter, demonizer (or beastifier), echo/reverb, de-esser and more
+- ⚒️ **Scream Forge** - A VST for metal singers, includes a chain with: a compressor, EQ, pitch up/down, exciter, echo/reverb, de-esser and more
 - 🎵 **[Track2Stem](https://github.com/mbianchidev/track2stem)** - Separate any track into multiple stems, with the cool kind of AI (Hybrid Spectrogram and Waveform Source Separation)
 - 🔊 **[AnyTrack Converter](https://github.com/mbianchidev/anytrack-converter)** - Convert any audio file or YouTube video to any format, with metadata editing
 - 📋 **[Open Playlist](https://github.com/mbianchidev/open-playlist)** - The foundation for an open standard for music playlists, no vendor lock-in
