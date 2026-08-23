@@ -86,7 +86,7 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - 💰 **[Fire Tools](https://github.com/fire-tools-inc/app)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
 - 🦊 **Fiscal Fox** - A self hosted accounting software: invoicing, contracts, quotations, expenses/receipts, time and trip tracking... Ideal for freelancers and small businesses
 - 📝 **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** - A free, open source LaTeX editor with real-time preview, basically OverLeaf but self hosted and free without any limits
-- 🖼️ **[ImgTools]([url](https://github.com/mbianchidev/img-tools))** - A free, open source image manipulation tool, to compress, convert, crop and resize images.
+- 🖼️ **[ImgTools](https://github.com/mbianchidev/img-tools)** - A free, open source image manipulation tool, to compress, convert, crop and resize images.
 - 📄 **[PDFTools](https://github.com/mbianchidev/pdf-tools)** - A simple set of PDF manipulation tools, no third-party uploads needed
 - ✅ **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** - An Eisenhower matrix todo app for productivity, stop guessing wtf to do with your time
 
