@@ -2,14 +2,14 @@
 
 ---
 
-**Last Updated**: 18 Feb 2026
+**Last Updated**: 02 Sept 2026
 **Inspired by**: [Kat Cosgrove's speaker rider](https://github.com/katcosgrove/katcosgrove/blob/main/speaking.md)
 
 ---
 
 ## 👋 Introduction
 
-Hi there!
+Hi there, it's Matteo!
 
 I'm happy that you're interested in having me speak at your tech event. I truly love open source, technology and the related communities so I'm always excited to have another opportunity to share a time and space to exchange ideas with others.
 
