@@ -9,7 +9,7 @@
 
 ## 👋 Introduction
 
-Hi there, it's Matteo!
+Hi there!
 
 I'm happy that you're interested in having me speak at your tech event. I truly love open source, technology and the related communities so I'm always excited to have another opportunity to share a time and space to exchange ideas with others.
 
@@ -22,10 +22,10 @@ However, I must say I have some requirements and standards for accepting a speak
 <table>
 <tr>
 <td>📝 <b>Bio</b></td>
-<td>Available at <a href="/public-speaking/home.md">public-speaking/home.md</a></td>
+<td>Available at <a href="/public-speaking/home.md">public-speaking/README.md</a></td>
 </tr>
 <tr>
-<td>📷 <b>Photos</b></td>
+<td>📷 <b>Photos available for speaker profile or website</b></td>
 <td>Available at <a href="/images/">images/</a></td>
 </tr>
 </table>
