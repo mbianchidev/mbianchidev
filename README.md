@@ -77,7 +77,7 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - 🎵 **[Track2Stem](https://github.com/mbianchidev/track2stem)** - Separate any track into multiple stems, with the cool kind of AI (Hybrid Spectrogram and Waveform Source Separation)
 - 🔊 **[AnyTrack Converter](https://github.com/mbianchidev/anytrack-converter)** - Convert any audio file or YouTube video to any format, with metadata editing
 - 📋 **[Open Playlist](https://github.com/mbianchidev/open-playlist)** - The foundation for an open standard for music playlists, no vendor lock-in
-- 🎧 **[Open Playlist Engine](mbianchidev/open-playlist-engine)** - The first implementation on top of the open playlist idea, mainly helping users migrating off Spotify to various targets
+- 🎧 **[Open Playlist Engine](https://github.com/mbianchidev/open-playlist-engine)** - The first implementation on top of the open playlist idea, mainly helping users migrating off Spotify to various targets
 - 🎤 **[find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** - A concert discovery service that doesn't absolutely suck like Songkick or Bandsintown - _probably will be focused on metal and most -core subgenres, sorry Taylor Swift fans but you probably don't need this as much as we do_
 - 🎶 **[Every Music](https://github.com/mbianchidev/every-music)** - A music-based social media experiment, giga WIP but an interesting concept I would love to explore (maybe bulding it leveraging ATProtocol and call it MusicSky?)
 - 🎸 **[devoidofbeauty.com](https://devoidofbeauty.com)** - My (latest) band's website, our debut EP has been published 1st Aug 2026 on Bandcamp, listen to it [here](devoidofbeauty.bandcamp.com)
