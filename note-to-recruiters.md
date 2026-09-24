@@ -155,7 +155,7 @@ I'm open to full-time with some flexibility and limitations to be discussed on a
 
 > While I might not be actively looking, I'm always open to new opportunities
 
-### 💰 Salary Expectations (as of 2024)
+### 💰 Salary Expectations (as of Sep 2026)
 
 <table>
 <tr>
@@ -164,7 +164,7 @@ I'm open to full-time with some flexibility and limitations to be discussed on a
 </tr>
 <tr>
 <td><b>United States</b></td>
-<td>Starting from <b>250k base USD/year (remote anywhere) or 300k base USD/year for Bay Area, Seattle, whatever</b> + bonus + equity + benefits<br>(Sponsorship needed - O-1 visa possible)</td>
+<td>Starting from <b>250k base USD/year (remote anywhere) or 300k base USD/year for Bay Area, Seattle</b> + bonus + equity + benefits<br>(Sponsorship needed - possibly O-1 visa eligible)</td>
 </tr>
 </table>
 
