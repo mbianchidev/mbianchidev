@@ -87,7 +87,7 @@ Must allow me to:
 ### 🚀 Company Stage
 - Startup/scaleup (Series B+)
 - Low bureaucracy - so you can even be big tech if you allow me to have little BS in my workday
-- Ability to move fast, have ownership and GROW. I expect to exceed expectations after less than a year in the company and to be rewarded for it. I am a hard worker.
+- Ability to move fast, have ownership agency and GROW. I expect to exceed expectations after less than a year in the company and to be rewarded for it. I am a hard worker.
 
 ### 🌐 Work Style
 - **Full-remote** - work from anywhere, time zone flexible up to an extent
@@ -137,13 +137,13 @@ Examples of what I mean:
 
 ### 💵 Rates
 - **Hourly Rate**: Starting from **150€/hour** (slightly negotiable)
-- **Daily Rate**: 8 × hourly rate
+- **Daily Rate**: 8 × hourly rate (I can work for more hours too, but that has a price)
 
 ### 📉 Discounted Rates Available For:
 - **Non-profit organizations**
 - **Meaningful work** - e.g. sustainability, children education...
 - **Pre-seed/seed startups** - If I really dig both the idea and the founder(s)
-  - Requires: 0.2-5% of total company shares
+  - Requires: 0.2-3% of total company shares
   - Note: *Series A+ gets the full price, sorry.*
 
 ### 🕐 Full-Time Consideration
@@ -153,7 +153,7 @@ I'm open to full-time with some flexibility and limitations to be discussed on a
 
 ## 💼 For Full-Time Employment
 
-> While I might not be actively looking, I'm always open to new opportunities
+> While I might not be actively looking, I'm always open to new opportunities.
 
 ### 💰 Salary Expectations (as of Sep 2026)
 
@@ -188,7 +188,7 @@ I'm open for relocation, but not in every area.
 🚩🚩🚩🚩🚩🚩
 
 ### 📊 My Interview Stats
-- **Success rate**: ~63.7% out of 150+ technical interviews in the past 10+ years
+- **Success rate**: ~64.2% out of 180+ technical interviews in the past 10+ years
 - I'm not afraid of coding interviews
 - I just don't like wasting time with self-contained riddles that a new grad could solve by just memorizing algorithms and data structures 101 or leetcoding all day for 2 weeks
 
@@ -212,11 +212,11 @@ I have some open source code on my GitHub profile, so you can check that out if 
 </details>
 
 ### 🎯 About Interview Numbers
-I do sparring interviews once every _some_-months, just to keep up with the market and understand if my market value has increased or not.
+I do sparring interviews once every _some_-months, close to 6-ish. Just to keep up with the market and understand if my market value has increased or not.
 
-> **That said**, if you have a fair career development and growth plan in place (with salary evaluation included) and a good internal mobility in your company, you have nothing to worry about. Literally.
+> **That said**, if you have a fair career development and growth plan in place (with a periodic salary bump included) and a good internal mobility in your company, you have nothing to worry about. Literally.
 
-p.s. a 1% yearly increase when your company makes billions (or millions) is so disrespectful. At least match the inflation in my country? Typically 2-3%. C'MON DUDE.
+p.s. a 1% or worse 0.35% yearly increase when your company makes billions (or millions) is so disrespectful. At least match the inflation in my country? Typically 2-3%. C'MON DUDE.
 
 ---
 
