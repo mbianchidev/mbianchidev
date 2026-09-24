@@ -5,8 +5,8 @@
 ## 👨‍💻 Who Am I?
 
 I consider myself a mix between:
-- **Software Engineer**
-- **Platform Engineer** (with DevOps and SRE background)
+- **Senior/Staff Software Engineer**
+- **Senior/Staff Platform Engineer** (with DevOps and SRE background)
 - A pinch of **leadership** (more than management) and **developer relations**
 - A love (and hate) for both **Product** and **Customer-related** roles
 
