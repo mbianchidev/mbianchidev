@@ -62,12 +62,10 @@ I tend to default to open source, MIT License, but sometimes I don't.
 
 - 🦇 **moguri** - A harness for your AI that works on your terms, both in a CLI (TUI) format and a desktop app, forked from OpenCode
 - 🌐 **Stainless** - A chromium-based productivity and dev oriented web browser: native adblock, sandboxed, clean search (goodbye sponsored/recommended content) and local/self hosted AI (optional).
-- ⚖️ **VSLocal** - the local-first AI IDE alternative that requires no account, API key, or cloud service. A VSCode fork, powered by open weight models. See [vslocal-test](https://github.com/mbianchidev/vslocal-test) for initial PoC (WIP).
-- 📦 **[sendbox](https://github.com/mbianchidev/sendbox)** - An all-in-one sandbox for agents, integrated with devcontainers based on kata-containers
+- 📦 **[sendbox](https://github.com/mbianchidev/sendbox)** - [WIP] An all-in-one sandbox for agents, integrated with devcontainers based on kata-containers
 - 🚢 **[porto](https://github.com/mbianchidev/porto)** - Your self-hosted apps orchestrator
 - 🗃️ **[SQL not-so-lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
 - 💀 **[killswitch](https://github.com/mbianchidev/kill-switch)** - A low footprint resource manager and utility for your MacOS
-- ❄️ **NixArc** - NixOS meets Arch Linux. A prototype OS, to explore the possibility of having a declarative system manifest inspired by NixOS within Arch, it also finally solves audio driver issues in Linux.
 
 ### Music
 
@@ -78,9 +76,9 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - 🔊 **[AnyTrack Converter](https://github.com/mbianchidev/anytrack-converter)** - Convert any audio file or YouTube video to any format, with metadata editing
 - 📋 **[Open Playlist](https://github.com/mbianchidev/open-playlist)** - The foundation for an open standard for music playlists, no vendor lock-in
 - 🎧 **[Open Playlist Engine](https://github.com/mbianchidev/open-playlist-engine)** - The first implementation on top of the open playlist idea, mainly helping users migrating off Spotify to various targets
-- 🎤 **[find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** - A concert discovery service that doesn't absolutely suck like Songkick or Bandsintown - _probably will be focused on metal and most -core subgenres, sorry Taylor Swift fans but you probably don't need this as much as we do_
-- 🎶 **[Every Music](https://github.com/mbianchidev/every-music)** - A music-based social media experiment, giga WIP but an interesting concept I would love to explore (maybe bulding it leveraging ATProtocol and call it MusicSky?)
 - 🎸 **[devoidofbeauty.com](https://devoidofbeauty.com)** - My (latest) band's website, our debut EP has been published 1st Aug 2026 on Bandcamp, listen to it [here](devoidofbeauty.bandcamp.com)
+- 🎤 **[find-concerts.io](https://github.com/mbianchidev/find-concerts-io)** - [WIP] A concert discovery service that doesn't absolutely suck like Songkick or Bandsintown - _probably will be focused on metal and most -core subgenres, sorry Taylor Swift fans but you probably don't need this as much as we do_
+- 🎶 **[Every Music](https://github.com/mbianchidev/every-music)** - [WIP] A music-based social media experiment, giga WIP but an interesting concept I would love to explore (maybe bulding it leveraging ATProtocol and call it MusicSky?)
 
 ### Productivity & Finance
 - 💰 **[Fire Tools](https://github.com/fire-tools-inc/app)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
@@ -149,6 +147,7 @@ Open source orgs I am part of are typically shown in my profile.
     
     My stack for doing that is the following:
 
+     - Favorite IDE: [Zed](https://github.com/zed-industries/zed)
      - Favorite orchestrator: Kubernetes, duh. BUT. I'm not a fan of using it when it's not needed, so container managed services like ECS or even serverless can be totally fine too.
      - Cloud provider tier list: 
      1. God tier - Google Cloud Platform
