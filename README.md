@@ -60,16 +60,16 @@ I tend to default to open source, MIT License, but sometimes I don't.
 
 ### DevTools
 
-- 🦇 **moguri** - A harness for your AI that works on your terms, both in a CLI (TUI) format and a desktop app, forked from OpenCode
+- 🦇 **moguri** - A harness for your AI that works on your terms, both in a CLI (TUI) format and a desktop app
 - 🌐 **Stainless** - A chromium-based productivity and dev oriented web browser: native adblock, sandboxed, clean search (goodbye sponsored/recommended content) and local/self hosted AI (optional).
-- 📦 **[sendbox](https://github.com/mbianchidev/sendbox)** - [WIP] An all-in-one sandbox for agents, integrated with devcontainers based on kata-containers
-- 🚢 **[porto](https://github.com/mbianchidev/porto)** - Your self-hosted apps orchestrator
+- 📦 **[sendbox](https://github.com/mbianchidev/sendbox)** - An all-in-one sandbox for agents, integrated with devcontainers based on kata-containers
+- 🚢 **[porto](https://github.com/mbianchidev/porto)** - A drop in replacement for orbstack, but also a self-hosted orchestrator for homelabs
 - 🗃️ **[SQL not-so-lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
-- 💀 **[killswitch](https://github.com/mbianchidev/kill-switch)** - A low footprint resource manager and utility for your MacOS
+- 💀 **[killswitch](https://github.com/mbianchidev/kill-switch)** - A low footprint resource manager and utility for MacOS
 
 ### Music
 
-- 🎛️ **[Studio Duo](https://github.com/mbianchidev/studio-duo)** - A brand new DAW because Studio One has been acquired by Fender and it now kinda sucks
+- 🎛️ **[Studio Duo](https://github.com/mbianchidev/studio-duo)** - A brand new DAW(n) for music production
 - 🎤 **yt2karaoke** - The must have for all good parties, convert youtube videos into karaoke experiences (powered by track2stem)
 - ⚒️ **Scream Forge** - A (paid) VST for metal singers, includes a chain with: a compressor, EQ, pitch up/down, exciter, echo/reverb, de-esser and more
 - 🎵 **[Track2Stem](https://github.com/mbianchidev/track2stem)** - Separate any track into multiple stems, with the cool kind of AI (Hybrid Spectrogram and Waveform Source Separation)
@@ -82,8 +82,8 @@ I tend to default to open source, MIT License, but sometimes I don't.
 
 ### Productivity & Finance
 - 💰 **[Fire Tools](https://github.com/fire-tools-inc/app)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
-- 🦊 **Fiscal Fox** - A self hosted accounting software: invoicing, contracts, quotations, expenses/receipts, time and trip tracking... Ideal for freelancers and small businesses
-- 📖 **[DeNote](https://github.com/mbianchidev/denote)** - Complete markdown-first editor with minimal built-in plugins
+- 🦊 **Fiscal Fox** - A self-hosted accounting software: invoicing, contracts, quotations, expenses/receipts, time and trip tracking... Ideal for freelancers and small businesses
+- 📖 **[Denote](https://github.com/mbianchidev/denote)** - Complete markdown-first editor with minimal built-in plugins
 - 📝 **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** - A free, open source LaTeX editor with real-time preview, basically OverLeaf but self hosted and free without any limits
 - 🖼️ **[ImgTools](https://github.com/mbianchidev/img-tools)** - A free, open source image manipulation tool, to compress, convert, crop and resize images
 - 📄 **[PDFTools](https://github.com/mbianchidev/pdf-tools)** - A simple set of PDF manipulation tools, no third-party uploads needed
