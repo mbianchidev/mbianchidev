@@ -106,13 +106,13 @@ Orgs I own include:
   
 <details>
   
-  ## Standalone projects
+  ### Standalone projects
   - [fire-tools-inc](https://github.com/fire-tools-inc) - for the FIRE Tools project
   - [open-playlist](https://github.com/open-playlist) - the way to own your musical catalog
   - [denote-io](https://github.com/denote-io) - the way to think clearly and write structured notes
   - [moguri-dev](https://github.com/moguri-dev) - the way to harness AI for serious engineering work
 
-  ## Synctune
+  ### Synctune
   - [synctune-io](https://github.com/synctune-io) - for anything owned directly by Synctune (my own company)
   - [synctune-music](https://github.com/synctune-music) - for anything related to music
   - [synctune-open](https://github.com/synctune-open) - for anything open sourced by Synctune, usually DevTools
@@ -121,7 +121,7 @@ Orgs I own include:
   - [synctune-gaming](https://github.com/synctune-gaming) - for any videogame ideated by Synctune
   - [synctune-finance](https://github.com/synctune-finance) - for anything finance and personal finance
 
-  ## Other orgs
+  ### Other orgs
   These are more personal projects that did not really fit my main profile:
   - [mbianchiutils](https://github.com/mbianchiutils) - for any little utility project that doesn't belong in my profile
   - [mbianchicareers](https://github.com/mbianchicareers) - for anything career related, most of these are private, some are public. All will be public when I retire.
