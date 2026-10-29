@@ -65,6 +65,7 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - 📦 **[sendbox](https://github.com/mbianchidev/sendbox)** - An all-in-one sandbox for agents, integrated with devcontainers based on kata-containers
 - 🚢 **[porto](https://github.com/mbianchidev/porto)** - A drop in replacement for orbstack, but also a self-hosted orchestrator for homelabs
 - 🗃️ **[SQL not-so-lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
+- 🪶 **etcqlite** - etcd v3-compatible store backed by SQLite, with a non-Raft clustered mode
 - 💀 **[killswitch](https://github.com/mbianchidev/kill-switch)** - A low footprint resource manager and utility for MacOS
 
 ### Music
