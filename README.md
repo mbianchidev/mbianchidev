@@ -32,14 +32,14 @@ Have you seen Everything Everywhere All at Once? I am pretty much the tech versi
 
 </div>
 
-- I offer freelance services:
+- I offer B2B services via [Synctune Consulting](https://github.com/synctune-customers):
   - Kubernetes assessment, optimization and strategy (_not really for startups, you typically don't need that until you hit elastic usage growth, with unpredictable peaks_) 
   - Platform Engineering (_again, usually not for startups until they hit product market fit and need to scale their infra (teams)_)
   - Helping you hire the right engineers for the job (for every software company)
   - Fractionally helping you get shit (and software) done until you hire the right engineers for the job 
   - Product Market Fit & Go To Market (_this is mainly for startups and scaleups or enterprises with innovative product lines on top of their current business_)
   - Open Source strategy (for every company, regardless of their domain)
-- Mentor engineers [via Mentorcruise](https://mentorcruise.com/mentor/matteobianchi/) and other channels
+- Mentor engineers [on Mentorcruise](https://mentorcruise.com/mentor/matteobianchi/) and other channels via [Synctune Education](https://github.com/synctune-edu)
   - a very selected few mentees at a time (usually 2, maximum 3)
   - no 100% beginners
   - no leeching (if you are ready for interviewing, acquired the knowledge you wanted or you reached your goal, there's no point in me to keep mentoring you)
