@@ -105,9 +105,24 @@ I tend to default to open source, MIT License, but sometimes I don't.
 Orgs I own include:
   
 <details>
-
+  
+  ## Standalone projects
   - [fire-tools-inc](https://github.com/fire-tools-inc) - for the FIRE Tools project
-  - [synctune-io](https://github.com/synctune-io) - for anything music related that doesn't fit my profile
+  - [open-playlist](https://github.com/open-playlist) - the way to own your musical catalog
+  - [denote-io](https://github.com/denote-io) - the way to think clearly and write structured notes
+  - [moguri-dev](https://github.com/moguri-dev) - the way to harness AI for serious engineering work
+
+  ## Synctune
+  - [synctune-io](https://github.com/synctune-io) - for anything owned directly by Synctune (my own company)
+  - [synctune-music](https://github.com/synctune-music) - for anything related to music
+  - [synctune-open](https://github.com/synctune-open) - for anything open sourced by Synctune, usually DevTools
+  - [synctune-edu](https://github.com/synctune-edu) - for anything regarding tech education
+  - [synctune-customers](https://github.com/synctune-customers) - for anything that my customers own - mainly private repos
+  - [synctune-gaming](https://github.com/synctune-gaming) - for any videogame ideated by Synctune
+  - [synctune-finance](https://github.com/synctune-finance) - for anything finance and personal finance
+
+  ## Other orgs
+  These are more personal projects that did not really fit my main profile:
   - [mbianchiutils](https://github.com/mbianchiutils) - for any little utility project that doesn't belong in my profile
   - [mbianchicareers](https://github.com/mbianchicareers) - for anything career related, most of these are private, some are public. All will be public when I retire.
   - [mbianchidemos](https://github.com/mbianchidemos) - for code demos, talks and anything regarding my DevRel side, aside from this [one org](https://github.com/pull-request-wars-fluxcd) which required to be standalone for a KubeCon talk in 2026.
