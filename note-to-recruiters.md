@@ -4,20 +4,20 @@
 
 ## 👨‍💻 Who Am I?
 
-I consider myself a mix between:
-- **Senior/Staff Software Engineer**
-- **Senior/Staff Platform Engineer** (with DevOps and SRE background)
-- A pinch of **leadership** (more than management) and **developer relations**
-- A love (and hate) for both **Product** and **Customer-related** roles
+I am a **Staff Software Engineer** but also:
+- A **Staff Platform Engineer** (with a heavy SRE-leaning background and history)
+- A pinch of **leadership** (more than management) and a lot of internal **developer relations** (I've been a Developer Relations Engineer before)
+- A love (and hate) for both **Product** and **Customer-related** roles, I've worked at GitHub as a Solutions Engineer doing both pre-Sales and post-Sales.
 
-### Technical Expertise
-- 🐳 Kubernetes & cloud 
-- 🔄 Platform Engineering 
-- 💻 Coding in multiple programming languages (Java, Python, Golang, TypeScript...) but I mean with AI any language really
-- 🎓 Mentoring
-- 🎤 Public speaking (20+ international engagements, not counting meetups but just actual conferences)
-- ✍️ Tech writer (I don't do this a lot anymore but I can still do it)
-- 🌐 Community leader - I mean, maintainership and all.
+### Some of what I do
+
+- 🐳 **Kubernetes & anything cloud** is my main field of expertise, which doesn't mean I know everything, it just means that I can figure out most stuff, quickly.
+- 🔄 **Platform Engineering** is what I did before it was even named as such, when IDP meant Internal Developer Portal and it was all about an API Gateway and Open API Specs (RIP MashApe)
+- 💻 **Coding** in multiple programming languages and **engineering** reliable and scalable systems in: Java (I've touched 1.4 all the way up to Java 27+, mainly with various Spring versions and Quarkus), Python (mainly vanilla with some Flask and Django here and there, versions touched: 3.5-3.15+), Golang (for anything k8s related), TypeScript/Node (for a lot of stuff), but I mean with AI I can work with pretty much any language if I'm given enough time and tokens. I successfully maintain multiple Rust codebases, which is wild thinking that I started with Rust in 2025.
+- 🎓 **Mentoring/Coaching**, been doing that for a good while now, I love it.
+- 🎤 **Public speaking** I spoke at 22+ international conferences, not counting meetups or virtual podcasts/interviews, it would be too many
+- ✍️ **Tech writing / blogging** when I have time - I can break down complex topics in a simple way and have a tendency of having strong opinions that go viral on HackerNews.
+- 🌐 **Open Source** from contributions to community leadership - also open source maintainership, CNCF ambassadorship, and in general open source stewardship.
 
 > As a neuro-spicy individual I think and operate differently from the majority but I think it is my strength and I'm not afraid to challenge the status quo.
 
@@ -155,16 +155,16 @@ I'm open to full-time with some flexibility and limitations to be discussed on a
 
 > While I might not be actively looking, I'm always open to new opportunities.
 
-### 💰 Salary Expectations (as of Sep 2026)
+### 💰 Salary Expectations (as of Nov 2026)
 
 <table>
 <tr>
 <td><b>EMEA</b></td>
-<td>Starting from <b>180k base EUR/year</b> + bonus + equity + benefits</td>
+<td>Starting from <b>200k base EUR/year</b> + bonus + equity + benefits</td>
 </tr>
 <tr>
 <td><b>United States</b></td>
-<td>Starting from <b>250k base USD/year (remote anywhere) or 300k base USD/year for Bay Area, Seattle</b> + bonus + equity + benefits<br>(Sponsorship needed - possibly O-1 visa eligible)</td>
+<td>Starting from <b>275k base USD/year (remote anywhere) or 320k base USD/year for Bay Area, Seattle</b> + bonus + equity + benefits<br>(Sponsorship needed - possibly O-1 visa eligible)</td>
 </tr>
 </table>
 
@@ -212,7 +212,7 @@ I have some open source code on my GitHub profile, so you can check that out if 
 </details>
 
 ### 🎯 About Interview Numbers
-I do sparring interviews once every _some_-months, close to 6-ish. Just to keep up with the market and understand if my market value has increased or not.
+I do sparring interviews once every _some_-months, close to 8-ish. Just to keep up with the market and understand if my market value has increased or not.
 
 > **That said**, if you have a fair career development and growth plan in place (with a periodic salary bump included) and a good internal mobility in your company, you have nothing to worry about. Literally.
 
