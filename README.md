@@ -111,6 +111,7 @@ Orgs I own include:
   - [open-playlist](https://github.com/open-playlist) - the way to own your musical catalog
   - [denote-io](https://github.com/denote-io) - the way to think clearly and write structured notes
   - [moguri-dev](https://github.com/moguri-dev) - the way to harness AI for serious engineering work
+  - [open-sales](https://github.com/open-sales-engineering) - software to make sales (engineering) more automated and enjoyable
 
   ### Synctune
   - [synctune-io](https://github.com/synctune-io) - for anything owned directly by Synctune (my own company)
