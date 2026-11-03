@@ -2,7 +2,7 @@
 
 # Hi there!
 
-I'm a metal(core) singer with 12+ years of experience in tech.
+I'm a metal(core) singer with over a decade of experience in tech.
 
 Currently living in Northern Europe and working at **GitHub** (you are looking at it) and I'm the founder of [Synctune](https://github.com/synctune-io).
 
