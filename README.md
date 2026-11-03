@@ -60,10 +60,10 @@ I tend to default to open source, MIT License, but sometimes I don't.
 
 ### DevTools
 
-- 🦇 **moguri** - A harness for your AI that works on your terms, both in a CLI (TUI) format and a desktop app
+- 🦇 **Moguri** - A harness for your AI that works on your terms, both in a CLI (TUI) format and a desktop app
 - 🌐 **Stainless** - A chromium-based productivity and dev oriented web browser: native adblock, sandboxed, clean search (goodbye sponsored/recommended content) and local/self hosted AI (optional).
-- 📦 **[sendbox](https://github.com/mbianchidev/sendbox)** - An all-in-one sandbox for agents, integrated with devcontainers based on kata-containers
-- 🚢 **[porto](https://github.com/mbianchidev/porto)** - A drop in replacement for orbstack, but also a self-hosted orchestrator for homelabs
+- 📦 **[Sendbox](https://github.com/mbianchidev/sendbox)** - An all-in-one sandbox for agents, integrated with devcontainers based on kata-containers
+- 🚢 **[Porto](https://github.com/mbianchidev/porto)** - A drop in replacement for orbstack, but also a self-hosted orchestrator for homelabs
 - 🗃️ **[SQL not-so-lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
 - 🪶 **etcqlite** - An etcd store backed by SQLite, with a non-Raft clustered mode
 - 🌻 **Open Field Engineer** - A specialized harness and superapp for pre and post sales work
@@ -86,7 +86,7 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - 🦊 **Fiscal Fox** - A self-hosted accounting software: invoicing, contracts, quotations, expenses/receipts, time and trip tracking... Ideal for freelancers and small businesses
 - 📖 **[Denote](https://github.com/mbianchidev/denote)** - Complete markdown-first editor with minimal built-in plugins
 - 📝 **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** - A free, open source LaTeX editor with real-time preview, basically OverLeaf but self hosted and free without any limits
-- 💀 **[killswitch](https://github.com/mbianchidev/kill-switch)** - A low footprint resource manager and utility for MacOS
+- 💀 **[Kill-switch](https://github.com/mbianchidev/kill-switch)** - A low footprint resource manager and utility for MacOS
 - 🖼️ **[ImgTools](https://github.com/mbianchidev/img-tools)** - A free, open source image manipulation tool, to compress, convert, crop and resize images
 - 📄 **[PDFTools](https://github.com/mbianchidev/pdf-tools)** - A simple set of PDF manipulation tools, no third-party uploads needed
 - ✅ **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** - An Eisenhower matrix todo app for productivity, stop guessing wtf to do with your time
