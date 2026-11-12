@@ -61,7 +61,7 @@ I tend to default to open source, MIT License, but sometimes I don't.
 ### DevTools
 
 - 🦇 **Moguri** - A harness for your AI that works on your terms, both in a CLI (TUI) format and a desktop app
-- 🌐 **Stainless** - A chromium-based productivity and dev oriented web browser: native adblock, sandboxed, clean search (goodbye sponsored/recommended content) and local/self hosted AI (optional).
+- 🌐 **[Stainless](https://github.com/mbianchidev/stainless)** - A chromium-based productivity and dev oriented web browser: native adblock, sandboxed, clean search (goodbye sponsored/recommended content) and local/self hosted AI (optional).
 - 📦 **[Sendbox](https://github.com/mbianchidev/sendbox)** - An all-in-one sandbox for agents, integrated with devcontainers based on kata-containers
 - 🚢 **[Porto](https://github.com/mbianchidev/porto)** - A drop in replacement for orbstack, but also a self-hosted orchestrator for homelabs
 - 🗃️ **[SQL not-so-lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
