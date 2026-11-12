@@ -58,7 +58,7 @@ If a project has no link it's closed source for the time being.
 
 I tend to default to open source, MIT License, but sometimes I don't.
 
-### DevTools
+### Tools & Infra
 
 - 🦇 **Moguri** - A harness for your AI that works on your terms, both in a CLI (TUI) format and a desktop app
 - 🌐 **[Stainless](https://github.com/mbianchidev/stainless)** - A chromium-based productivity and dev oriented web browser: native adblock, sandboxed, clean search (goodbye sponsored/recommended content) and local/self hosted AI (optional).
