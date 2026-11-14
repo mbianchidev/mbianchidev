@@ -67,6 +67,8 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - 🗃️ **[SQL not-so-lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
 - 🪶 **etcqlite** - An etcd store backed by SQLite, with a non-Raft clustered mode
 - 🌻 **Open Field Engineer** - A specialized harness and superapp for pre and post sales work
+- 🚢 **[Shipwatch](https://github.com/mbianchidev/shipwatch)** - Tiny macOS menu bar app watching releases, CI, issues and PRs
+- 💀 **[Kill-switch](https://github.com/mbianchidev/kill-switch)** - A low footprint resource manager and utility for MacOS
 
 ### Music
 
@@ -86,7 +88,6 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - 🦊 **Fiscal Fox** - A self-hosted accounting software: invoicing, contracts, quotations, expenses/receipts, time and trip tracking... Ideal for freelancers and small businesses
 - 📖 **[Denote](https://github.com/mbianchidev/denote)** - Complete markdown-first editor with minimal built-in plugins
 - 📝 **[LaTeX Editor](https://github.com/mbianchidev/latex-editor)** - A free, open source LaTeX editor with real-time preview, basically OverLeaf but self hosted and free without any limits
-- 💀 **[Kill-switch](https://github.com/mbianchidev/kill-switch)** - A low footprint resource manager and utility for MacOS
 - 🖼️ **[ImgTools](https://github.com/mbianchidev/img-tools)** - A free, open source image manipulation tool, to compress, convert, crop and resize images
 - 📄 **[PDFTools](https://github.com/mbianchidev/pdf-tools)** - A simple set of PDF manipulation tools, no third-party uploads needed
 - ✅ **[Eisen Todo](https://github.com/mbianchidev/eisen-todo)** - An Eisenhower matrix todo app for productivity, stop guessing wtf to do with your time
