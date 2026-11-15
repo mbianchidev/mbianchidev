@@ -4,9 +4,9 @@
 
 I'm a metal(core) singer with over a decade of experience in tech.
 
-Currently living in Northern Europe and working at **GitHub** (you are looking at it) and I'm the founder, CEO and only employee of [Synctune](https://github.com/synctune-io).
+Currently living in Northern Europe I'm the founder, CEO and only employee of [Synctune](https://github.com/synctune-io).
 
-During over a decade in the tech space I've been hopping in Software Engineering, Platform Engineering (lots of k8s), Developer Relations, Field Marketing, Sales/Revenue Engineering, co-founding a startup and freelancing which is basically me being a one-man company.
+During over a decade in the tech space I've been hopping in Software Engineering, Platform Engineering (lots of k8s), Developer Relations, Field Marketing, Sales/Revenue Engineering, co-founding a startup, working at GitHub (literally) and freelancing which is basically me being a one-man company.
 
 Have you seen Everything Everywhere All at Once? I am pretty much the tech version of that.
 
