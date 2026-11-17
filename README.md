@@ -67,7 +67,7 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - 🗃️ **[SQL not-so-lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
 - 🪶 **etcqlite** - An etcd store backed by SQLite, with a non-Raft clustered mode
 - 🌻 **Open Field Engineer** - A specialized harness and superapp for pre and post sales work
-- 🚢 **[Shipwatch](https://github.com/mbianchidev/shipwatch)** - Tiny macOS menu bar app watching releases, CI, issues and PRs
+- 🚢 **[Shipwatch](https://github.com/mbianchidev/shipwatch)** - Tiny macOS menu bar app watching releases, CI, issues, PRs and vulnerabilities
 - 💀 **[Kill-switch](https://github.com/mbianchidev/kill-switch)** - A low footprint resource manager and utility for MacOS
 - 🤫 Irref*table proof - just a framework around testing
 
