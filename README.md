@@ -64,6 +64,7 @@ I tend to default to open source, MIT License, but sometimes I don't.
 - 🌐 **[Stainless](https://github.com/mbianchidev/stainless)** - A chromium-based productivity and dev oriented web browser: native adblock, sandboxed, clean search (goodbye sponsored/recommended content) and local/self hosted AI (optional).
 - 📦 **[Sendbox](https://github.com/mbianchidev/sendbox)** - An all-in-one containerized sandbox for agentic work, runnable via CLI with a [fleet](https://github.com/mbianchidev/sendbox-fleet) option.
 - 🚢 **[Porto](https://github.com/mbianchidev/porto)** - A drop in replacement for orbstack, but also a self-hosted orchestrator for homelabs
+- 🏙️ **Selfhosted City** - Turns MacBooks and Windows PCs into free GitHub Actions self-hosted runners for private repos and orgs: ephemeral VMs via Porto, Windows and WSL2 services, or ARC on Kubernetes, with a local dashboard
 - 🗃️ **[SQL not-so-lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
 - 🪶 **etcqlite** - An etcd store backed by SQLite, with a non-Raft clustered mode
 - 🌻 **Open Field Engineer** - A specialized harness and superapp for pre and post sales work
