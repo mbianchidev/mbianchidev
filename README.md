@@ -117,6 +117,7 @@ Orgs I own include:
   - [moguri-dev](https://github.com/moguri-dev) - the way to harness AI for serious engineering work
   - [sendbox-dev](https://github.com/sendbox-dev) - the way to sendbox AI for serious engineering work
   - [porto-containers](https://github.com/porto-containers) - self-hosting and development made incredibly easy - fully container and Kubernetes friendly
+  - [stainless-browser](https://github.com/stainless-browser) - a chromium based browser, privacy driven, user and agent friendly
   - [open-sales-engineering](https://github.com/open-sales-engineering) - software to make sales (engineering) more automated and enjoyable
 
   ### Synctune
