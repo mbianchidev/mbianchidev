@@ -56,7 +56,7 @@ I also work on a number of different software projects, some for keeping myself 
 
 One line per area, expand it for the repos. If a project has no link it's closed source for the time being. I tend to default to open source, MIT License, but sometimes I don't.
 
-The full catalog, with live apps and websites, is on [synctune.it/projects](https://synctune.it/projects.html).
+The full catalog, with live apps and websites, is on [synctune.it/projects](https://synctune.it/projects).
 
 <details>
 <summary><b>🛠️ Tools & Infra</b>: Moguri, Stainless, SendBox, Porto, Selfhosted City, SQL not-so-lite, etcqlite, Open Field Engineer, Shipwatch, Kill-switch</summary>
