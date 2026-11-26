@@ -136,7 +136,7 @@ The full catalog, with live apps and websites, is on [synctune.it/projects](http
 | Synctune | Website | GitHub |
 |---|---|---|
 | 🏢 Synctune | [synctune.it](https://synctune.it) | [synctune-io](https://github.com/synctune-io) |
-| 🎵 Music | [music.synctune.it](https://music.synctune.it) | [synctune-music](https://github.com/synctune-music) |
+| 🎵 Music | [music.synctune.it](https://music.synctune.it) · [b143ck](https://b143ck.synctune.it) | [synctune-music](https://github.com/synctune-music) |
 | 🔓 Open | [open.synctune.it](https://open.synctune.it) | [synctune-open](https://github.com/synctune-open) |
 | 🎓 Edu | [edu.synctune.it](https://edu.synctune.it) | [synctune-edu](https://github.com/synctune-edu) |
 | 🤝 Consulting | [consulting.synctune.it](https://consulting.synctune.it) | [synctune-customers](https://github.com/synctune-customers) |
