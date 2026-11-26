@@ -54,12 +54,14 @@ I also work on a number of different software projects, some for keeping myself 
 
 </div>
 
-One line per area, expand it for the repos. If a project has no link it's closed source for the time being. I tend to default to open source, MIT License, but sometimes I don't.
+One line per area, expand it for the repos. If a project has no link it's closed source for the time being. 
+
+I tend to default to open source, MIT License, but sometimes I don't.
 
 The full catalog, with live apps and websites, is on [synctune.it/projects](https://synctune.it/projects).
 
 <details>
-<summary><b>🛠️ Tools & Infra</b>: Moguri, Stainless, SendBox, Porto, Selfhosted City, SQL not-so-lite, etcqlite, Open Field Engineer, Shipwatch, Kill-switch</summary>
+<summary><b>🛠️ Tools & Infra</b></summary>
 
 - 🦇 **[Moguri](https://github.com/moguri-dev/moguri)** - A harness for your AI that works on your terms, both in a CLI (TUI) format and a desktop app
 - 🌐 **[Stainless](https://github.com/stainless-browser/stainless)** - A chromium-based productivity and dev oriented web browser: native adblock, sandboxed, clean search (goodbye sponsored/recommended content) and local/self hosted AI (optional).
@@ -71,12 +73,13 @@ The full catalog, with live apps and websites, is on [synctune.it/projects](http
 - 🌻 **Open Field Engineer** - A specialized harness and superapp for pre and post sales work
 - 🚢 **[Shipwatch](https://github.com/mbianchidev/shipwatch)** - Tiny macOS menu bar app watching releases, CI, issues, PRs and vulnerabilities
 - 💀 **[Kill-switch](https://github.com/mbianchidev/kill-switch)** - A low footprint resource manager and utility for MacOS
+- 💾 **mDrive** - Google Drive but without Google involved (self-hosted)
 - 🤫 Irref*table proof - just a framework around testing
 
 </details>
 
 <details>
-<summary><b>🎵 Music</b>: Studio Duo, YT2Karaoke, Scream Forge, Track2Stem, AnyTrack Converter, Open Playlist, Open Playlist Engine, Devoid of Beauty, b143ck.music, find-concerts.io, Every Music</summary>
+<summary><b>🎵 Music</b></summary>
 
 - 🎛️ **[Studio Duo](https://github.com/mbianchidev/studio-duo)** - A brand new DAW(n) for music production
 - 🎤 **[YT2Karaoke](https://github.com/mbianchidev/yt2karaoke)** - The must have for all good parties, convert youtube videos into karaoke experiences (powered by track2stem)
@@ -93,7 +96,7 @@ The full catalog, with live apps and websites, is on [synctune.it/projects](http
 </details>
 
 <details>
-<summary><b>💰 Productivity & Finance</b>: Fire Tools, Fiscal Fox, Denote, LaTeX Editor, ImgTools, PDFTools, Eisen Todo</summary>
+<summary><b>💰 Productivity & Finance</b></summary>
 
 - 💰 **[Fire Tools](https://github.com/fire-tools-inc/app)** - Your personal finance copilot without AI, but also a portfolio tracking tool, completely self-hosted, privacy first
 - 🦊 **Fiscal Fox** - A self-hosted accounting software: invoicing, contracts, quotations, expenses/receipts, time and trip tracking... Ideal for freelancers and small businesses
@@ -106,7 +109,7 @@ The full catalog, with live apps and websites, is on [synctune.it/projects](http
 </details>
 
 <details>
-<summary><b>🎓 Education / Career</b>: Go, get a job!, Engineering Interviews, Platform Engineering Roadmap, Cloud Native Days, Platform Engineering Manifesto</summary>
+<summary><b>🎓 Education / Career</b></summary>
 
 - 🔮 **Go, get a job!** - A tool to track your applications that optimizes resumes for Applicant Tracking Systems and... it does more too
 - 🧑‍💻 **[Engineering Interviews](https://github.com/mbianchidev/engineering-interviews)** - Practice platform for System Design and Engineering interviews
@@ -117,7 +120,7 @@ The full catalog, with live apps and websites, is on [synctune.it/projects](http
 </details>
 
 <details>
-<summary><b>🎮 Games & misc</b>: 2DnD, Dungeons n Scrolls, Eidar the Miner, Blockster 2D, mbianchi.dev</summary>
+<summary><b>🎮 Games & misc</b></summary>
 
 - 🎮 **[2DnD](https://github.com/mbianchidev/2dnd)** - A 2D game based on D&D, duh
 - 📜 **[Dungeons n Scrolls](https://github.com/synctune-gaming/dungeons-n-scrolls)** - A pixel-art roguelike where scrolling gets you rewards, or death
