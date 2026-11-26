@@ -67,7 +67,7 @@ The full catalog, with live apps and websites, is on [synctune.it/projects](http
 - 🚢 **[Porto](https://github.com/porto-containers/porto)** - A drop in replacement for orbstack, but also a self-hosted orchestrator for homelabs
 - 🏙️ **Selfhosted City** - Turns MacBooks and Windows PCs into free GitHub Actions self-hosted runners for private repos and orgs: ephemeral VMs via Porto, Windows and WSL2 services, or ARC on Kubernetes, with a local dashboard
 - 🗃️ **[SQL not-so-lite](https://github.com/mbianchidev/sql-not-so-lite)** - Lightweight SQLite-as-a-service daemon with gRPC API and web GUI
-- 🪶 **etcqlite** - An etcd store backed by SQLite, with a non-Raft clustered mode
+- 🪶 **[etcqlite](https://github.com/mbianchidev/etcqlite)** - An etcd store backed by SQLite, with a non-Raft clustered mode
 - 🌻 **Open Field Engineer** - A specialized harness and superapp for pre and post sales work
 - 🚢 **[Shipwatch](https://github.com/mbianchidev/shipwatch)** - Tiny macOS menu bar app watching releases, CI, issues, PRs and vulnerabilities
 - 💀 **[Kill-switch](https://github.com/mbianchidev/kill-switch)** - A low footprint resource manager and utility for MacOS
